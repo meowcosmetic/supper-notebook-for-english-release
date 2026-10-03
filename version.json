@@ -1,9 +1,9 @@
 {
-  "version": "1.3.9",
-  "versionCode": 30,
+  "version": "1.4.0",
+  "versionCode": 31,
   "releaseDate": "2026-10-03",
-  "releaseNotes": "Nâng cấp giao diện tìm kiếm TOEIC dạng thẻ độc lập cao cấp, cơ chế Anchor Scroll Lock chống trôi câu hỏi và cập nhật DOM in-place mượt mà.",
-  "bundleUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.3.9/web-bundle.zip",
-  "apkUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.3.9/SuperNotebook-v1.3.9.apk",
+  "releaseNotes": "Tối ưu hóa hoàn toàn luồng cập nhật trên Android: Tự động phát hiện môi trường Native APK, tải và cài đặt đè trực tiếp, chống lặp dialog và tích hợp hệ thống tải xuống DownloadManager.",
+  "bundleUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.0/web-bundle.zip",
+  "apkUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.0/SuperNotebook-v1.4.0.apk",
   "forceApkUpdate": true
 }
