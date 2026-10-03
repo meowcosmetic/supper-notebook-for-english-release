@@ -1,9 +1,9 @@
 {
-  "version": "1.4.1",
-  "versionCode": 32,
+  "version": "1.4.2",
+  "versionCode": 33,
   "releaseDate": "2026-10-03",
-  "releaseNotes": "Fix triệt để đóng gói APK chuẩn v1.4.1 (11 MB): Tích hợp trực tiếp bản build Gradle, hỗ trợ tải APK tự động qua DownloadManager và sửa lỗi trôi layout TOEIC.",
-  "bundleUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.1/web-bundle.zip",
-  "apkUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.1/SuperNotebook-v1.4.1.apk",
+  "releaseNotes": "Bản cập nhật v1.4.2: Tối ưu hoá luồng thông báo cập nhật, hoàn thiện hệ thống nạp tải file APK qua DownloadManager.",
+  "bundleUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.2/web-bundle.zip",
+  "apkUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.2/SuperNotebook-v1.4.2.apk",
   "forceApkUpdate": true
 }
