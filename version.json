@@ -1,9 +1,9 @@
 {
-  "version": "1.3.7",
-  "versionCode": 27,
+  "version": "1.3.8",
+  "versionCode": 29,
   "releaseDate": "2026-10-03",
-  "releaseNotes": "Tối ưu hóa toàn diện giao diện di động: Tinh gọn tìm kiếm đề & từ vựng, thu gọn thanh danh mục trượt ngang, thanh offline compact, giải quyết triệt để tràn nút bấm và tối ưu phần giải thích chi tiết.",
-  "bundleUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.3.7/web-bundle.zip",
-  "apkUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.3.7/SuperNotebook-v1.3.7.apk",
+  "releaseNotes": "Bổ sung nút tắt & khám phá trước cho onboarding modal; tối ưu truy cập tự do cho người dùng mới; hoàn thiện toàn diện giao diện di động TOEIC & Live Update.",
+  "bundleUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.3.8/web-bundle.zip",
+  "apkUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.3.8/SuperNotebook-v1.3.8.apk",
   "forceApkUpdate": false
 }
