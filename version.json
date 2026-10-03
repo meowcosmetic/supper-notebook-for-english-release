@@ -5,5 +5,5 @@
   "releaseNotes": "Nâng cấp giao diện tìm kiếm TOEIC dạng thẻ độc lập cao cấp, cơ chế Anchor Scroll Lock chống trôi câu hỏi và cập nhật DOM in-place mượt mà.",
   "bundleUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.3.9/web-bundle.zip",
   "apkUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.3.9/SuperNotebook-v1.3.9.apk",
-  "forceApkUpdate": false
+  "forceApkUpdate": true
 }
