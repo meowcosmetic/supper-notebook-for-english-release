@@ -1,9 +1,9 @@
 {
-  "version": "1.4.4",
-  "versionCode": 35,
-  "releaseDate": "2026-10-03",
-  "releaseNotes": "Bản cập nhật v1.4.4: Hoàn thiện tính năng cập nhật trực tiếp trong ứng dụng (In-app Update) mượt mà.",
-  "bundleUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.4/web-bundle.zip",
-  "apkUrl": "https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.4/SuperNotebook-v1.4.4.apk",
+  "version": "1.4.10",
+  "versionCode": 41,
+  "releaseDate": "2026-10-04",
+  "releaseNotes": "Bản cập nhật Super Notebook v1.4.10.",
+  "apkUrl": "https://raw.githubusercontent.com/meowcosmetic/supper-notebook-for-english-release/main/SuperNotebook-v1.4.10.apk",
+  "apkChecksumUrl": "https://raw.githubusercontent.com/meowcosmetic/supper-notebook-for-english-release/main/SuperNotebook-v1.4.10.apk.sha256",
   "forceApkUpdate": true
 }
