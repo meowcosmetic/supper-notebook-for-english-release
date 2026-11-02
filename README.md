@@ -19,10 +19,10 @@ Kho lưu trữ phân phối chính thức bộ cài đặt **Android APK** và b
 
 | Thông Tin | Chi Tiết |
 | :--- | :--- |
-| 🚀 **Phiên bản mới nhất** | `v1.4.19` (versionCode `50`) |
+| 🚀 **Phiên bản mới nhất** | `v1.4.20` (versionCode `51`) |
 | 📦 **Dung lượng APK** | `~11.8 MB` |
-| ⬇️ **Liên kết tải trực tiếp** | [**👉 Tải SuperNotebook-v1.4.19.apk**](https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.19/SuperNotebook-v1.4.19.apk) |
-| 🔒 **Mã xác thực SHA256** | [`SuperNotebook-v1.4.19.apk.sha256`](./SuperNotebook-v1.4.19.apk.sha256) |
+| ⬇️ **Liên kết tải trực tiếp** | [**👉 Tải SuperNotebook-v1.4.20.apk**](https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.20/SuperNotebook-v1.4.20.apk) |
+| 🔒 **Mã xác thực SHA256** | [`SuperNotebook-v1.4.20.apk.sha256`](./SuperNotebook-v1.4.20.apk.sha256) |
 | 🏷️ **Toàn bộ bản phát hành** | [Xem danh sách tại GitHub Releases](https://github.com/meowcosmetic/supper-notebook-for-english-release/releases) |
 
 ---
@@ -39,7 +39,7 @@ Kho lưu trữ phân phối chính thức bộ cài đặt **Android APK** và b
 
 ## 📲 Hướng Dẫn Cài Đặt Android APK
 
-1. **Tải file:** Nhấn vào liên kết [**SuperNotebook-v1.4.19.apk**](https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.19/SuperNotebook-v1.4.19.apk) ở trên để tải file về điện thoại.
+1. **Tải file:** Nhấn vào liên kết [**SuperNotebook-v1.4.20.apk**](https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.20/SuperNotebook-v1.4.20.apk) ở trên để tải file về điện thoại.
 2. **Mở file:** Sau khi tải xong, nhấn vào thông báo tải về hoặc tìm file trong thư mục `Download` của máy.
 3. **Cấp quyền cài đặt (nếu máy hỏi):**
    - Nếu điện thoại hiện thông báo *"Cài đặt ứng dụng từ nguồn không xác định"* (Unknown Sources) ➔ Chọn **Cài đặt / Settings** ➔ Bật **Cho phép nguồn này / Allow from this source**.
