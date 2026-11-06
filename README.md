@@ -22,8 +22,8 @@
 | :--- | :--- |
 | 🚀 **Bản mới nhất** | `v1.4.20` (versionCode `51`) |
 | 📦 **Dung lượng file** | `~11.9 MB` |
-| ⬇️ **Link tải trực tiếp** | [**👉 SuperNotebook-v1.4.29.apk**](https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.29/SuperNotebook-v1.4.29.apk) |
-| 🔒 **Mã xác thực SHA256** | [`SuperNotebook-v1.4.29.apk.sha256`](./SuperNotebook-v1.4.29.apk.sha256) |
+| ⬇️ **Link tải trực tiếp** | [**👉 SuperNotebook-v1.4.30.apk**](https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.30/SuperNotebook-v1.4.30.apk) |
+| 🔒 **Mã xác thực SHA256** | [`SuperNotebook-v1.4.30.apk.sha256`](./SuperNotebook-v1.4.30.apk.sha256) |
 | 🏷️ **Tất cả bản release** | [Xem trên GitHub Releases](https://github.com/meowcosmetic/supper-notebook-for-english-release/releases) |
 
 ---
@@ -74,7 +74,7 @@
 
 ## 📲 Cách cài đặt trên Android
 
-1. Bấm vào link [**SuperNotebook-v1.4.29.apk**](https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.29/SuperNotebook-v1.4.29.apk) ở trên để tải file về máy.
+1. Bấm vào link [**SuperNotebook-v1.4.30.apk**](https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.30/SuperNotebook-v1.4.30.apk) ở trên để tải file về máy.
 2. Mở file vừa tải về (trong thông báo tải xong hoặc ứng dụng Quản lý tệp / Download).
 3. Nếu điện thoại hỏi *"Cho phép cài đặt từ nguồn này"* ➔ Bật **Cho phép**.
 4. Nếu Google Play Protect hiện cảnh báo (do app nội bộ tự đóng gói, chưa đưa lên Google Play Store) ➔ Bấm **Xem thêm / Chi tiết** ➔ Chọn **Vẫn cài đặt**.
