@@ -1,9 +1,9 @@
 {
-  "version": "1.4.30",
-  "versionCode": 61,
-  "releaseDate": "2026-11-06",
-  "releaseNotes": "Bản cập nhật Super Notebook v1.4.30.",
-  "apkUrl": "https://raw.githubusercontent.com/meowcosmetic/supper-notebook-for-english-release/main/SuperNotebook-v1.4.30.apk",
-  "apkChecksumUrl": "https://raw.githubusercontent.com/meowcosmetic/supper-notebook-for-english-release/main/SuperNotebook-v1.4.30.apk.sha256",
+  "version": "1.4.31",
+  "versionCode": 62,
+  "releaseDate": "2026-11-08",
+  "releaseNotes": "Bản cập nhật Super Notebook v1.4.31.",
+  "apkUrl": "https://raw.githubusercontent.com/meowcosmetic/supper-notebook-for-english-release/main/SuperNotebook-v1.4.31.apk",
+  "apkChecksumUrl": "https://raw.githubusercontent.com/meowcosmetic/supper-notebook-for-english-release/main/SuperNotebook-v1.4.31.apk.sha256",
   "forceApkUpdate": true
 }
