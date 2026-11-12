@@ -1,212 +1,6288 @@
 [
   {
-    "vocabulary": "greet",
-    "phonetic": "/ɡriːt/",
+    "vocabulary": "a",
+    "phonetic": "/eɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Một",
+    "exampleSentence": "It is a little speech that I have written for him."
+  },
+  {
+    "vocabulary": "about",
+    "phonetic": "/əˈbaʊt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "khoảng, về",
+    "exampleSentence": "Do you want to tell me about it?"
+  },
+  {
+    "vocabulary": "above",
+    "phonetic": "/əˈbəv/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "ở trên, lên trên",
+    "exampleSentence": "\"Yuck,\" he said barely above a whisper."
+  },
+  {
+    "vocabulary": "across",
+    "phonetic": "/əˈkrɔs/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "băng qua, qua, ngang qua",
+    "exampleSentence": "Could she make it across the lava field by herself?"
+  },
+  {
+    "vocabulary": "action",
+    "phonetic": "/ˈækʃ(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hành động, hành vi, tác động",
+    "exampleSentence": "This book is a call to action, not complacency."
+  },
+  {
+    "vocabulary": "activity",
+    "phonetic": "/ækˈtɪvədi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hoạt động",
+    "exampleSentence": "Their activity is off the charts."
+  },
+  {
+    "vocabulary": "actor",
+    "phonetic": "/ˈæktər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nam diễn viên",
+    "exampleSentence": "He was a spectator rather than an actor on the stage of the world."
+  },
+  {
+    "vocabulary": "actress",
+    "phonetic": "/ˈæktrəs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nữ diễn viên",
+    "exampleSentence": "Pretend like you're an actress, like Toni."
+  },
+  {
+    "vocabulary": "add",
+    "phonetic": "/æd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thêm vào",
+    "exampleSentence": "Once we have a sheriff's salary coming in, maybe we can add a little to their budget—until they get settled."
+  },
+  {
+    "vocabulary": "address",
+    "phonetic": "/əˈdrɛs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "địa chỉ, đề địa chỉ",
+    "exampleSentence": "My email address is in there, too."
+  },
+  {
+    "vocabulary": "adult",
+    "phonetic": "/əˈdəlt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "người lớn",
+    "exampleSentence": "Who's the adult here?"
+  },
+  {
+    "vocabulary": "advice",
+    "phonetic": "/ədˈvaɪs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khuyên bảo",
+    "exampleSentence": "The best advice I can give you is to try to relax."
+  },
+  {
+    "vocabulary": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "sợ",
+    "exampleSentence": "He was not afraid of anything."
+  },
+  {
+    "vocabulary": "after",
+    "phonetic": "/ˈæftər/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "sau",
+    "exampleSentence": "He has come after me."
+  },
+  {
+    "vocabulary": "afternoon",
+    "phonetic": "/ˌæftərˈnun/",
+    "wordType": "noun",
+    "vietnameseMeaning": "buổi chiều",
+    "exampleSentence": "Toward four o'clock in the afternoon Murat's troops were entering Moscow."
+  },
+  {
+    "vocabulary": "again",
+    "phonetic": "/əˈɡɛn/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "lần nữa",
+    "exampleSentence": "She fell asleep again when he left the room."
+  },
+  {
+    "vocabulary": "age",
+    "phonetic": "/eɪdʒ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tuổi",
+    "exampleSentence": "He sold his first painting at age fifteen – something like $17,000."
+  },
+  {
+    "vocabulary": "ago",
+    "phonetic": "/əˈɡoʊ/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "đã qua",
+    "exampleSentence": "This came in by currier a few minutes ago, sir."
+  },
+  {
+    "vocabulary": "agree",
+    "phonetic": "/əˈɡri/",
     "wordType": "verb",
-    "vietnameseMeaning": "Chào hỏi, đón chào",
-    "exampleSentence": "We always greet our new neighbors with a friendly smile."
+    "vietnameseMeaning": "đồng ý, tán thành",
+    "exampleSentence": "We both agree that you need to get out of this place for a while."
   },
   {
-    "vocabulary": "schedule",
-    "phonetic": "/ˈskedʒ.uːl/",
+    "vocabulary": "air",
+    "phonetic": "/ɛr/",
     "wordType": "noun",
-    "vietnameseMeaning": "Lịch trình, thời gian biểu",
-    "exampleSentence": "I check my daily study schedule every morning."
+    "vietnameseMeaning": "không khí",
+    "exampleSentence": "She paused, sucking in a deep breath, and then threw her hands in the air in defeat."
   },
   {
-    "vocabulary": "routine",
-    "phonetic": "/ruːˈtiːn/",
+    "vocabulary": "airport",
+    "phonetic": "/ˈɛrˌpɔrt/",
     "wordType": "noun",
-    "vietnameseMeaning": "Thói quen, lịch sinh hoạt hằng ngày",
-    "exampleSentence": "A healthy morning routine gives me energy for the whole day."
+    "vietnameseMeaning": "sân bay, phi trường",
+    "exampleSentence": "With everything going on, Carmen didn't have time to worry about flying, but when they were all sitting at the airport, she finally had time to stew over it."
   },
   {
-    "vocabulary": "polite",
-    "phonetic": "/pəˈlaɪt/",
+    "vocabulary": "all",
+    "phonetic": "/ɔl/",
     "wordType": "adjective",
-    "vietnameseMeaning": "Lịch sự, lễ phép",
-    "exampleSentence": "It is polite to say thank you when someone helps you."
+    "vietnameseMeaning": "tất cả",
+    "exampleSentence": "First of all, I wasn't the only one involved."
   },
   {
-    "vocabulary": "grateful",
-    "phonetic": "/ˈɡreɪt.fəl/",
-    "wordType": "adjective",
-    "vietnameseMeaning": "Biết ơn, cảm kích",
-    "exampleSentence": "I am grateful for the warm support from my family."
+    "vocabulary": "also",
+    "phonetic": "/ˈɔlsoʊ/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "cũng, cũng vậy, cũng thế",
+    "exampleSentence": "Aside from packing, there was also decorating to be done."
   },
   {
-    "vocabulary": "delicious",
-    "phonetic": "/dɪˈlɪʃ.əs/",
+    "vocabulary": "always",
+    "phonetic": "/ˈɔlˌweɪz/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "luôn luôn",
+    "exampleSentence": "You've always taken care of us."
+  },
+  {
+    "vocabulary": "amazing",
+    "phonetic": "/əˈmeɪzɪŋ/",
     "wordType": "adjective",
-    "vietnameseMeaning": "Thơm ngon",
-    "exampleSentence": "My mother cooked a delicious vegetable soup for lunch."
+    "vietnameseMeaning": "kinh ngạc",
+    "exampleSentence": "It was amazing how a person could change."
+  },
+  {
+    "vocabulary": "and",
+    "phonetic": "/ænd/",
+    "wordType": "conjunction",
+    "vietnameseMeaning": "và",
+    "exampleSentence": "The boy laughed cheerfully and jumped out."
+  },
+  {
+    "vocabulary": "angry",
+    "phonetic": "/ˈæŋɡri/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "giận",
+    "exampleSentence": "They were angry because their plans had been discovered."
+  },
+  {
+    "vocabulary": "animal",
+    "phonetic": "/ˈænəməl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "động vật",
+    "exampleSentence": "I went to college and studied animal husbandry."
+  },
+  {
+    "vocabulary": "another",
+    "phonetic": "/əˈnəðər/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "khác",
+    "exampleSentence": "Let's try another one."
+  },
+  {
+    "vocabulary": "answer",
+    "phonetic": "/ˈænsər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "câu trả lời",
+    "exampleSentence": "He put her answer down in his note book."
+  },
+  {
+    "vocabulary": "any",
+    "phonetic": "/ˈɛni/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "bất kì",
+    "exampleSentence": "Alex had invited her to look at his financial files any time she wanted, and yet it seemed an intrusion on his privacy."
+  },
+  {
+    "vocabulary": "anyone",
+    "phonetic": "/ˈɛniˌwən/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "bất kỳ ai",
+    "exampleSentence": "I don't think anyone was timing me."
+  },
+  {
+    "vocabulary": "anything",
+    "phonetic": "/ˈɛniˌθɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bất cứ điều gì",
+    "exampleSentence": "He does not like to do anything else."
+  },
+  {
+    "vocabulary": "apartment",
+    "phonetic": "/əˈpɑrtmənt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "căn hộ",
+    "exampleSentence": "Now that the truth was out, maybe it wouldn't be so difficult to live in the same apartment now."
+  },
+  {
+    "vocabulary": "apple",
+    "phonetic": "/ˈæpəl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "quả táo",
+    "exampleSentence": "Is that apple pie I smell?"
+  },
+  {
+    "vocabulary": "april",
+    "phonetic": "/ˈeɪprəl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tháng Tư",
+    "exampleSentence": "In April, Rostov was on orderly duty."
+  },
+  {
+    "vocabulary": "area",
+    "phonetic": "/ˈɛriə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khu vực",
+    "exampleSentence": "No more so than the area round the house."
+  },
+  {
+    "vocabulary": "arm",
+    "phonetic": "/ɑrm/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cánh tay",
+    "exampleSentence": "She touched his arm and he glanced up."
+  },
+  {
+    "vocabulary": "around",
+    "phonetic": "/əˈraʊnd/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "xung quanh",
+    "exampleSentence": "He put an arm around her waist and kissed her cheek."
+  },
+  {
+    "vocabulary": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đến nơi",
+    "exampleSentence": "We expect visitors to arrive soon."
+  },
+  {
+    "vocabulary": "art",
+    "phonetic": "/ɑrt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nghệ thuật",
+    "exampleSentence": "Last week I visited a beautiful art store."
+  },
+  {
+    "vocabulary": "article",
+    "phonetic": "/ˈɑrdək(ə)l/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bài báo",
+    "exampleSentence": "The newspaper included a photo with the article about the wreck."
+  },
+  {
+    "vocabulary": "artist",
+    "phonetic": "/ˈɑrdəst/",
+    "wordType": "noun",
+    "vietnameseMeaning": "họa sĩ",
+    "exampleSentence": "Everyone wanted to meet the artist and discuss the work they were interested in."
+  },
+  {
+    "vocabulary": "as",
+    "phonetic": "/æz/",
+    "wordType": "conjunction",
+    "vietnameseMeaning": "như",
+    "exampleSentence": "She's as perfect as she can be."
+  },
+  {
+    "vocabulary": "ask",
+    "phonetic": "/æsk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "hỏi",
+    "exampleSentence": "I didn't ask about his family tree."
+  },
+  {
+    "vocabulary": "at",
+    "phonetic": "/æt/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "ở tại (chỉ vị trí, khoảng cách)",
+    "exampleSentence": "He was not hurt at all."
+  },
+  {
+    "vocabulary": "august",
+    "phonetic": "/ɔˈɡəst/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "tháng Tám",
+    "exampleSentence": "The doctor set a due date of August 17th."
+  },
+  {
+    "vocabulary": "aunt",
+    "phonetic": "/ænt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cô, dì",
+    "exampleSentence": "We kept in touch with Aunt Clara."
+  },
+  {
+    "vocabulary": "autumn",
+    "phonetic": "/ˈɔdəm/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mùa thu",
+    "exampleSentence": "It was a clear bright autumn day, a Sunday."
+  },
+  {
+    "vocabulary": "away",
+    "phonetic": "/əˈweɪ/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "đi",
+    "exampleSentence": "One wicked witch named Mombi stole him and carried him away, keeping him as a prisoner."
+  },
+  {
+    "vocabulary": "baby",
+    "phonetic": "/ˈbeɪbi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "em bé",
+    "exampleSentence": "How pretty the baby was!"
+  },
+  {
+    "vocabulary": "back",
+    "phonetic": "/bæk/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "mặt sau",
+    "exampleSentence": "Do you have to go back right away?"
+  },
+  {
+    "vocabulary": "bad",
+    "phonetic": "/bæd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "hư, xấu, dở, tệ",
+    "exampleSentence": "No. I just had a bad dream."
+  },
+  {
+    "vocabulary": "bag",
+    "phonetic": "/bæɡ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cái túi",
+    "exampleSentence": "He had a bag in one hand."
+  },
+  {
+    "vocabulary": "ball",
+    "phonetic": "/bɔl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "quả bóng; buổi vũ hội",
+    "exampleSentence": "Julie never missed a ball, a promenade, or a play."
+  },
+  {
+    "vocabulary": "banana",
+    "phonetic": "/bəˈnænə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "trái chuối",
+    "exampleSentence": "While Dean stretched his muscles and alternated between bites of peanut butter sandwich and a banana, Fred perused the rest of the master lists."
+  },
+  {
+    "vocabulary": "band",
+    "phonetic": "/bænd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ban nhạc",
+    "exampleSentence": "A live band started playing a waltz and he dropped a hand to her waist."
+  },
+  {
+    "vocabulary": "bank",
+    "phonetic": "/bæŋk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ngân hàng",
+    "exampleSentence": "A bank of clouds was building to the northeast."
+  },
+  {
+    "vocabulary": "bath",
+    "phonetic": "/bæθ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tắm",
+    "exampleSentence": "The warm bubble bath was relaxing."
+  },
+  {
+    "vocabulary": "bathroom",
+    "phonetic": "/ˈbæθˌrum/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phòng tắm",
+    "exampleSentence": "She cleaned up and left the bathroom, freezing."
+  },
+  {
+    "vocabulary": "be",
+    "phonetic": "/bi/",
+    "wordType": "verb",
+    "vietnameseMeaning": "thì, là",
+    "exampleSentence": "\"I couldn't be here if it wasn't,\" she said."
+  },
+  {
+    "vocabulary": "beach",
+    "phonetic": "/bitʃ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bãi biển",
+    "exampleSentence": "There is a lovely beach that stretches miles along the blue Atlantic."
+  },
+  {
+    "vocabulary": "beautiful",
+    "phonetic": "/ˈbjudəfəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "đẹp",
+    "exampleSentence": "It's such a beautiful day."
+  },
+  {
+    "vocabulary": "because",
+    "phonetic": "/biˈkəz/",
+    "wordType": "conjunction",
+    "vietnameseMeaning": "bởi vì",
+    "exampleSentence": "I think he felt included because he was helping as much as we were."
+  },
+  {
+    "vocabulary": "become",
+    "phonetic": "/bəˈkəm/",
+    "wordType": "verb",
+    "vietnameseMeaning": "trở thành",
+    "exampleSentence": "It's the only way for him to become a vamp."
+  },
+  {
+    "vocabulary": "bed",
+    "phonetic": "/bɛd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cái giường",
+    "exampleSentence": "He sat up in the bed and looked around."
+  },
+  {
+    "vocabulary": "bedroom",
+    "phonetic": "/ˈbɛdˌrum/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phòng ngủ",
+    "exampleSentence": "She retreated to her bedroom to grab her purse."
+  },
+  {
+    "vocabulary": "beer",
+    "phonetic": "/bɪr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bia",
+    "exampleSentence": "When he spoke, it didn't sound as if either beer was his first."
+  },
+  {
+    "vocabulary": "before",
+    "phonetic": "/bəˈfɔr/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "trước đây",
+    "exampleSentence": "Let's go do the chores one last time before we leave."
+  },
+  {
+    "vocabulary": "begin",
+    "phonetic": "/bɪˈɡɪn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bắt đầu",
+    "exampleSentence": "Pierre was about to begin reading."
+  },
+  {
+    "vocabulary": "beginning",
+    "phonetic": "/bəˈɡɪnɪŋ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "đầu",
+    "exampleSentence": "She gazed up at him, her heart beginning to flutter."
+  },
+  {
+    "vocabulary": "behind",
+    "phonetic": "/bəˈhaɪnd/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "phía sau",
+    "exampleSentence": "He peered behind her."
+  },
+  {
+    "vocabulary": "believe",
+    "phonetic": "/bəˈliv/",
+    "wordType": "verb",
+    "vietnameseMeaning": "tin",
+    "exampleSentence": "I can't believe I've finally found you."
+  },
+  {
+    "vocabulary": "below",
+    "phonetic": "/bəˈloʊ/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "phía dưới",
+    "exampleSentence": "The dealers stuck below are flipping out."
+  },
+  {
+    "vocabulary": "best",
+    "phonetic": "/bɛst/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "tốt",
+    "exampleSentence": "Betsy and Martha, now practically best friends, conspired together against the rest of us until they owned most of the board."
+  },
+  {
+    "vocabulary": "better",
+    "phonetic": "/ˈbɛdər/",
+    "wordType": "verb",
+    "vietnameseMeaning": "tốt hơn",
+    "exampleSentence": "Better stop by and get Howard Spencer."
+  },
+  {
+    "vocabulary": "between",
+    "phonetic": "/bəˈtwin/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Ở giữa",
+    "exampleSentence": "People passing between them were a blur."
+  },
+  {
+    "vocabulary": "bicycle",
+    "phonetic": "/ˈbaɪsək(ə)l/",
+    "wordType": "verb",
+    "vietnameseMeaning": "xe đạp",
+    "exampleSentence": "The boy no doubt inherits a capacity for riding a bicycle, otherwise he could never do so."
+  },
+  {
+    "vocabulary": "big",
+    "phonetic": "/bɪɡ/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "lớn",
+    "exampleSentence": "That would be a big help."
+  },
+  {
+    "vocabulary": "bike",
+    "phonetic": "/baɪk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "xe đạp",
+    "exampleSentence": "The bike comes out tomorrow."
+  },
+  {
+    "vocabulary": "bill",
+    "phonetic": "/bɪl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "hóa đơn",
+    "exampleSentence": "I paid the electric and water bill this week."
+  },
+  {
+    "vocabulary": "bird",
+    "phonetic": "/bərd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "con chim",
+    "exampleSentence": "Some large bird has stolen it from his palace."
+  },
+  {
+    "vocabulary": "birthday",
+    "phonetic": "/ˈbərθˌdeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sinh nhật",
+    "exampleSentence": "That was the best birthday ever."
+  },
+  {
+    "vocabulary": "black",
+    "phonetic": "/blæk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "màu đen",
+    "exampleSentence": "It's just a black snake."
+  },
+  {
+    "vocabulary": "blog",
+    "phonetic": "/blɑɡ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Blog",
+    "exampleSentence": "It's a blog this doctor guy keeps."
+  },
+  {
+    "vocabulary": "blonde",
+    "phonetic": "/blɒnd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': 'A blond woman or girl.', 'vi': 'Một phụ nữ hoặc cô gái tóc vàng.'}, {'pos': 'adjective', 'en': 'The definition of blonde is something that is light or yellow colored, especially a woman’s hair.', 'vi': 'Định nghĩa về tóc vàng là thứ có màu sáng hoặc vàng, đặc biệt là tóc của phụ nữ.'}",
+    "exampleSentence": "The blonde teacher was staring at her."
+  },
+  {
+    "vocabulary": "blue",
+    "phonetic": "/blu/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "màu xanh da trời",
+    "exampleSentence": "She handed him a light blue shirt."
+  },
+  {
+    "vocabulary": "boat",
+    "phonetic": "/boʊt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "thuyền",
+    "exampleSentence": "He made a boat for himself."
+  },
+  {
+    "vocabulary": "body",
+    "phonetic": "/ˈbɑdi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thân, mình",
+    "exampleSentence": "Every muscle in her body was sore."
+  },
+  {
+    "vocabulary": "book",
+    "phonetic": "/bʊk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cuốn sách",
+    "exampleSentence": "A coloring book and crayons kept her busy while they worked and talked."
+  },
+  {
+    "vocabulary": "boot",
+    "phonetic": "/but/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khởi động",
+    "exampleSentence": "She kicked his boot under the table."
+  },
+  {
+    "vocabulary": "bored",
+    "phonetic": "/bɔrd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chán, chán nản",
+    "exampleSentence": "I'm not bored, but it is getting late."
+  },
+  {
+    "vocabulary": "boring",
+    "phonetic": "/ˈbɔrɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tẻ nhạt, nhạt nhẽo",
+    "exampleSentence": "I must be boring you to death."
+  },
+  {
+    "vocabulary": "born",
+    "phonetic": "/bɔrn/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "sinh ra",
+    "exampleSentence": "The accent says otherwise, but I was born in New York."
+  },
+  {
+    "vocabulary": "both",
+    "phonetic": "/boʊθ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "cả hai",
+    "exampleSentence": "I liked them both very much."
+  },
+  {
+    "vocabulary": "bottle",
+    "phonetic": "/ˈbɑdl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "chai",
+    "exampleSentence": "Another bottle! he shouted."
+  },
+  {
+    "vocabulary": "box",
+    "phonetic": "/bɑks/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cái hộp",
+    "exampleSentence": "Her jewelry box was tiny and wooden."
+  },
+  {
+    "vocabulary": "boy",
+    "phonetic": "/bɔɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bé trai",
+    "exampleSentence": "I could see a man and a boy some distance away, pitching hay into a horse drawn wagon."
+  },
+  {
+    "vocabulary": "boyfriend",
+    "phonetic": "/ˈbɔɪˌfrɛnd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bạn trai",
+    "exampleSentence": "I don't have a boyfriend."
+  },
+  {
+    "vocabulary": "bread",
+    "phonetic": "/brɛd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bánh mỳ",
+    "exampleSentence": "I guess I owe them a lot more than bread then."
+  },
+  {
+    "vocabulary": "break",
+    "phonetic": "/breɪk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "phá vỡ",
+    "exampleSentence": "If you break it, you replace it."
   },
   {
     "vocabulary": "breakfast",
-    "phonetic": "/ˈbrek.fəst/",
+    "phonetic": "/ˈbrɛkfəst/",
     "wordType": "noun",
-    "vietnameseMeaning": "Bữa ăn sáng",
-    "exampleSentence": "Having a balanced breakfast helps you stay focused at school."
+    "vietnameseMeaning": "bữa ăn sáng",
+    "exampleSentence": "Sit down and have breakfast with us."
   },
   {
-    "vocabulary": "habit",
-    "phonetic": "/ˈhæb.ɪt/",
+    "vocabulary": "bring",
+    "phonetic": "/brɪŋ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "mang đến",
+    "exampleSentence": "Bring my car around."
+  },
+  {
+    "vocabulary": "brother",
+    "phonetic": "/ˈbrəðər/",
+    "wordType": "interjection",
+    "vietnameseMeaning": "anh trai",
+    "exampleSentence": "She remembered her brother and his love."
+  },
+  {
+    "vocabulary": "brown",
+    "phonetic": "/braʊn/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "màu nâu",
+    "exampleSentence": "He met Bianca's beautiful brown eyes."
+  },
+  {
+    "vocabulary": "build",
+    "phonetic": "/bɪld/",
+    "wordType": "verb",
+    "vietnameseMeaning": "xây dựng",
+    "exampleSentence": "He paused, to build the suspense."
+  },
+  {
+    "vocabulary": "building",
+    "phonetic": "/ˈbɪldɪŋ/",
     "wordType": "noun",
-    "vietnameseMeaning": "Thói quen tích cực",
-    "exampleSentence": "Reading ten pages of a book every evening is a great habit."
+    "vietnameseMeaning": "tòa nhà",
+    "exampleSentence": "I left the building for home."
   },
   {
-    "vocabulary": "punctual",
-    "phonetic": "/ˈpʌŋk.tʃu.əl/",
-    "wordType": "adjective",
-    "vietnameseMeaning": "Đúng giờ",
-    "exampleSentence": "He is always punctual for all morning classes."
+    "vocabulary": "bus",
+    "phonetic": "/bəs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "xe buýt",
+    "exampleSentence": "We took the bus to Kansas."
   },
   {
-    "vocabulary": "quiet",
-    "phonetic": "/ˈkwaɪ.ət/",
-    "wordType": "adjective",
-    "vietnameseMeaning": "Yên tĩnh, thanh bình",
-    "exampleSentence": "The local library is a quiet place to read books."
+    "vocabulary": "business",
+    "phonetic": "/ˈbɪznəs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "kinh doanh",
+    "exampleSentence": "I mean, I could still have my business in town."
   },
   {
-    "vocabulary": "friendly",
-    "phonetic": "/ˈfrend.li/",
+    "vocabulary": "busy",
+    "phonetic": "/ˈbɪzi/",
     "wordType": "adjective",
-    "vietnameseMeaning": "Thân thiện, hòa đồng",
-    "exampleSentence": "Our new classmate is very friendly and kind to everyone."
+    "vietnameseMeaning": "bận rộn",
+    "exampleSentence": "It's a large and busy hotel."
   },
   {
-    "vocabulary": "tidy",
-    "phonetic": "/ˈtaɪ.di/",
+    "vocabulary": "but",
+    "phonetic": "/bət/",
+    "wordType": "conjunction",
+    "vietnameseMeaning": "nhưng",
+    "exampleSentence": "She objected at first, but finally submitted."
+  },
+  {
+    "vocabulary": "butter",
+    "phonetic": "/ˈbədər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bơ",
+    "exampleSentence": "It's peanut butter and jelly."
+  },
+  {
+    "vocabulary": "buy",
+    "phonetic": "/baɪ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "mua",
+    "exampleSentence": "I decided to buy it."
+  },
+  {
+    "vocabulary": "by",
+    "phonetic": "/baɪ/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "gần, cạnh, kế, bên",
+    "exampleSentence": "I guess he was stunned by my beauty."
+  },
+  {
+    "vocabulary": "bye",
+    "phonetic": "/baɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "từ biệt",
+    "exampleSentence": "He'd already said good bye to all of them earlier."
+  },
+  {
+    "vocabulary": "cafe",
+    "phonetic": "/kæˈfeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "quán cà phê",
+    "exampleSentence": "He hopped into the car, directing her to the small Cafe a few miles down the road."
+  },
+  {
+    "vocabulary": "cake",
+    "phonetic": "/keɪk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Cake",
+    "exampleSentence": "It's about cake decorating."
+  },
+  {
+    "vocabulary": "call",
+    "phonetic": "/kɔl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "gọi điện",
+    "exampleSentence": "He was going to call the doctor."
+  },
+  {
+    "vocabulary": "camera",
+    "phonetic": "/ˈkæm(ə)rə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "máy ảnh",
+    "exampleSentence": "Tell me there's a camera out there!"
+  },
+  {
+    "vocabulary": "can",
+    "phonetic": "/kæn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "có thể",
+    "exampleSentence": "Can you watch the house for me while I'm gone?"
+  },
+  {
+    "vocabulary": "cannot",
+    "phonetic": "/kəˈnɑt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "không thể",
+    "exampleSentence": "I cannot believe the price of the tickets!"
+  },
+  {
+    "vocabulary": "capital",
+    "phonetic": "/ˈkæpədl/",
     "wordType": "adjective",
-    "vietnameseMeaning": "Gọn gàng, ngăn nắp",
-    "exampleSentence": "She keeps her study desk tidy and organized."
+    "vietnameseMeaning": "thủ đô",
+    "exampleSentence": "The capital was the center of the commercial activities."
+  },
+  {
+    "vocabulary": "car",
+    "phonetic": "/kɑr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "xe hơi",
+    "exampleSentence": "Her car was in full view."
+  },
+  {
+    "vocabulary": "card",
+    "phonetic": "/kɑrd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thẻ",
+    "exampleSentence": "They sat on the bed, playing a card game."
+  },
+  {
+    "vocabulary": "career",
+    "phonetic": "/kəˈrɪr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nghề nghiệp",
+    "exampleSentence": "You know how important my career is to me."
+  },
+  {
+    "vocabulary": "carrot",
+    "phonetic": "/ˈkɛrət/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cà rốt",
+    "exampleSentence": "Sow Early Horn carrot; also kidney beans and radishes, on hotbeds."
+  },
+  {
+    "vocabulary": "carry",
+    "phonetic": "/ˈkɛri/",
+    "wordType": "verb",
+    "vietnameseMeaning": "mang, vác",
+    "exampleSentence": "Where do you carry your gold?"
+  },
+  {
+    "vocabulary": "cat",
+    "phonetic": "/kæt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "con mèo",
+    "exampleSentence": "I think the cat wants dessert!"
+  },
+  {
+    "vocabulary": "cd",
+    "phonetic": "/ˌsiˈdi/",
+    "wordType": "abbreviation",
+    "vietnameseMeaning": "đĩa com-pắc ( compact disc )",
+    "exampleSentence": "If these lines be turned through a right angle in the same sense, they take up positions such as CC, DID, where C, D are on JC, JD, respectively, and CD is parallel to CD."
+  },
+  {
+    "vocabulary": "cent",
+    "phonetic": "/sɛnt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "xu",
+    "exampleSentence": "The light dues were reduced in 1898 from 22 cents to 1 cent per ton."
+  },
+  {
+    "vocabulary": "centre",
+    "phonetic": "/ˈsɛntə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': 'Center.', 'vi': 'Trung tâm.'}, {'pos': 'proper name', 'en': '(place) Metropolitan region of central France, southwest of Paris: 15,116 sq mi (39,150 sq km); chief city, Orléans.', 'vi': '(địa điểm) Vùng đô thị miền trung nước Pháp, phía tây nam Paris: 15.116 sq mi (39.150 sq km); thành phố trưởng, Orléans.'}, {'pos': 'verb', 'en': 'UK, Ireland, Canada, Australia, and New Zealand spelling of center.', 'vi': 'Cách viết trung tâm của Vương quốc Anh, Ireland, Canada, Úc và New Zealand.'}, {'pos': 'pronoun', 'en': 'A région of France.', 'vi': 'Một région của Pháp.'}",
+    "exampleSentence": "The largest of these is situated in the centre of Cheduba island."
+  },
+  {
+    "vocabulary": "century",
+    "phonetic": "/ˈsɛn(t)ʃ(ə)ri/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thế kỷ",
+    "exampleSentence": "We're living in the 21st century, Mary."
+  },
+  {
+    "vocabulary": "chair",
+    "phonetic": "/tʃɛr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cái ghế",
+    "exampleSentence": "He leaned forward in his chair, sobering."
+  },
+  {
+    "vocabulary": "change",
+    "phonetic": "/tʃeɪndʒ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thay đổi",
+    "exampleSentence": "Sometimes we have to accept change, if we want to move forward."
+  },
+  {
+    "vocabulary": "chart",
+    "phonetic": "/tʃɑrt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đồ thị",
+    "exampleSentence": "He dropped her chart on the table."
+  },
+  {
+    "vocabulary": "cheap",
+    "phonetic": "/tʃip/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "rẻ tiền",
+    "exampleSentence": "cheap imports/flights"
+  },
+  {
+    "vocabulary": "check",
+    "phonetic": "/tʃɛk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "(danh từ) hóa đơn; (động từ) kiểm tra",
+    "exampleSentence": "Why not check it out?"
+  },
+  {
+    "vocabulary": "cheese",
+    "phonetic": "/tʃiz/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phô mai",
+    "exampleSentence": "What kind of cheese did you use in the omelet?"
+  },
+  {
+    "vocabulary": "chicken",
+    "phonetic": "/ˈtʃɪkən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "gà; thịt gà",
+    "exampleSentence": "It smelled of chicken and rice and something sweet."
+  },
+  {
+    "vocabulary": "child",
+    "phonetic": "/tʃaɪld/",
+    "wordType": "noun",
+    "vietnameseMeaning": "trẻ em",
+    "exampleSentence": "This child has a wonderful gift."
+  },
+  {
+    "vocabulary": "chocolate",
+    "phonetic": "/ˈtʃɑk(ə)lət/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "sô cô la",
+    "exampleSentence": "The hot chocolate did its job, but not until well after five o'clock."
+  },
+  {
+    "vocabulary": "choose",
+    "phonetic": "/tʃuz/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chọn",
+    "exampleSentence": "I had hoped he'd choose your sister."
+  },
+  {
+    "vocabulary": "cinema",
+    "phonetic": "/ˈsɪnəmə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "rạp chiếu phim",
+    "exampleSentence": "The cinema out in the shopping mall has a 9:40 show."
+  },
+  {
+    "vocabulary": "city",
+    "phonetic": "/ˈsɪdi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thành phố",
+    "exampleSentence": "You should have called the city cops."
+  },
+  {
+    "vocabulary": "class",
+    "phonetic": "/klæs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "lớp",
+    "exampleSentence": "Now tell me what kind of class you're attending."
+  },
+  {
+    "vocabulary": "classroom",
+    "phonetic": "/ˈklæsˌrum/",
+    "wordType": "noun",
+    "vietnameseMeaning": "lớp học",
+    "exampleSentence": "It can be implemented face-to-face in the classroom or virtually."
+  },
+  {
+    "vocabulary": "clean",
+    "phonetic": "/klin/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "sạch sẽ",
+    "exampleSentence": "I have to clean the barn."
+  },
+  {
+    "vocabulary": "climb",
+    "phonetic": "/klaɪm/",
+    "wordType": "verb",
+    "vietnameseMeaning": "leo lên",
+    "exampleSentence": "Then you get back up and continue the climb."
+  },
+  {
+    "vocabulary": "clock",
+    "phonetic": "/klɑk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đồng hồ",
+    "exampleSentence": "An old clock is an antique."
+  },
+  {
+    "vocabulary": "close",
+    "phonetic": "/kloʊs/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "đóng",
+    "exampleSentence": "She was so close to achieving her goal."
+  },
+  {
+    "vocabulary": "clothes",
+    "phonetic": "/kloʊ(ð)z/",
+    "wordType": "noun",
+    "vietnameseMeaning": "quần áo",
+    "exampleSentence": "Good. Pack your clothes and come back with me."
+  },
+  {
+    "vocabulary": "club",
+    "phonetic": "/kləb/",
+    "wordType": "verb",
+    "vietnameseMeaning": "câu lạc bộ",
+    "exampleSentence": "In the club all was going on as usual."
+  },
+  {
+    "vocabulary": "coat",
+    "phonetic": "/koʊt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "áo khoác",
+    "exampleSentence": "Get your coat on."
+  },
+  {
+    "vocabulary": "coffee",
+    "phonetic": "/ˈkɔfi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cà phê",
+    "exampleSentence": "She sipped her coffee and eyed him suspiciously."
+  },
+  {
+    "vocabulary": "cold",
+    "phonetic": "/koʊld/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "lạnh",
+    "exampleSentence": "Let's get in out of this cold wind."
+  },
+  {
+    "vocabulary": "college",
+    "phonetic": "/ˈkɑlɪdʒ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "trường đại học; trường cao đẳng",
+    "exampleSentence": "She'll be going to college next month."
+  },
+  {
+    "vocabulary": "colour",
+    "phonetic": "/ˈkʌlə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': 'The definition of colour is the British word for color.', 'vi': 'Định nghĩa về màu sắc là từ tiếng Anh để chỉ màu sắc.'}, {'pos': 'verb', 'en': 'Colour is defined as the British spelling for color.', 'vi': 'Màu sắc được định nghĩa là cách viết của người Anh cho màu sắc.'}, {'pos': 'adjective', 'en': 'Conveying colour, as opposed to shades of grey.', 'vi': 'Màu truyền đạt, trái ngược với sắc thái của màu xám.'}",
+    "exampleSentence": "There is a good deal of variation in the colour of the fur, the prevailing tint being grey."
+  },
+  {
+    "vocabulary": "come",
+    "phonetic": "/kəm/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đến",
+    "exampleSentence": "\"Come here,\" said the little man, and took her to one of the corners of the building."
+  },
+  {
+    "vocabulary": "common",
+    "phonetic": "/ˈkɑmən/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "phổ biến",
+    "exampleSentence": "She will only utilize it for common good."
+  },
+  {
+    "vocabulary": "company",
+    "phonetic": "/ˈkəmp(ə)ni/",
+    "wordType": "verb",
+    "vietnameseMeaning": "công ty",
+    "exampleSentence": "I haven't had any female company in months."
+  },
+  {
+    "vocabulary": "compare",
+    "phonetic": "/kəmˈpɛr/",
+    "wordType": "verb",
+    "vietnameseMeaning": "so sánh",
+    "exampleSentence": "I don't compare you to Josh."
+  },
+  {
+    "vocabulary": "complete",
+    "phonetic": "/kəmˈplit/",
+    "wordType": "verb",
+    "vietnameseMeaning": "hoàn thành",
+    "exampleSentence": "It's a nice house, a keen house, complete with a front porch and swing."
+  },
+  {
+    "vocabulary": "computer",
+    "phonetic": "/kəmˈpjudər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "máy vi tính",
+    "exampleSentence": "A computer can do some tasks better than a person can."
+  },
+  {
+    "vocabulary": "concert",
+    "phonetic": "/ˈkɑnˌsərt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "buổi hòa nhạc",
+    "exampleSentence": "There's a concert at the arts center."
+  },
+  {
+    "vocabulary": "conversation",
+    "phonetic": "/ˌkɑnvərˈseɪʃ(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cuộc hội thoại",
+    "exampleSentence": "Had he heard her conversation with Sarah?"
+  },
+  {
+    "vocabulary": "cook",
+    "phonetic": "/kʊk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nấu",
+    "exampleSentence": "I'll cook for all of us."
+  },
+  {
+    "vocabulary": "cooking",
+    "phonetic": "/ˈkʊkɪŋ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nấu ăn",
+    "exampleSentence": "I enjoy your cooking, sweetheart."
+  },
+  {
+    "vocabulary": "cool",
+    "phonetic": "/kul/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "mát mẻ",
+    "exampleSentence": "She woke to a cool dawn."
+  },
+  {
+    "vocabulary": "correct",
+    "phonetic": "/kəˈrɛkt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chính xác",
+    "exampleSentence": "At least he had found the correct profession."
+  },
+  {
+    "vocabulary": "cost",
+    "phonetic": "/kɔst/",
+    "wordType": "verb",
+    "vietnameseMeaning": "giá cả",
+    "exampleSentence": "It must have cost a fortune!"
+  },
+  {
+    "vocabulary": "could",
+    "phonetic": "/kʊd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "có thể",
+    "exampleSentence": "I wish you could hear yourself talking."
+  },
+  {
+    "vocabulary": "country",
+    "phonetic": "/ˈkəntri/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đất nước",
+    "exampleSentence": "The country was wild and beautiful."
+  },
+  {
+    "vocabulary": "course",
+    "phonetic": "/kɔrs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khóa học",
+    "exampleSentence": "Of course, he was just a kid."
+  },
+  {
+    "vocabulary": "cousin",
+    "phonetic": "/ˈkəz(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "anh, chị, em họ",
+    "exampleSentence": "My cousin Frank lives in Louisville."
+  },
+  {
+    "vocabulary": "cow",
+    "phonetic": "/kaʊ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Con bò",
+    "exampleSentence": "The Latin word for \"cow\" is vacca."
+  },
+  {
+    "vocabulary": "cream",
+    "phonetic": "/krim/",
+    "wordType": "verb",
+    "vietnameseMeaning": "kem",
+    "exampleSentence": "She jabbed the spoon in the ice cream and sighed."
+  },
+  {
+    "vocabulary": "create",
+    "phonetic": "/kriˈeɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "tạo nên",
+    "exampleSentence": "The you in my heaven is the person I create in my mind, the perfect you, who never drinks his milk from the cereal bowl and remembers every birthday and holiday with the nicest card he buys the day before, and he sends roses for no reason at all...."
+  },
+  {
+    "vocabulary": "culture",
+    "phonetic": "/ˈkəltʃər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "văn hóa",
+    "exampleSentence": "If only she understood our culture better."
+  },
+  {
+    "vocabulary": "cup",
+    "phonetic": "/kəp/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tách",
+    "exampleSentence": "Was the cup left here?"
+  },
+  {
+    "vocabulary": "customer",
+    "phonetic": "/ˈkəstəmər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khách hàng",
+    "exampleSentence": "They suggest other products a customer might be interested in."
+  },
+  {
+    "vocabulary": "cut",
+    "phonetic": "/kət/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cắt tỉa",
+    "exampleSentence": "I've cut enough here for supper."
+  },
+  {
+    "vocabulary": "dad",
+    "phonetic": "/dæd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cha",
+    "exampleSentence": "No, Dad said today."
+  },
+  {
+    "vocabulary": "dance",
+    "phonetic": "/dæns/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khiêu vũ, nhảy múa",
+    "exampleSentence": "How about going to a dance tonight?"
+  },
+  {
+    "vocabulary": "dancer",
+    "phonetic": "/ˈdænsər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "người khiêu vũ, vũ công",
+    "exampleSentence": "Alex was an excellent dancer – strong, sure and fluid."
+  },
+  {
+    "vocabulary": "dancing",
+    "phonetic": "/ˈdænsɪŋ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nhảy múa",
+    "exampleSentence": "You're dancing to different music."
+  },
+  {
+    "vocabulary": "dangerous",
+    "phonetic": "/ˈdeɪndʒ(ə)rəs/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "nguy hiểm",
+    "exampleSentence": "You're treading on dangerous ground."
+  },
+  {
+    "vocabulary": "dark",
+    "phonetic": "/dɑrk/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "tối",
+    "exampleSentence": "He looked tall and lean in a dark suit."
+  },
+  {
+    "vocabulary": "date",
+    "phonetic": "/deɪt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ngày",
+    "exampleSentence": "\"It's important to find out the date and place,\" she said."
+  },
+  {
+    "vocabulary": "daughter",
+    "phonetic": "/ˈdɔdər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "con gái",
+    "exampleSentence": "A daughter, I suppose?"
+  },
+  {
+    "vocabulary": "day",
+    "phonetic": "/deɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ngày",
+    "exampleSentence": "\"This may be the last great day,\" he said."
+  },
+  {
+    "vocabulary": "dear",
+    "phonetic": "/dɪr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "kính thưa",
+    "exampleSentence": "I'll miss my dear brother."
+  },
+  {
+    "vocabulary": "december",
+    "phonetic": "/dəˈsɛmbər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tháng 12",
+    "exampleSentence": "In December they again reached Paris."
+  },
+  {
+    "vocabulary": "decide",
+    "phonetic": "/dəˈsaɪd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "quyết định",
+    "exampleSentence": "I hope you decide to take the job."
+  },
+  {
+    "vocabulary": "delicious",
+    "phonetic": "/dəˈlɪʃəs/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "thơm ngon",
+    "exampleSentence": "Delicious dark chocolate eyes twinkled with mirth."
+  },
+  {
+    "vocabulary": "describe",
+    "phonetic": "/dəˈskraɪb/",
+    "wordType": "verb",
+    "vietnameseMeaning": "mô tả",
+    "exampleSentence": "I can't describe how helpless I felt."
+  },
+  {
+    "vocabulary": "description",
+    "phonetic": "/dəˈskrɪpʃ(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sự miêu tả",
+    "exampleSentence": "He called the station and reported the description of the vehicle."
+  },
+  {
+    "vocabulary": "design",
+    "phonetic": "/dəˈzaɪn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thiết kế",
+    "exampleSentence": "Sonya sat in the drawing room at the round table, copying a design for embroidery."
+  },
+  {
+    "vocabulary": "desk",
+    "phonetic": "/dɛsk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bàn",
+    "exampleSentence": "She made her way to the notebook near the desk phone."
+  },
+  {
+    "vocabulary": "detail",
+    "phonetic": "/dəˈteɪl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chi tiết",
+    "exampleSentence": "While they didn't detail their crimes, both spoke of ruining their lives because of sins of the flesh."
+  },
+  {
+    "vocabulary": "dialogue",
+    "phonetic": "/ˈdaɪəˌlɑɡ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "hội thoại",
+    "exampleSentence": "The characters are well drawn and the dialogue full of comic strength, the scenes knit together and the plot skilfully worked out."
+  },
+  {
+    "vocabulary": "dictionary",
+    "phonetic": "/ˈdɪkʃəˌnɛri/",
+    "wordType": "noun",
+    "vietnameseMeaning": "từ điển",
+    "exampleSentence": "At this point you may consult a dictionary to check spelling or usage."
+  },
+  {
+    "vocabulary": "die",
+    "phonetic": "/daɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hỏng",
+    "exampleSentence": "I should die of happiness!"
+  },
+  {
+    "vocabulary": "diet",
+    "phonetic": "/ˈdaɪət/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chế độ ăn",
+    "exampleSentence": "\"I'm on a diet,\" he answered."
+  },
+  {
+    "vocabulary": "difference",
+    "phonetic": "/ˈdɪf(ə)rəns/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sự khác biệt",
+    "exampleSentence": "He was so tall there was a vast difference in their height."
+  },
+  {
+    "vocabulary": "different",
+    "phonetic": "/ˈdɪf(ə)rənt/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "khác nhau",
+    "exampleSentence": "There's nothing wrong with having a different opinion."
+  },
+  {
+    "vocabulary": "difficult",
+    "phonetic": "/ˈdɪfəkəlt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "khó; khó khăn",
+    "exampleSentence": "This might be the most difficult decision she would ever make."
+  },
+  {
+    "vocabulary": "dinner",
+    "phonetic": "/ˈdɪnər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bữa tối",
+    "exampleSentence": "Dinner will be ready at six O'clock."
+  },
+  {
+    "vocabulary": "dirty",
+    "phonetic": "/ˈdərdi/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "dơ bẩn",
+    "exampleSentence": "Don't talk dirty, Ben."
+  },
+  {
+    "vocabulary": "discuss",
+    "phonetic": "/dəˈskəs/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bàn luận",
+    "exampleSentence": "They could discuss it privately when they got home."
+  },
+  {
+    "vocabulary": "dish",
+    "phonetic": "/dɪʃ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "món ăn",
+    "exampleSentence": "\"I'll make it a dinner dish,\" said Jim."
+  },
+  {
+    "vocabulary": "do",
+    "phonetic": "/du/",
+    "wordType": "verb",
+    "vietnameseMeaning": "làm",
+    "exampleSentence": "Do you like fish?"
+  },
+  {
+    "vocabulary": "doctor",
+    "phonetic": "/ˈdɑktər/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bác sĩ",
+    "exampleSentence": "The doctor called today to see if my condition had improved with the medication."
+  },
+  {
+    "vocabulary": "dog",
+    "phonetic": "/dɔɡ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Con chó",
+    "exampleSentence": "Does a dog have ears?"
+  },
+  {
+    "vocabulary": "dollar",
+    "phonetic": "/ˈdɑlər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đô la",
+    "exampleSentence": "It was the million dollar question."
+  },
+  {
+    "vocabulary": "door",
+    "phonetic": "/dɔr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cửa ra vào",
+    "exampleSentence": "Alex met her at the door, a steaming cup of coffee in one hand."
+  },
+  {
+    "vocabulary": "down",
+    "phonetic": "/daʊn/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Xuống!",
+    "exampleSentence": "They sat down at the table."
+  },
+  {
+    "vocabulary": "downstairs",
+    "phonetic": "/daʊnˈstɛrz/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "tầng dưới",
+    "exampleSentence": "Meet me downstairs at the restrooms."
+  },
+  {
+    "vocabulary": "draw",
+    "phonetic": "/drɔ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "vẽ tranh",
+    "exampleSentence": "Isn't it strange how babies can draw people together?"
+  },
+  {
+    "vocabulary": "dress",
+    "phonetic": "/drɛs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Áo đầm",
+    "exampleSentence": "That dress is really YOU!"
+  },
+  {
+    "vocabulary": "drink",
+    "phonetic": "/drɪŋk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "uống",
+    "exampleSentence": "She can drink milk like a real baby."
+  },
+  {
+    "vocabulary": "drive",
+    "phonetic": "/draɪv/",
+    "wordType": "verb",
+    "vietnameseMeaning": "lái xe",
+    "exampleSentence": "Are you sure you can drive alright?"
+  },
+  {
+    "vocabulary": "driver",
+    "phonetic": "/ˈdraɪvər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tài xế",
+    "exampleSentence": "If the driver was hurt, she might be able to help."
+  },
+  {
+    "vocabulary": "during",
+    "phonetic": "/ˈd(j)ʊrɪŋ/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "suốt (bao nhiêu thời gian)",
+    "exampleSentence": "He must have changed clothes during the night."
+  },
+  {
+    "vocabulary": "dvd",
+    "phonetic": "/ˌdi vi ˈdi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đĩa dvd",
+    "exampleSentence": "Each DVD has its own key, rather akin to each door having a separate key to unlock it."
+  },
+  {
+    "vocabulary": "each",
+    "phonetic": "/itʃ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "mỗi",
+    "exampleSentence": "Each book was written with a pen or a brush."
+  },
+  {
+    "vocabulary": "ear",
+    "phonetic": "/ɪr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "lỗ tai",
+    "exampleSentence": "She whispered in my ear, you won't believe it."
+  },
+  {
+    "vocabulary": "early",
+    "phonetic": "/ˈərli/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "sớm",
+    "exampleSentence": "It's late and I have to get up early tomorrow."
+  },
+  {
+    "vocabulary": "east",
+    "phonetic": "/ist/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phía đông",
+    "exampleSentence": "Sun rises in the east and sets in the west."
+  },
+  {
+    "vocabulary": "easy",
+    "phonetic": "/ˈizi/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "dễ",
+    "exampleSentence": "That's easy for you to say."
+  },
+  {
+    "vocabulary": "eat",
+    "phonetic": "/it/",
+    "wordType": "verb",
+    "vietnameseMeaning": "ăn",
+    "exampleSentence": "We're going to eat before we leave, and you're going to act grateful."
+  },
+  {
+    "vocabulary": "egg",
+    "phonetic": "/ɛɡ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Quả trứng",
+    "exampleSentence": "The egg popped grease and she jumped back."
+  },
+  {
+    "vocabulary": "eight",
+    "phonetic": "/eɪt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số tám",
+    "exampleSentence": "It was already nearing eight o'clock."
+  },
+  {
+    "vocabulary": "eighteen",
+    "phonetic": "/eɪˈtin/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số mười tám (18)",
+    "exampleSentence": "Brandon is eighteen, and Ashley will be soon."
+  },
+  {
+    "vocabulary": "eighty",
+    "phonetic": "/ˈeɪdi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tám mươi, tám chục",
+    "exampleSentence": "He has lived more than eighty years."
+  },
+  {
+    "vocabulary": "elephant",
+    "phonetic": "/ˈɛləfənt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "con voi",
+    "exampleSentence": "The appearance of the Asiatic elephant is familiar to all."
+  },
+  {
+    "vocabulary": "eleven",
+    "phonetic": "/əˈlɛvən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mười một",
+    "exampleSentence": "It grew even more overwhelming after the broadcast of the eleven o'clock news."
+  },
+  {
+    "vocabulary": "else",
+    "phonetic": "/ɛls/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "khác",
+    "exampleSentence": "Someone else carries this baby for you."
+  },
+  {
+    "vocabulary": "email",
+    "phonetic": "/ˈimeɪl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thư điện tử",
+    "exampleSentence": "My email address is in there, too."
+  },
+  {
+    "vocabulary": "end",
+    "phonetic": "/ɛnd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "kết thúc",
+    "exampleSentence": "In the end, there was no choice."
+  },
+  {
+    "vocabulary": "enjoy",
+    "phonetic": "/ɪnˈdʒɔɪ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "vui thích",
+    "exampleSentence": "They would have some time to enjoy a late Christmas at home when they returned."
+  },
+  {
+    "vocabulary": "enough",
+    "phonetic": "/ɪˈnəf/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "đủ",
+    "exampleSentence": "She had enough for the entire family."
+  },
+  {
+    "vocabulary": "euro",
+    "phonetic": "/ˈjʊroʊ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ơ-rô (đơn vị tiền tệ chung của Liên minh châu Âu)",
+    "exampleSentence": "She joined them at the door with enough loose euro change for a couple of beers and dinner."
+  },
+  {
+    "vocabulary": "even",
+    "phonetic": "/ˈivən/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "cũng",
+    "exampleSentence": "You always look neat and clean - even if you are a little out of style."
+  },
+  {
+    "vocabulary": "evening",
+    "phonetic": "/ˈivnɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "buổi tối",
+    "exampleSentence": "That evening all the women got together to wrap gifts."
+  },
+  {
+    "vocabulary": "event",
+    "phonetic": "/əˈvɛnt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "biến cố",
+    "exampleSentence": "This is the fourth event in the past few days."
+  },
+  {
+    "vocabulary": "ever",
+    "phonetic": "/ˈɛvər/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "bao giờ hết",
+    "exampleSentence": "I don't think she was ever afraid of him."
+  },
+  {
+    "vocabulary": "every",
+    "phonetic": "/ˈɛvri/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "mỗi, mọi (người, vật)",
+    "exampleSentence": "Every room is full."
+  },
+  {
+    "vocabulary": "everybody",
+    "phonetic": "/ˈɛvriˌbɑdi/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "mọi người",
+    "exampleSentence": "Everybody has a mother and father."
+  },
+  {
+    "vocabulary": "everyone",
+    "phonetic": "/ˈɛvriˌwən/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "tất cả mọi người",
+    "exampleSentence": "Everyone was looking at her."
+  },
+  {
+    "vocabulary": "everything",
+    "phonetic": "/ˈɛvriˌθɪŋ/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "mọi điều",
+    "exampleSentence": "Everything is going fine with the house."
+  },
+  {
+    "vocabulary": "exam",
+    "phonetic": "/ɪɡˈzæm/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thi",
+    "exampleSentence": "One minute, Dr. Wynn was headed back towards Deidre's exam room."
+  },
+  {
+    "vocabulary": "example",
+    "phonetic": "/ɪɡˈzæmpəl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ví dụ",
+    "exampleSentence": "Now that was a good example of her imagination working over time."
+  },
+  {
+    "vocabulary": "excited",
+    "phonetic": "/ɪkˈsaɪdəd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "hào hứng, bị kích thích",
+    "exampleSentence": "He'd been so excited about his phone."
+  },
+  {
+    "vocabulary": "exciting",
+    "phonetic": "/ɪkˈsaɪdɪŋ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "thú vị",
+    "exampleSentence": "They still had something mysterious and exciting to explore."
   },
   {
     "vocabulary": "exercise",
-    "phonetic": "/ˈek.sə.saɪz/",
-    "wordType": "verb",
-    "vietnameseMeaning": "Tập thể dục, rèn luyện",
-    "exampleSentence": "We exercise in the park for thirty minutes every day."
-  },
-  {
-    "vocabulary": "relax",
-    "phonetic": "/rɪˈlæks/",
-    "wordType": "verb",
-    "vietnameseMeaning": "Thư giãn, nghỉ ngơi",
-    "exampleSentence": "Listening to gentle music helps me relax after school."
-  },
-  {
-    "vocabulary": "patient",
-    "phonetic": "/ˈpeɪ.ʃənt/",
-    "wordType": "adjective",
-    "vietnameseMeaning": "Kiên nhẫn, nhẫn nại",
-    "exampleSentence": "The teacher is very patient with beginners."
-  },
-  {
-    "vocabulary": "helpful",
-    "phonetic": "/ˈhelp.fəl/",
-    "wordType": "adjective",
-    "vietnameseMeaning": "Hay giúp đỡ, hữu ích",
-    "exampleSentence": "The store clerk was very helpful in finding the right book."
-  },
-  {
-    "vocabulary": "celebrate",
-    "phonetic": "/ˈsel.ə.breɪt/",
-    "wordType": "verb",
-    "vietnameseMeaning": "Kỷ niệm, chúc mừng",
-    "exampleSentence": "We gather together to celebrate my sister's graduation."
-  },
-  {
-    "vocabulary": "neighbor",
-    "phonetic": "/ˈneɪ.bər/",
+    "phonetic": "/ˈɛksərˌsaɪz/",
     "wordType": "noun",
-    "vietnameseMeaning": "Người hàng xóm",
-    "exampleSentence": "Our neighbor shares fresh fruit from his garden with us."
+    "vietnameseMeaning": "tập thể dục",
+    "exampleSentence": "I see you're getting your exercise for the day."
+  },
+  {
+    "vocabulary": "expensive",
+    "phonetic": "/ɪkˈspɛnsɪv/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "mắc tiền",
+    "exampleSentence": "They were all dressed for a white tie party in expensive tuxedos."
+  },
+  {
+    "vocabulary": "explain",
+    "phonetic": "/ɪkˈspleɪn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "giải thích",
+    "exampleSentence": "Let him explain all of it to his mother."
+  },
+  {
+    "vocabulary": "extra",
+    "phonetic": "/ˈɛkstrə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phụ",
+    "exampleSentence": "We have an extra room."
+  },
+  {
+    "vocabulary": "eye",
+    "phonetic": "/aɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mắt",
+    "exampleSentence": "I feel the twinkle of his eye in his handshake."
+  },
+  {
+    "vocabulary": "face",
+    "phonetic": "/feɪs/",
+    "wordType": "verb",
+    "vietnameseMeaning": "gương mặt",
+    "exampleSentence": "She made a face at him."
+  },
+  {
+    "vocabulary": "fact",
+    "phonetic": "/fækt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thực tế",
+    "exampleSentence": "In fact, now she felt nothing."
+  },
+  {
+    "vocabulary": "fall",
+    "phonetic": "/fɔl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "mùa thu",
+    "exampleSentence": "Does the rain fall there?"
+  },
+  {
+    "vocabulary": "false",
+    "phonetic": "/fɔls/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "sai",
+    "exampleSentence": "Is it possible that something else could cause a false test?"
+  },
+  {
+    "vocabulary": "family",
+    "phonetic": "/ˈfæm(ə)li/",
+    "wordType": "noun",
+    "vietnameseMeaning": "gia đình",
+    "exampleSentence": "What a big family it was!"
+  },
+  {
+    "vocabulary": "famous",
+    "phonetic": "/ˈfeɪməs/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "nổi tiếng",
+    "exampleSentence": "It is still a famous school."
+  },
+  {
+    "vocabulary": "fantastic",
+    "phonetic": "/fænˈtæstɪk/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "tuyệt vời",
+    "exampleSentence": "\"It was fantastic!\" he pronounced."
+  },
+  {
+    "vocabulary": "far",
+    "phonetic": "/fɑr/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "xa",
+    "exampleSentence": "So far her prayers had been unanswered."
+  },
+  {
+    "vocabulary": "farm",
+    "phonetic": "/fɑrm/",
+    "wordType": "verb",
+    "vietnameseMeaning": "trang trại",
+    "exampleSentence": "A farm boy gone city."
+  },
+  {
+    "vocabulary": "farmer",
+    "phonetic": "/ˈfɑrmər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nông phu",
+    "exampleSentence": "The farmer replies, \"You can't get there from here.\""
+  },
+  {
+    "vocabulary": "fast",
+    "phonetic": "/fæst/",
+    "wordType": "verb",
+    "vietnameseMeaning": "lẹ",
+    "exampleSentence": "It was all so fast that she didn't have time to think."
+  },
+  {
+    "vocabulary": "fat",
+    "phonetic": "/fæt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "chất béo",
+    "exampleSentence": "I feel fat and lazy."
+  },
+  {
+    "vocabulary": "father",
+    "phonetic": "/ˈfɑðər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ba, bố",
+    "exampleSentence": "Father will buy me a lovely new watch."
+  },
+  {
+    "vocabulary": "favourite",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': '(in the plural) A short curl dangling over the temples, fashionable in the reign of Charles II.', 'vi': '(ở số nhiều) Một lọn tóc ngắn lủng lẳng trên các ngôi đền, là mốt thời trang dưới triều đại của Charles II.'}, {'pos': 'adjective', 'en': '(UK, Canada, Australia, Ireland, New Zealand, Malta, South Africa) Preferred or liked above all others (unless qualified.)', 'vi': '(Vương quốc Anh, Canada, Úc, Ireland, New Zealand, Malta, Nam Phi) Được ưu tiên hoặc hơn tất cả những người khác (trừ khi đủ điều kiện.)'}, {'pos': 'verb', 'en': 'Alternative form of favour.', 'vi': 'Hình thức ưu đãi thay thế.'}",
+    "exampleSentence": "At first his favourite subject was classics."
+  },
+  {
+    "vocabulary": "february",
+    "phonetic": "/ˈfɛb(j)uˌɛri/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tháng Hai",
+    "exampleSentence": "On the 28th of February they celebrated her thirtieth birthday."
+  },
+  {
+    "vocabulary": "feel",
+    "phonetic": "/fil/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cảm thấy",
+    "exampleSentence": "I feel much better now."
+  },
+  {
+    "vocabulary": "feeling",
+    "phonetic": "/ˈfilɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cảm giác",
+    "exampleSentence": "I don't want you to start feeling neglected."
+  },
+  {
+    "vocabulary": "festival",
+    "phonetic": "/ˈfɛstəvəl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "lễ hội",
+    "exampleSentence": "His festival is celebrated on the 8th of July."
+  },
+  {
+    "vocabulary": "few",
+    "phonetic": "/fju/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "vài",
+    "exampleSentence": "The doctor will be in to talk to you in a few minutes."
+  },
+  {
+    "vocabulary": "fifteen",
+    "phonetic": "/fɪfˈtin/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Mười lăm",
+    "exampleSentence": "Fifteen minutes later she was knocking on Lori's door."
+  },
+  {
+    "vocabulary": "fifth",
+    "phonetic": "/fɪ(f)θ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thứ năm",
+    "exampleSentence": "The fifth of November was the first day of what is called the battle of Krasnoe."
+  },
+  {
+    "vocabulary": "fifty",
+    "phonetic": "/ˈfɪfti/",
+    "wordType": "noun",
+    "vietnameseMeaning": "năm mươi",
+    "exampleSentence": "Now you've got fifty seconds!"
+  },
+  {
+    "vocabulary": "fill",
+    "phonetic": "/fɪl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "điền vào",
+    "exampleSentence": "It didn't take long to fill a few plates with pancakes."
+  },
+  {
+    "vocabulary": "film",
+    "phonetic": "/fɪlm/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phim ảnh",
+    "exampleSentence": "The formation of a film is noted."
+  },
+  {
+    "vocabulary": "final",
+    "phonetic": "/ˈfaɪnl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "sau cùng",
+    "exampleSentence": "But there was satisfaction in seeing from day to day the evidence of growing mastery and the possibility of final success."
+  },
+  {
+    "vocabulary": "find",
+    "phonetic": "/faɪnd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "tìm thấy",
+    "exampleSentence": "I think I shall find them helpful."
+  },
+  {
+    "vocabulary": "fine",
+    "phonetic": "/faɪn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khỏe",
+    "exampleSentence": "This is a fine meal, do you think?"
+  },
+  {
+    "vocabulary": "finish",
+    "phonetic": "/ˈfɪnɪʃ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "kết thúc",
+    "exampleSentence": "I did not have a chance to finish my letter yesterday."
+  },
+  {
+    "vocabulary": "fire",
+    "phonetic": "/ˈfaɪ(ə)r/",
+    "wordType": "verb",
+    "vietnameseMeaning": "lửa",
+    "exampleSentence": "A fire burned brightly in the fireplace."
+  },
+  {
+    "vocabulary": "first",
+    "phonetic": "/fərst/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "thứ nhất, trước tiên",
+    "exampleSentence": "It was the first money that he had ever had."
+  },
+  {
+    "vocabulary": "fish",
+    "phonetic": "/fɪʃ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Con cá",
+    "exampleSentence": "The fish flipped and dived back into the water."
+  },
+  {
+    "vocabulary": "five",
+    "phonetic": "/faɪv/",
+    "wordType": "noun",
+    "vietnameseMeaning": "năm",
+    "exampleSentence": "I've waited at that station for five hours."
+  },
+  {
+    "vocabulary": "flat",
+    "phonetic": "/flæt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "phẳng",
+    "exampleSentence": "He had just fixed a flat on his bike."
+  },
+  {
+    "vocabulary": "flight",
+    "phonetic": "/flaɪt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "chuyến bay",
+    "exampleSentence": "A blowing snow storm delayed our flight north."
+  },
+  {
+    "vocabulary": "floor",
+    "phonetic": "/flɔr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sàn",
+    "exampleSentence": "The floor was cold."
+  },
+  {
+    "vocabulary": "flower",
+    "phonetic": "/ˈflaʊ(ə)r/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Bông hoa",
+    "exampleSentence": "She stared at a flower pattern on the wall."
+  },
+  {
+    "vocabulary": "fly",
+    "phonetic": "/flaɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bay",
+    "exampleSentence": "We can't naturally fly, so we make airplanes."
+  },
+  {
+    "vocabulary": "follow",
+    "phonetic": "/ˈfɑloʊ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "theo",
+    "exampleSentence": "I'll follow you back to the house."
+  },
+  {
+    "vocabulary": "food",
+    "phonetic": "/fud/",
+    "wordType": "noun",
+    "vietnameseMeaning": "món ăn",
+    "exampleSentence": "Lisa ate the food and washed the dishes."
+  },
+  {
+    "vocabulary": "foot",
+    "phonetic": "/fʊt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bàn chân",
+    "exampleSentence": "He put his foot in the stirrup."
+  },
+  {
+    "vocabulary": "football",
+    "phonetic": "/ˈfʊtˌbɔl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bóng đá",
+    "exampleSentence": "Quinn, still steaming, plopped down and switched on the television to a college football game, turning off the sound."
+  },
+  {
+    "vocabulary": "for",
+    "phonetic": "/fɔr/",
+    "wordType": "prefix",
+    "vietnameseMeaning": "trong (khoảng thời gian)",
+    "exampleSentence": "I've waited at that station for five hours."
+  },
+  {
+    "vocabulary": "forget",
+    "phonetic": "/fərˈɡɛt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "quên",
+    "exampleSentence": "Don't forget your manners."
+  },
+  {
+    "vocabulary": "form",
+    "phonetic": "/fɔrm/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hình thức",
+    "exampleSentence": "As she reached the tree, a large black furry form crashed into the trees ahead of her."
+  },
+  {
+    "vocabulary": "forty",
+    "phonetic": "/ˈfɔrdi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bốn mươi",
+    "exampleSentence": "The bones are probably forty years old."
+  },
+  {
+    "vocabulary": "four",
+    "phonetic": "/fɔr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bốn",
+    "exampleSentence": "We actually have four children now."
+  },
+  {
+    "vocabulary": "fourteen",
+    "phonetic": "/ˌfɔrˈtin/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số mười bốn (14)",
+    "exampleSentence": "For her, the last fourteen months had been nothing short of heaven on earth."
+  },
+  {
+    "vocabulary": "fourth",
+    "phonetic": "/fɔrθ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thứ tư",
+    "exampleSentence": "This is the fourth event in the past few days."
+  },
+  {
+    "vocabulary": "free",
+    "phonetic": "/fri/",
+    "wordType": "verb",
+    "vietnameseMeaning": "miễn phí",
+    "exampleSentence": "Hey, I really am free this time."
+  },
+  {
+    "vocabulary": "friday",
+    "phonetic": "/ˈfraɪdeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thứ Sáu",
+    "exampleSentence": "This would be very useful: No more struggling to remember what you promised the client you would deliver by Friday; you just look up the transcript."
+  },
+  {
+    "vocabulary": "friend",
+    "phonetic": "/frɛnd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bạn bè",
+    "exampleSentence": "You're my most perfect friend in the entire world."
+  },
+  {
+    "vocabulary": "friendly",
+    "phonetic": "/ˈfrɛn(d)li/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "thân thiện",
+    "exampleSentence": "\"No problem,\" he answered in a friendly voice."
+  },
+  {
+    "vocabulary": "from",
+    "phonetic": "/frəm/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "từ (thời điểm, vị trí)",
+    "exampleSentence": "Is the ranch far from here?"
+  },
+  {
+    "vocabulary": "front",
+    "phonetic": "/frənt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "trước mặt",
+    "exampleSentence": "He parked the truck in front of the house and headed down the hill."
+  },
+  {
+    "vocabulary": "fruit",
+    "phonetic": "/frut/",
+    "wordType": "noun",
+    "vietnameseMeaning": "trái cây",
+    "exampleSentence": "A great variety of industries is carried on, the chief being the manufacture of semolina and other farinaceous foods, confectionery, preserved fruit and jams, chemicals and rubber goods."
+  },
+  {
+    "vocabulary": "full",
+    "phonetic": "/fʊl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "đầy",
+    "exampleSentence": "How full of life and motion it was!"
+  },
+  {
+    "vocabulary": "fun",
+    "phonetic": "/fən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "vui vẻ",
+    "exampleSentence": "We had fun together."
+  },
+  {
+    "vocabulary": "funny",
+    "phonetic": "/ˈfəni/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "buồn cười",
+    "exampleSentence": "He's acting funny today."
+  },
+  {
+    "vocabulary": "future",
+    "phonetic": "/ˈfjutʃər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tương lai",
+    "exampleSentence": "What a future that will be!"
+  },
+  {
+    "vocabulary": "game",
+    "phonetic": "/ɡeɪm/",
+    "wordType": "verb",
+    "vietnameseMeaning": "trò chơi",
+    "exampleSentence": "It's a game, like a treasure hunt."
+  },
+  {
+    "vocabulary": "garden",
+    "phonetic": "/ˈɡɑrd(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khu vườn",
+    "exampleSentence": "Today, I have a vegetable garden in my backyard."
+  },
+  {
+    "vocabulary": "geography",
+    "phonetic": "/dʒiˈɑɡrəfi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "môn địa lý",
+    "exampleSentence": "The geography of Northern Italy is described in several popular guide books."
+  },
+  {
+    "vocabulary": "get",
+    "phonetic": "/ɡɛt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "được",
+    "exampleSentence": "Let's get in out of this cold wind."
+  },
+  {
+    "vocabulary": "girl",
+    "phonetic": "/ɡərl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bé gái",
+    "exampleSentence": "A little girl said she would write about \"Summer.\""
+  },
+  {
+    "vocabulary": "girlfriend",
+    "phonetic": "/ˈɡərlˌfrɛnd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bạn gái",
+    "exampleSentence": "Now his girlfriend had caught them together."
+  },
+  {
+    "vocabulary": "give",
+    "phonetic": "/ɡɪv/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đưa cho",
+    "exampleSentence": "Give me some information."
+  },
+  {
+    "vocabulary": "glass",
+    "phonetic": "/ɡlæs/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "ly thủy tinh",
+    "exampleSentence": "Could I have a glass of water?"
+  },
+  {
+    "vocabulary": "go",
+    "phonetic": "/ɡoʊ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đi",
+    "exampleSentence": "Alex would make the misery go away."
+  },
+  {
+    "vocabulary": "good",
+    "phonetic": "/ɡʊd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "tốt",
+    "exampleSentence": "It felt so good to be home."
+  },
+  {
+    "vocabulary": "goodbye",
+    "phonetic": "/ɡʊdˈbaɪ/",
+    "wordType": "interjection",
+    "vietnameseMeaning": "Tạm biệt",
+    "exampleSentence": "I will never say goodbye to her."
+  },
+  {
+    "vocabulary": "grandfather",
+    "phonetic": "/ˈɡræn(d)ˌfɑðər/",
+    "wordType": "hyponyms",
+    "vietnameseMeaning": "ông (nội hoặc ngoại)",
+    "exampleSentence": "Her grandfather knew my father a long time ago."
+  },
+  {
+    "vocabulary": "grandmother",
+    "phonetic": "/ˈɡræn(d)ˌməðər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bà (nội hoặc ngoại)",
+    "exampleSentence": "Grandmother is going to make me two new dresses."
+  },
+  {
+    "vocabulary": "grandparent",
+    "phonetic": "/ˈɡræn(d)ˌpɛrənt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ông bà",
+    "exampleSentence": "A spouse, friend, or grandparent may be up to the challenge, or moms can consider hiring a sitter or dropping a child off at a care center if they can afford it."
+  },
+  {
+    "vocabulary": "great",
+    "phonetic": "/ɡreɪt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "tuyệt vời",
+    "exampleSentence": "You're doing a great job."
+  },
+  {
+    "vocabulary": "green",
+    "phonetic": "/ɡrin/",
+    "wordType": "noun",
+    "vietnameseMeaning": "màu xanh lá",
+    "exampleSentence": "A large green book caught her attention."
+  },
+  {
+    "vocabulary": "grey",
+    "phonetic": "/greɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': 'Grey is defined as the British version of gray, which is the color made by mixing together white and black.', 'vi': 'Màu xám được định nghĩa là phiên bản màu xám của Anh, là màu được tạo ra bằng cách trộn lẫn hai màu trắng và đen.'}, {'pos': 'adjective', 'en': 'Gray.', 'vi': 'Xám.'}, {'pos': 'proper name', 'en': '(person) 2d Earl Grey 1764-1845; Eng. statesman; prime minister (1830-34)', 'vi': '(người) 2d Earl Grey 1764-1845; Tiếng Anh chính khách; thủ tướng (1830-34)'}, {'pos': 'verb', 'en': '(chiefly UK, Australia and Canada, alternative in US) Alternative form of gray.', 'vi': '(chủ yếu là Anh, Úc và Canada, thay thế ở Mỹ) Dạng thay thế của màu xám.'}",
+    "exampleSentence": "A large grey cat was asleep on a rocking chair."
+  },
+  {
+    "vocabulary": "group",
+    "phonetic": "/ɡrup/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nhóm",
+    "exampleSentence": "He stopped, watching a group of freight wagons."
+  },
+  {
+    "vocabulary": "grow",
+    "phonetic": "/ɡroʊ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "lớn lên",
+    "exampleSentence": "They all grow up."
+  },
+  {
+    "vocabulary": "guess",
+    "phonetic": "/ɡɛs/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đoán",
+    "exampleSentence": "I guess that's a good question."
+  },
+  {
+    "vocabulary": "guitar",
+    "phonetic": "/ɡəˈtɑr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đàn ghi ta",
+    "exampleSentence": "\"I doubt he can play a guitar,\" he said between sips."
+  },
+  {
+    "vocabulary": "gym",
+    "phonetic": "/ʤɪm/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': 'A course in physical education.', 'vi': 'Một khóa học về giáo dục thể chất.'}, {'pos': 'verb', 'en': '(intransitive) To go the gym.', 'vi': '(intransitive) Để đi tập thể dục.'}",
+    "exampleSentence": "Dusty rose to pull on his gym clothes."
+  },
+  {
+    "vocabulary": "hair",
+    "phonetic": "/hɛr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tóc",
+    "exampleSentence": "Long dark lashes and black curly hair - he had it all."
+  },
+  {
+    "vocabulary": "half",
+    "phonetic": "/hæf/",
+    "wordType": "noun",
+    "vietnameseMeaning": "một nửa",
+    "exampleSentence": "More than half the hungry people in the world live in just these three nations—nations that are all net food exporters."
+  },
+  {
+    "vocabulary": "hand",
+    "phonetic": "/hænd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tay",
+    "exampleSentence": "Still, the feel of his hand was reassuring."
+  },
+  {
+    "vocabulary": "happen",
+    "phonetic": "/ˈhæpən/",
+    "wordType": "verb",
+    "vietnameseMeaning": "xảy ra",
+    "exampleSentence": "It will never happen again."
+  },
+  {
+    "vocabulary": "happy",
+    "phonetic": "/ˈhæpi/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "vui; hạnh phúc",
+    "exampleSentence": "Are you trying to say that you're not happy with your success?"
+  },
+  {
+    "vocabulary": "hard",
+    "phonetic": "/hɑrd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "cứng",
+    "exampleSentence": "I can see why Alex fell so hard for you."
+  },
+  {
+    "vocabulary": "hat",
+    "phonetic": "/hæt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cái nón",
+    "exampleSentence": "He pulled his hat over his eyes."
+  },
+  {
+    "vocabulary": "hate",
+    "phonetic": "/heɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "ghét bỏ",
+    "exampleSentence": "I hate peanut butter."
+  },
+  {
+    "vocabulary": "have",
+    "phonetic": "/hæv/",
+    "wordType": "verb",
+    "vietnameseMeaning": "có",
+    "exampleSentence": "\"You have done well\" said his grandfather."
+  },
+  {
+    "vocabulary": "have to",
+    "phonetic": "/hæv tuː/",
+    "wordType": "phrase",
+    "vietnameseMeaning": "{'pos': 'phrase', 'en': 'Must; need to; to be required to. Indicates obligation.', 'vi': 'Cần phải; cần phải; được yêu cầu. Cho biết nghĩa vụ.'}",
+    "exampleSentence": "Sometimes we have to accept change, if we want to move forward."
+  },
+  {
+    "vocabulary": "he",
+    "phonetic": "/hi/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "Một cách để nói hoặc viết \"he is\".",
+    "exampleSentence": "He will save Europe!"
+  },
+  {
+    "vocabulary": "head",
+    "phonetic": "/hɛd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đầu",
+    "exampleSentence": "She leaned her head on his shoulder."
+  },
+  {
+    "vocabulary": "health",
+    "phonetic": "/hɛlθ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sức khỏe",
+    "exampleSentence": "We even have health insurance."
+  },
+  {
+    "vocabulary": "healthy",
+    "phonetic": "/ˈhɛlθi/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "khỏe mạnh",
+    "exampleSentence": "They grew up healthy and strong."
+  },
+  {
+    "vocabulary": "hear",
+    "phonetic": "/hɪr/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nghe",
+    "exampleSentence": "I wish you could hear yourself talking."
+  },
+  {
+    "vocabulary": "hello",
+    "phonetic": "/həˈloʊ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "xin chào",
+    "exampleSentence": "Hello, can I help you with something?"
+  },
+  {
+    "vocabulary": "help",
+    "phonetic": "/hɛlp/",
+    "wordType": "interjection",
+    "vietnameseMeaning": "Cứu giúp",
+    "exampleSentence": "So will help you God, and so only."
+  },
+  {
+    "vocabulary": "her",
+    "phonetic": "/hər/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "cô ấy",
+    "exampleSentence": "Her father is very rich and stingy."
+  },
+  {
+    "vocabulary": "here",
+    "phonetic": "/hɪr/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Đây.",
+    "exampleSentence": "She didn't come here to talk to me."
+  },
+  {
+    "vocabulary": "hey",
+    "phonetic": "/heɪ/",
+    "wordType": "interjection",
+    "vietnameseMeaning": "{'pos': 'interjection', 'en': 'Used to express greeting.', 'vi': 'Dùng để thể hiện lời chào.'}, {'pos': 'noun', 'en': '(country dancing) A choreographic figure in which the dancers weave between one another.', 'vi': '(múa đồng quê) Một hình vũ đạo trong đó các vũ công đan xen vào nhau.'}",
+    "exampleSentence": "Hey, fella... you awake?"
+  },
+  {
+    "vocabulary": "hi",
+    "phonetic": "/haɪ/",
+    "wordType": "interjection",
+    "vietnameseMeaning": "Chào",
+    "exampleSentence": "\"Hi,\" she said with a slight smile."
+  },
+  {
+    "vocabulary": "high",
+    "phonetic": "/haɪ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "cao",
+    "exampleSentence": "Her instincts on high alarm, she met Xander's gaze."
+  },
+  {
+    "vocabulary": "him",
+    "phonetic": "/hɪm/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "anh ta",
+    "exampleSentence": "They could not give him any help."
+  },
+  {
+    "vocabulary": "his",
+    "phonetic": "/hɪz/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "của anh ấy",
+    "exampleSentence": "Nurturing was in his personality."
+  },
+  {
+    "vocabulary": "history",
+    "phonetic": "/ˈhɪst(ə)ri/",
+    "wordType": "noun",
+    "vietnameseMeaning": "lịch sử",
+    "exampleSentence": "Is there some history I should know about?"
   },
   {
     "vocabulary": "hobby",
-    "phonetic": "/ˈhɒb.i/",
+    "phonetic": "/ˈhɑbi/",
     "wordType": "noun",
-    "vietnameseMeaning": "Sở thích cá nhân",
-    "exampleSentence": "Painting landscapes is her favorite weekend hobby."
+    "vietnameseMeaning": "sở thích; thú tiêu khiển",
+    "exampleSentence": "You guys are my hobby; keeping you informed and safe."
   },
   {
-    "vocabulary": "bright",
-    "phonetic": "/braɪt/",
-    "wordType": "adjective",
-    "vietnameseMeaning": "Tươi sáng, rạng rỡ",
-    "exampleSentence": "Natural sunlight makes the living room bright and warm."
+    "vocabulary": "holiday",
+    "phonetic": "/ˈhɑləˌdeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ngày lễ",
+    "exampleSentence": "The holiday weekend passed pleasantly."
   },
   {
-    "vocabulary": "encourage",
-    "phonetic": "/ɪnˈkʌr.ɪdʒ/",
+    "vocabulary": "home",
+    "phonetic": "/hoʊm/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nhà",
+    "exampleSentence": "Daddy went home to sleep."
+  },
+  {
+    "vocabulary": "homework",
+    "phonetic": "/ˈhoʊmˌwərk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bài tập về nhà",
+    "exampleSentence": "Yes. You helped me with my homework a lot."
+  },
+  {
+    "vocabulary": "hope",
+    "phonetic": "/hoʊp/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hy vọng",
+    "exampleSentence": "I hope you like it."
+  },
+  {
+    "vocabulary": "horse",
+    "phonetic": "/hɔrs/",
     "wordType": "verb",
-    "vietnameseMeaning": "Khích lệ, động viên",
-    "exampleSentence": "Parents should always encourage their children to try new things."
+    "vietnameseMeaning": "con ngựa",
+    "exampleSentence": "The horse stood still."
   },
   {
-    "vocabulary": "warmly",
-    "phonetic": "/ˈwɔːm.li/",
+    "vocabulary": "hospital",
+    "phonetic": "/ˈhɑˌspɪdl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bệnh viện",
+    "exampleSentence": "When they arrived at the hospital, Alex was pacing."
+  },
+  {
+    "vocabulary": "hot",
+    "phonetic": "/hɑt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "nóng; nóng bức",
+    "exampleSentence": "Sunday dawned a sunny hot July day."
+  },
+  {
+    "vocabulary": "hotel",
+    "phonetic": "/hoʊˈtɛl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khách sạn",
+    "exampleSentence": "Well, if they turn you out, we'll just get a room at a hotel in Bartlesville."
+  },
+  {
+    "vocabulary": "hour",
+    "phonetic": "/ˈaʊ(ə)r/",
+    "wordType": "noun",
+    "vietnameseMeaning": "giờ",
+    "exampleSentence": "We just got back about an hour ago."
+  },
+  {
+    "vocabulary": "house",
+    "phonetic": "/haʊs/",
+    "wordType": "verb",
+    "vietnameseMeaning": "ngôi nhà",
+    "exampleSentence": "A house without children is not a home."
+  },
+  {
+    "vocabulary": "how",
+    "phonetic": "/haʊ/",
     "wordType": "adverb",
-    "vietnameseMeaning": "Một cách ấm áp, nồng hậu",
-    "exampleSentence": "The host welcomed all the guests warmly at the door."
+    "vietnameseMeaning": "làm sao",
+    "exampleSentence": "How did you know you loved him?"
   },
   {
-    "vocabulary": "cheerful",
-    "phonetic": "/ˈtʃɪə.fəl/",
+    "vocabulary": "however",
+    "phonetic": "/haʊˈɛvər/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "tuy nhiên",
+    "exampleSentence": "However, there were many challenges."
+  },
+  {
+    "vocabulary": "hundred",
+    "phonetic": "/ˈhəndrəd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "trăm",
+    "exampleSentence": "I've told myself that a hundred times."
+  },
+  {
+    "vocabulary": "hungry",
+    "phonetic": "/ˈhəŋɡri/",
     "wordType": "adjective",
-    "vietnameseMeaning": "Vui tươi, phấn khởi",
-    "exampleSentence": "His cheerful attitude brings positive energy to the classroom."
+    "vietnameseMeaning": "đói bụng",
+    "exampleSentence": "If you're hungry, visit the kitchen."
   },
   {
-    "vocabulary": "refresh",
-    "phonetic": "/rɪˈfreʃ/",
+    "vocabulary": "husband",
+    "phonetic": "/ˈhəzbənd/",
     "wordType": "verb",
-    "vietnameseMeaning": "Làm mới, làm sảng khoái",
-    "exampleSentence": "A short walk outside helps refresh my mind."
+    "vietnameseMeaning": "chồng; ông xã",
+    "exampleSentence": "He was a good husband and father."
   },
   {
-    "vocabulary": "simple",
-    "phonetic": "/ˈsɪm.pəl/",
+    "vocabulary": "i",
+    "phonetic": "/aɪ/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "tôi",
+    "exampleSentence": "I will lead you to it."
+  },
+  {
+    "vocabulary": "ice",
+    "phonetic": "/aɪs/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nước đá",
+    "exampleSentence": "His voice was low and ice cold."
+  },
+  {
+    "vocabulary": "ice cream",
+    "phonetic": "/aɪs kriːm/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': 'A rich, sweet, creamy frozen food made from variously flavored cream and milk products churned or stirred to a smooth consistency during the freezing process and often containing gelatin, eggs, fruits, nuts, etc.', 'vi': 'Một loại thực phẩm đông lạnh có nhiều kem, ngọt, được làm từ các sản phẩm kem và sữa có hương vị khác nhau được khuấy hoặc khuấy đều đến độ sánh mịn trong quá trình đông lạnh và thường chứa gelatin, trứng, trái cây, các loại hạt, v.v.'}",
+    "exampleSentence": "We ate ice cream at the mall."
+  },
+  {
+    "vocabulary": "idea",
+    "phonetic": "/aɪˈdiə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ý tưởng",
+    "exampleSentence": "The idea came to her suddenly."
+  },
+  {
+    "vocabulary": "if",
+    "phonetic": "/ɪf/",
+    "wordType": "conjunction",
+    "vietnameseMeaning": "(dùng với thời hiện tại và hiện tại hoàn thành cho những tình huống rất có thể dự đoán được) nếu",
+    "exampleSentence": "I'll take care of the others if you want to watch the kids."
+  },
+  {
+    "vocabulary": "imagine",
+    "phonetic": "/ɪˈmædʒən/",
+    "wordType": "verb",
+    "vietnameseMeaning": "tưởng tượng",
+    "exampleSentence": "Can you imagine that?"
+  },
+  {
+    "vocabulary": "important",
+    "phonetic": "/ɪmˈpɔrtnt/",
     "wordType": "adjective",
-    "vietnameseMeaning": "Đơn giản, mộc mạc",
-    "exampleSentence": "Cooking a simple meal at home is both healthy and fun."
+    "vietnameseMeaning": "quan trọng",
+    "exampleSentence": "I had to talk over a very important matter with him."
+  },
+  {
+    "vocabulary": "improve",
+    "phonetic": "/ɪmˈpruv/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cải tiến",
+    "exampleSentence": "Maybe his mood would improve, anyway."
+  },
+  {
+    "vocabulary": "in",
+    "phonetic": "/ɪn/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "trong",
+    "exampleSentence": "He was such a wonderful person in so many ways."
+  },
+  {
+    "vocabulary": "include",
+    "phonetic": "/ɪnˈklud/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bao gồm",
+    "exampleSentence": "His gaze shifted to include Carmen."
+  },
+  {
+    "vocabulary": "information",
+    "phonetic": "/ˌɪnfərˈmeɪʃ(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thông tin",
+    "exampleSentence": "Getting information about him from Katie is too much work."
+  },
+  {
+    "vocabulary": "interest",
+    "phonetic": "/ˈɪnt(ə)rəst/",
+    "wordType": "noun",
+    "vietnameseMeaning": "quan tâm",
+    "exampleSentence": "There was little interest in another round of Monopoly."
+  },
+  {
+    "vocabulary": "interested",
+    "phonetic": "/ˈɪntrəstəd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "quan tâm",
+    "exampleSentence": "I truly believe he may be interested in doing the same to you."
+  },
+  {
+    "vocabulary": "interesting",
+    "phonetic": "/ˈɪnt(ə)rəstɪŋ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "hấp dẫn; thú vị",
+    "exampleSentence": "You're a very interesting person."
+  },
+  {
+    "vocabulary": "internet",
+    "phonetic": "/ˈɪn(t)ərˌnɛt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Internet",
+    "exampleSentence": "The Internet has allowed for the creation of thousands of new ways to give, both time and money."
+  },
+  {
+    "vocabulary": "interview",
+    "phonetic": "/ˈɪn(t)ərˌvju/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phỏng vấn",
+    "exampleSentence": "This interview was proof."
+  },
+  {
+    "vocabulary": "into",
+    "phonetic": "/ˈɪntu/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "vào",
+    "exampleSentence": "Jonathan came into the room, fully dressed."
+  },
+  {
+    "vocabulary": "introduce",
+    "phonetic": "/ˌɪntrəˈd(j)us/",
+    "wordType": "verb",
+    "vietnameseMeaning": "giới thiệu",
+    "exampleSentence": "And why didn't he introduce her?"
+  },
+  {
+    "vocabulary": "island",
+    "phonetic": "/ˈaɪlənd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đảo",
+    "exampleSentence": "He swam to an island that was not far away."
+  },
+  {
+    "vocabulary": "it",
+    "phonetic": "/ɪt/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "Cái đó, điều đó, con vật đó, nó",
+    "exampleSentence": "It was the earthquake."
+  },
+  {
+    "vocabulary": "its",
+    "phonetic": "/ɪts/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "nó là",
+    "exampleSentence": "He could hear its footsteps."
+  },
+  {
+    "vocabulary": "jacket",
+    "phonetic": "/ˈdʒækət/",
+    "wordType": "noun",
+    "vietnameseMeaning": "áo jacket",
+    "exampleSentence": "Inside his leather jacket it was warm and cozy - falsely secure."
+  },
+  {
+    "vocabulary": "january",
+    "phonetic": "/ˈdʒænjəˌwɛri/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Tháng Giêng.",
+    "exampleSentence": "Every year, the full moon in January is the Wolf Moon and there is a three day festival that all werewolves attend… kind of our high holiday."
+  },
+  {
+    "vocabulary": "jeans",
+    "phonetic": "/dʒinz/",
+    "wordType": "proper name",
+    "vietnameseMeaning": "quần jean",
+    "exampleSentence": "Bianca put on a pair of jeans and a T-shirt."
+  },
+  {
+    "vocabulary": "job",
+    "phonetic": "/dʒɑb/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Nghề nghiệp",
+    "exampleSentence": "Hopefully, she could get her job at the diner."
+  },
+  {
+    "vocabulary": "join",
+    "phonetic": "/dʒɔɪn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "gia nhập, tham gia; nối, chắp, ghép",
+    "exampleSentence": "You should join me sometime."
+  },
+  {
+    "vocabulary": "journey",
+    "phonetic": "/ˈdʒərni/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hành trình",
+    "exampleSentence": "It would be a long journey and a dangerous one."
+  },
+  {
+    "vocabulary": "juice",
+    "phonetic": "/dʒus/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nước ép",
+    "exampleSentence": "The evaporation of the juice to syrup point."
+  },
+  {
+    "vocabulary": "july",
+    "phonetic": "/dʒəˈlaɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tháng Bảy",
+    "exampleSentence": "I love Fourth of July week."
+  },
+  {
+    "vocabulary": "june",
+    "phonetic": "/dʒun/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tháng Sáu",
+    "exampleSentence": "The warm month of June melted into the scalding month of July."
+  },
+  {
+    "vocabulary": "just",
+    "phonetic": "/dʒəst/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "chỉ",
+    "exampleSentence": "I just did it."
+  },
+  {
+    "vocabulary": "keep",
+    "phonetic": "/kip/",
+    "wordType": "verb",
+    "vietnameseMeaning": "giữ",
+    "exampleSentence": "They can't keep her temperature down."
+  },
+  {
+    "vocabulary": "key",
+    "phonetic": "/ki/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Key",
+    "exampleSentence": "He has a key to the mine gate."
+  },
+  {
+    "vocabulary": "kilometre",
+    "phonetic": "/ˈkɪləʊˌmiːtə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': '(UK, Canada) (metrology) An SI unit of length equal to 103 metres.', 'vi': '(Anh, Canada) (đo lường) Một đơn vị SI có độ dài bằng 103 mét.'}",
+    "exampleSentence": "About a kilometre away from the palace was the cemetery."
+  },
+  {
+    "vocabulary": "kind",
+    "phonetic": "/kaɪnd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "tốt bụng, tử tế",
+    "exampleSentence": "The years had not been kind to him."
+  },
+  {
+    "vocabulary": "kitchen",
+    "phonetic": "/ˈkɪtʃ(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phòng bếp",
+    "exampleSentence": "He walked across the kitchen and paused at the door."
+  },
+  {
+    "vocabulary": "know",
+    "phonetic": "/noʊ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "biết",
+    "exampleSentence": "I know you must be tired, so I will let you rest."
+  },
+  {
+    "vocabulary": "land",
+    "phonetic": "/lænd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đất đai",
+    "exampleSentence": "They filled the land with terror."
+  },
+  {
+    "vocabulary": "language",
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ngôn ngữ",
+    "exampleSentence": "Of course, she could have used sign language, but that would have been distracting - and it wouldn't have been as personal."
+  },
+  {
+    "vocabulary": "large",
+    "phonetic": "/lɑrdʒ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "lớn",
+    "exampleSentence": "His large eyes were bright and snappy."
+  },
+  {
+    "vocabulary": "last",
+    "phonetic": "/læst/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "cuối",
+    "exampleSentence": "Their last name is Anderson."
+  },
+  {
+    "vocabulary": "late",
+    "phonetic": "/leɪt/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "trễ; muộn",
+    "exampleSentence": "It's late, and I'm tired."
+  },
+  {
+    "vocabulary": "later",
+    "phonetic": "/ˈleɪdər/",
+    "wordType": "interjection",
+    "vietnameseMeaning": "một lát sau",
+    "exampleSentence": "See you later, then."
+  },
+  {
+    "vocabulary": "laugh",
+    "phonetic": "/læf/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cười",
+    "exampleSentence": "Don't laugh at me!"
+  },
+  {
+    "vocabulary": "learn",
+    "phonetic": "/lərn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "học hỏi",
+    "exampleSentence": "I have to learn to control myself."
+  },
+  {
+    "vocabulary": "leave",
+    "phonetic": "/liv/",
+    "wordType": "verb",
+    "vietnameseMeaning": "rời khỏi",
+    "exampleSentence": "What time are we going to leave tomorrow?"
+  },
+  {
+    "vocabulary": "left",
+    "phonetic": "/lɛft/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "bên trái",
+    "exampleSentence": "All the sun's warmth left the air."
+  },
+  {
+    "vocabulary": "leg",
+    "phonetic": "/lɛɡ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "chân",
+    "exampleSentence": "\"He's just pulling your leg,\" Martha answered."
+  },
+  {
+    "vocabulary": "lesson",
+    "phonetic": "/ˈlɛs(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bài học",
+    "exampleSentence": "I've learned my lesson, though."
+  },
+  {
+    "vocabulary": "let",
+    "phonetic": "/lɛt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "để cho",
+    "exampleSentence": "Let him decide the matter for us."
+  },
+  {
+    "vocabulary": "letter",
+    "phonetic": "/ˈlɛdər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "lá thư",
+    "exampleSentence": "It was a letter from the page's mother:--"
+  },
+  {
+    "vocabulary": "library",
+    "phonetic": "/ˈlaɪˌbrɛri/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thư viện",
+    "exampleSentence": "She left the library to return Damian's phone."
+  },
+  {
+    "vocabulary": "lie",
+    "phonetic": "/laɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nằm; nói dối",
+    "exampleSentence": "I can't lie to him."
+  },
+  {
+    "vocabulary": "life",
+    "phonetic": "/laɪf/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cuộc sống",
+    "exampleSentence": "This is the life he was born for."
+  },
+  {
+    "vocabulary": "light",
+    "phonetic": "/laɪt/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "nhẹ",
+    "exampleSentence": "She handed him a light blue shirt."
+  },
+  {
+    "vocabulary": "like",
+    "phonetic": "/laɪk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "giống như",
+    "exampleSentence": "The people did not like this."
+  },
+  {
+    "vocabulary": "line",
+    "phonetic": "/laɪn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Đường thẳng",
+    "exampleSentence": "That sends you down another line of thought."
+  },
+  {
+    "vocabulary": "lion",
+    "phonetic": "/ˈlaɪən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Con sư tử",
+    "exampleSentence": "There was a lion in the linen closet and no one wanted to reach for the towel."
+  },
+  {
+    "vocabulary": "list",
+    "phonetic": "/lɪst/",
+    "wordType": "verb",
+    "vietnameseMeaning": "danh sách",
+    "exampleSentence": "Make me a list of the things we would need and I'll take you into town."
   },
   {
     "vocabulary": "listen",
-    "phonetic": "/ˈlɪs.ən/",
+    "phonetic": "/ˈlɪs(ə)n/",
     "wordType": "verb",
-    "vietnameseMeaning": "Lắng nghe chân thành",
-    "exampleSentence": "Good communicators always listen attentively to others."
+    "vietnameseMeaning": "lắng nghe",
+    "exampleSentence": "Just listen to what he has to say."
   },
   {
-    "vocabulary": "gentle",
-    "phonetic": "/ˈdʒen.təl/",
-    "wordType": "adjective",
-    "vietnameseMeaning": "Dịu dàng, êm dịu",
-    "exampleSentence": "A gentle breeze cooled the afternoon air."
-  },
-  {
-    "vocabulary": "gladly",
-    "phonetic": "/ˈɡlæd.li/",
+    "vocabulary": "little",
+    "phonetic": "/ˈlɪdl/",
     "wordType": "adverb",
-    "vietnameseMeaning": "Một cách vui vẻ, sẵn lòng",
-    "exampleSentence": "I will gladly help you practice English pronunciation."
+    "vietnameseMeaning": "ít",
+    "exampleSentence": "The little man shook his bald head."
+  },
+  {
+    "vocabulary": "live",
+    "phonetic": "/lɪv/",
+    "wordType": "verb",
+    "vietnameseMeaning": "trực tiếp",
+    "exampleSentence": "I live with my mother and daughter."
+  },
+  {
+    "vocabulary": "local",
+    "phonetic": "/ˈloʊk(ə)l/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "địa phương",
+    "exampleSentence": "The decision produced a local uproar."
+  },
+  {
+    "vocabulary": "long",
+    "phonetic": "/lɔŋ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "dài; lâu",
+    "exampleSentence": "And I will be for a very long time."
+  },
+  {
+    "vocabulary": "look",
+    "phonetic": "/lʊk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nhìn",
+    "exampleSentence": "Do I look that bad?"
+  },
+  {
+    "vocabulary": "lose",
+    "phonetic": "/luz/",
+    "wordType": "verb",
+    "vietnameseMeaning": "mất",
+    "exampleSentence": "I lose some cattle every year."
+  },
+  {
+    "vocabulary": "lot",
+    "phonetic": "/lɑt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "lô, đống",
+    "exampleSentence": "Certainly she had been under a lot of stress."
+  },
+  {
+    "vocabulary": "love",
+    "phonetic": "/ləv/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tình yêu",
+    "exampleSentence": "I love you so much."
+  },
+  {
+    "vocabulary": "lunch",
+    "phonetic": "/lən(t)ʃ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bữa trưa",
+    "exampleSentence": "Can you hold lunch for a little bit?"
+  },
+  {
+    "vocabulary": "machine",
+    "phonetic": "/məˈʃin/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "máy",
+    "exampleSentence": "The noise from the machine that circulated the oxygen frightened her."
+  },
+  {
+    "vocabulary": "magazine",
+    "phonetic": "/ˈmæɡəˌzin/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tạp chí",
+    "exampleSentence": "He tossed the magazine aside and stood."
+  },
+  {
+    "vocabulary": "main",
+    "phonetic": "/meɪn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "chủ yếu",
+    "exampleSentence": "His main sin appears to be his poor timing."
+  },
+  {
+    "vocabulary": "make",
+    "phonetic": "/meɪk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chế tạo",
+    "exampleSentence": "Drowning your sorrows in eggnog will only make you feel worse in the long run."
+  },
+  {
+    "vocabulary": "man",
+    "phonetic": "/mæn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Đàn ông",
+    "exampleSentence": "The little man shook his bald head."
+  },
+  {
+    "vocabulary": "many",
+    "phonetic": "/ˈmɛni/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nhiều",
+    "exampleSentence": "You ask too many questions."
+  },
+  {
+    "vocabulary": "map",
+    "phonetic": "/mæp/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bản đồ",
+    "exampleSentence": "He frowned at the map before him."
+  },
+  {
+    "vocabulary": "march",
+    "phonetic": "/mɑrtʃ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "tháng Ba",
+    "exampleSentence": "March came in like a lion with a snow storm."
+  },
+  {
+    "vocabulary": "market",
+    "phonetic": "/ˈmɑrkət/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thị trường; chợ",
+    "exampleSentence": "The market is only two blocks away."
+  },
+  {
+    "vocabulary": "married",
+    "phonetic": "/ˈmɛrid/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cưới nhau",
+    "exampleSentence": "He married and decided to stay there."
+  },
+  {
+    "vocabulary": "match",
+    "phonetic": "/mætʃ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hợp nhau, xứng",
+    "exampleSentence": "As a rule, a match consists of 21 points, or 21 ends (or a few more, by agreement)."
+  },
+  {
+    "vocabulary": "may",
+    "phonetic": "/meɪ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "tháng Năm",
+    "exampleSentence": "\"May I sit with you?\" she asked shyly."
+  },
+  {
+    "vocabulary": "maybe",
+    "phonetic": "/ˈmeɪbi/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Có thể!",
+    "exampleSentence": "Maybe he should see a doctor."
+  },
+  {
+    "vocabulary": "me",
+    "phonetic": "/mi/",
+    "wordType": "abbreviation",
+    "vietnameseMeaning": "tôi",
+    "exampleSentence": "Just give me a minute."
+  },
+  {
+    "vocabulary": "meal",
+    "phonetic": "/mil/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bữa ăn",
+    "exampleSentence": "This is a fine meal, do you think?"
+  },
+  {
+    "vocabulary": "mean",
+    "phonetic": "/min/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "nghĩa là",
+    "exampleSentence": "I didn't mean to scare you."
+  },
+  {
+    "vocabulary": "meaning",
+    "phonetic": "/ˈminɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ý nghĩa",
+    "exampleSentence": "She says He (meaning God) is my dear father."
+  },
+  {
+    "vocabulary": "meat",
+    "phonetic": "/mit/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thịt",
+    "exampleSentence": "His bread and meat are sweet."
+  },
+  {
+    "vocabulary": "meet",
+    "phonetic": "/mit/",
+    "wordType": "noun",
+    "vietnameseMeaning": "gặp gỡ",
+    "exampleSentence": "It's nice to meet you both."
+  },
+  {
+    "vocabulary": "meeting",
+    "phonetic": "/ˈmidɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cuộc họp",
+    "exampleSentence": "I hope your meeting goes well."
+  },
+  {
+    "vocabulary": "member",
+    "phonetic": "/ˈmɛmbər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hội viên",
+    "exampleSentence": "I'm showing a new member to her room."
+  },
+  {
+    "vocabulary": "menu",
+    "phonetic": "/ˈmɛnju/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thực đơn",
+    "exampleSentence": "I better start planning my menu, only four days left."
+  },
+  {
+    "vocabulary": "message",
+    "phonetic": "/ˈmɛsɪdʒ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thông điệp",
+    "exampleSentence": "She typed a message to him."
+  },
+  {
+    "vocabulary": "metre",
+    "phonetic": "/ˈmiːtə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': \"The basic unit of length in the International System of Units (SI: Système International d'Unités). It is equal to 3947⁄127 (approximately 39.37) imperial inches.\", 'vi': \"Đơn vị đo độ dài cơ bản trong Hệ đơn vị quốc tế (SI: Système International d'Unités). Nó bằng 3947⁄127 (khoảng 39,37) inch hệ Anh.\"}, {'pos': '', 'en': 'See meter.', 'vi': 'Xem đồng hồ.'}, {'pos': 'verb', 'en': '(UK, rare) Alternative spelling of meter.', 'vi': '(Anh, hiếm) Cách viết thay thế của mét.'}, {'pos': 'suffix', 'en': '(nonstandard, UK) Alternative form of -meter (suffix used to form the names of measuring devices).', 'vi': '(nonstandard, UK) Dạng thay thế của -meter (hậu tố dùng để tạo tên các thiết bị đo lường).'}",
+    "exampleSentence": "The line is of metre gauge."
+  },
+  {
+    "vocabulary": "midnight",
+    "phonetic": "/ˈmɪdˌnaɪt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nửa đêm",
+    "exampleSentence": "It was after midnight by the time I returned home."
+  },
+  {
+    "vocabulary": "mile",
+    "phonetic": "/maɪl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "dặm",
+    "exampleSentence": "They found the problem about a mile down the creek."
+  },
+  {
+    "vocabulary": "milk",
+    "phonetic": "/mɪlk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sữa",
+    "exampleSentence": "Maybe a glass of milk would help."
+  },
+  {
+    "vocabulary": "million",
+    "phonetic": "/ˈmɪljən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "triệu",
+    "exampleSentence": "It was the million dollar question."
+  },
+  {
+    "vocabulary": "minute",
+    "phonetic": "/ˈmɪnɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "phút",
+    "exampleSentence": "For a minute there, I thought I was getting forgetful."
+  },
+  {
+    "vocabulary": "miss",
+    "phonetic": "/mɪs/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Nhớ",
+    "exampleSentence": "\"I miss you,\" he whispered."
+  },
+  {
+    "vocabulary": "mistake",
+    "phonetic": "/məˈsteɪk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sai lầm",
+    "exampleSentence": "I won't make the mistake I made with you before."
+  },
+  {
+    "vocabulary": "model",
+    "phonetic": "/ˈmɑdl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "mẫu; mô hình",
+    "exampleSentence": "This model came out back this winter."
+  },
+  {
+    "vocabulary": "modern",
+    "phonetic": "/ˈmɑdərn/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "hiện đại",
+    "exampleSentence": "The road leading to the castle was modern blacktop."
+  },
+  {
+    "vocabulary": "moment",
+    "phonetic": "/ˈmoʊmənt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "chốc lát",
+    "exampleSentence": "For a moment he studied her face."
+  },
+  {
+    "vocabulary": "monday",
+    "phonetic": "/ˈməndeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thứ Hai",
+    "exampleSentence": "Monday came unwelcome for Carmen."
+  },
+  {
+    "vocabulary": "money",
+    "phonetic": "/ˈməni/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tiền bạc",
+    "exampleSentence": "He said I could spend his money with a clear conscience."
+  },
+  {
+    "vocabulary": "month",
+    "phonetic": "/mənθ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tháng",
+    "exampleSentence": "But you have less than a month to go."
+  },
+  {
+    "vocabulary": "more",
+    "phonetic": "/mɔr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hơn",
+    "exampleSentence": "Flying cars, faster cars, more features in cars, we all get that."
+  },
+  {
+    "vocabulary": "morning",
+    "phonetic": "/ˈmɔrnɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "buổi sáng",
+    "exampleSentence": "In the morning she showered and dressed before he woke."
+  },
+  {
+    "vocabulary": "most",
+    "phonetic": "/moʊst/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "phần lớn",
+    "exampleSentence": "Most people will tell you anything you want to know."
+  },
+  {
+    "vocabulary": "mother",
+    "phonetic": "/ˈməðər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mẹ",
+    "exampleSentence": "I live with my mother and daughter."
+  },
+  {
+    "vocabulary": "mountain",
+    "phonetic": "/ˈmaʊnt(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "núi",
+    "exampleSentence": "The cool mountain air made her shiver."
+  },
+  {
+    "vocabulary": "mouse",
+    "phonetic": "/maʊs/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chuột",
+    "exampleSentence": "Look, I'll be quiet as a mouse and cause no trouble."
+  },
+  {
+    "vocabulary": "mouth",
+    "phonetic": "/maʊθ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "miệng",
+    "exampleSentence": "Carmen's mouth went dry with fear."
+  },
+  {
+    "vocabulary": "move",
+    "phonetic": "/muv/",
+    "wordType": "verb",
+    "vietnameseMeaning": "di chuyển",
+    "exampleSentence": "I just want to move on."
+  },
+  {
+    "vocabulary": "movie",
+    "phonetic": "/ˈmuvi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phim",
+    "exampleSentence": "Deidre watched the movie in both fascination and fear."
+  },
+  {
+    "vocabulary": "much",
+    "phonetic": "/mətʃ/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "nhiều",
+    "exampleSentence": "How much did you pay for it?"
+  },
+  {
+    "vocabulary": "mum",
+    "phonetic": "/məm/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "mẹ",
+    "exampleSentence": "Fred continued to be mum about the trial."
+  },
+  {
+    "vocabulary": "museum",
+    "phonetic": "/mjuˈziəm/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bảo tàng",
+    "exampleSentence": "I heard we had a nice museum in the cellar."
+  },
+  {
+    "vocabulary": "music",
+    "phonetic": "/ˈmjuzɪk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "âm nhạc",
+    "exampleSentence": "Would you start the music for me?"
+  },
+  {
+    "vocabulary": "must",
+    "phonetic": "/məst/",
+    "wordType": "verb",
+    "vietnameseMeaning": "phải",
+    "exampleSentence": "She must be very uneasy about you."
+  },
+  {
+    "vocabulary": "my",
+    "phonetic": "/maɪ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "của tôi",
+    "exampleSentence": "But I warn you, if you don't tell me that this means war, if you still try to defend the infamies and horrors perpetrated by that Antichrist--I really believe he is Antichrist--I will have nothing more to do with you and you are no longer my friend, no longer my 'faithful slave,' as you call yourself!"
+  },
+  {
+    "vocabulary": "name",
+    "phonetic": "/neɪm/",
+    "wordType": "verb",
+    "vietnameseMeaning": "tên",
+    "exampleSentence": "I had already searched for the name Yancey Giddon, but found nothing."
+  },
+  {
+    "vocabulary": "natural",
+    "phonetic": "/ˈnætʃ(ə)rəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "tự nhiên",
+    "exampleSentence": "We think he might have some natural ability."
+  },
+  {
+    "vocabulary": "near",
+    "phonetic": "/ˈnɪr/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "gần",
+    "exampleSentence": "She drew near to him and stopped."
+  },
+  {
+    "vocabulary": "need",
+    "phonetic": "/nid/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cần",
+    "exampleSentence": "He did not need anything of that kind."
+  },
+  {
+    "vocabulary": "negative",
+    "phonetic": "/ˈnɛɡədɪv/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tiêu cực",
+    "exampleSentence": "What makes you so negative about him?"
+  },
+  {
+    "vocabulary": "neighbour",
+    "phonetic": "/ˈneɪbə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': 'Neighbour is an alternative spelling of the word neighbor, which is a term used to refer to people who live in your community and who are close to you.', 'vi': 'Neighbor là một cách viết thay thế của từ hàng xóm, là một thuật ngữ được sử dụng để chỉ những người sống trong cộng đồng của bạn và những người thân thiết với bạn.'}, {'pos': 'verb', 'en': 'To be adjacent to (more often used as neighbouring)', 'vi': 'Để được liền kề với (thường được sử dụng như lân cận)'}",
+    "exampleSentence": "When in 68 his neighbour Galba, the governor of Hispania Tarraconensis, rose in revolt against Nero, Otho accompanied him to Rome."
+  },
+  {
+    "vocabulary": "never",
+    "phonetic": "/ˈnɛvər/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "không bao giờ",
+    "exampleSentence": "I've never thought about it before."
+  },
+  {
+    "vocabulary": "new",
+    "phonetic": "/n(j)u/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "mới",
+    "exampleSentence": "She helped Carmen into the new dress."
+  },
+  {
+    "vocabulary": "news",
+    "phonetic": "/n(j)uz/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tin tức",
+    "exampleSentence": "The news was devastating to all of us."
+  },
+  {
+    "vocabulary": "newspaper",
+    "phonetic": "/ˈn(j)uzˌpeɪpər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "báo chí",
+    "exampleSentence": "I got interviewed for a newspaper in Zanesville, Ohio."
+  },
+  {
+    "vocabulary": "next",
+    "phonetic": "/nɛkst/",
+    "wordType": "noun",
+    "vietnameseMeaning": "kế tiếp",
+    "exampleSentence": "The kids are in the next room."
+  },
+  {
+    "vocabulary": "next to",
+    "phonetic": "/nɛkst tuː/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "{'pos': 'adverb', 'en': '(idiomatic) Almost; nearly.', 'vi': '(thành ngữ) Hầu như; Gần.'}, {'pos': 'preposition', 'en': 'Beside; alongside.', 'vi': 'Bên cạnh; cùng với.'}",
+    "exampleSentence": "Carmen found Alex relaxing in a chair next to the bed in their room."
+  },
+  {
+    "vocabulary": "nice",
+    "phonetic": "/naɪs/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "đẹp",
+    "exampleSentence": "It's nice to have that special respect."
+  },
+  {
+    "vocabulary": "night",
+    "phonetic": "/naɪt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đêm",
+    "exampleSentence": "That night... was Dad's birthday."
+  },
+  {
+    "vocabulary": "nine",
+    "phonetic": "/naɪn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số chín",
+    "exampleSentence": "It's not even nine o'clock here."
+  },
+  {
+    "vocabulary": "nineteen",
+    "phonetic": "/ˌnaɪnˈtin/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số mười chín (19)",
+    "exampleSentence": "In the first place she had nineteen months' experience of sight and sound."
+  },
+  {
+    "vocabulary": "ninety",
+    "phonetic": "/ˈnaɪn(t)i/",
+    "wordType": "noun",
+    "vietnameseMeaning": "chín mươi",
+    "exampleSentence": "She was ninety eight percent human."
+  },
+  {
+    "vocabulary": "no",
+    "phonetic": "/noʊ/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Dạ chưa.",
+    "exampleSentence": "That made no sense."
+  },
+  {
+    "vocabulary": "no one",
+    "phonetic": "/nəʊ wʌn/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "{'pos': 'pronoun', 'en': 'No person; nobody.', 'vi': 'Không có người; không ai.'}, {'pos': 'noun', 'en': 'No person; not anyone; nobody.', 'vi': 'Không có người; không phải bất cứ ai; không ai.'}",
+    "exampleSentence": "I had connections no one else did."
+  },
+  {
+    "vocabulary": "nobody",
+    "phonetic": "/ˈnoʊˌbɑdi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "không ai",
+    "exampleSentence": "Maybe it was nobody at all."
+  },
+  {
+    "vocabulary": "north",
+    "phonetic": "/nɔrθ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phia Băc",
+    "exampleSentence": "Jenn looked north and began walking."
+  },
+  {
+    "vocabulary": "nose",
+    "phonetic": "/noʊz/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mũi",
+    "exampleSentence": "\"But Jim knows his business all right--don't you, Jim?\" patting the long nose of the animal."
+  },
+  {
+    "vocabulary": "not",
+    "phonetic": "/nɑt/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "không phải",
+    "exampleSentence": "Perhaps I don't understand things, but Austria never has wished, and does not wish, for war."
+  },
+  {
+    "vocabulary": "note",
+    "phonetic": "/noʊt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "chú thích",
+    "exampleSentence": "She grabbed the note pad and wrote a brand name and quantity."
+  },
+  {
+    "vocabulary": "nothing",
+    "phonetic": "/ˈnəθɪŋ/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "không có gì",
+    "exampleSentence": "She tried to speak, but nothing came out."
+  },
+  {
+    "vocabulary": "november",
+    "phonetic": "/noʊˈvɛmbər/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "tháng Mười một",
+    "exampleSentence": "Jule's is November third."
+  },
+  {
+    "vocabulary": "now",
+    "phonetic": "/naʊ/",
+    "wordType": "abbreviation",
+    "vietnameseMeaning": "hiện nay",
+    "exampleSentence": "Now go home and get some rest."
+  },
+  {
+    "vocabulary": "number",
+    "phonetic": "/ˈnəmbər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "con số",
+    "exampleSentence": "You have my number, don't you?"
+  },
+  {
+    "vocabulary": "nurse",
+    "phonetic": "/nərs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Y tá",
+    "exampleSentence": "\"I've come to sit with you a bit, Masha,\" said the nurse, \"and here I've brought the prince's wedding candles to light before his saint, my angel,\" she said with a sigh."
+  },
+  {
+    "vocabulary": "o clock",
+    "phonetic": "/əˈklɒk/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "{'pos': 'adverb', 'en': 'Of or according to the clock.', 'vi': 'Của hoặc theo đồng hồ.'}",
+    "exampleSentence": "It's pushing two o'clock in the morning."
+  },
+  {
+    "vocabulary": "object",
+    "phonetic": "/ˈɑbdʒɛkt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "vật",
+    "exampleSentence": "He shoved a shiny red object at her."
+  },
+  {
+    "vocabulary": "october",
+    "phonetic": "/ɑkˈtoʊbər/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "tháng Mười",
+    "exampleSentence": "Late October was a little slow."
+  },
+  {
+    "vocabulary": "of",
+    "phonetic": "/əv/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "của",
+    "exampleSentence": "\"Of course not,\" said Dorothy."
+  },
+  {
+    "vocabulary": "off",
+    "phonetic": "/ɔf/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "tắt",
+    "exampleSentence": "Thank you for getting me off the hook."
+  },
+  {
+    "vocabulary": "office",
+    "phonetic": "/ˈɔfɪs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "văn phòng",
+    "exampleSentence": "I've repaired the computers in your office, too."
+  },
+  {
+    "vocabulary": "often",
+    "phonetic": "/ˈɔf(t)ən/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "thường thường",
+    "exampleSentence": "Poor people are often sick."
+  },
+  {
+    "vocabulary": "oh",
+    "phonetic": "/oʊ/",
+    "wordType": "interjection",
+    "vietnameseMeaning": "ồ",
+    "exampleSentence": "Oh, I forgot to ask."
+  },
+  {
+    "vocabulary": "ok",
+    "phonetic": "/ˌoʊˈkeɪ/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Vâng",
+    "exampleSentence": "\"I'm OK,\" she said in a voice saturated with tears."
+  },
+  {
+    "vocabulary": "old",
+    "phonetic": "/oʊld/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "cũ; lớn tuổi",
+    "exampleSentence": "My parents used to listen to those old songs."
+  },
+  {
+    "vocabulary": "on",
+    "phonetic": "/ɑn/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "trên, ở trên",
+    "exampleSentence": "A warm hand rested on her waist."
+  },
+  {
+    "vocabulary": "once",
+    "phonetic": "/wəns/",
+    "wordType": "noun",
+    "vietnameseMeaning": "một lần",
+    "exampleSentence": "Once again she sighed deeply."
+  },
+  {
+    "vocabulary": "one",
+    "phonetic": "/wən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số một, một",
+    "exampleSentence": "\"One person cannot be called 'people,'\" said the Sorcerer."
+  },
+  {
+    "vocabulary": "onion",
+    "phonetic": "/ˈənjən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "củ hành",
+    "exampleSentence": "It is also known as the underground onion, from its habit of producing its bulbs beneath the surface."
+  },
+  {
+    "vocabulary": "online",
+    "phonetic": "/ɑnˈlaɪn/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "trực tuyến",
+    "exampleSentence": "\"It's online?\" she exclaimed."
+  },
+  {
+    "vocabulary": "only",
+    "phonetic": "/ˈoʊnli/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "chỉ có",
+    "exampleSentence": "I only wish there was a real horse here for me to race with."
+  },
+  {
+    "vocabulary": "open",
+    "phonetic": "/ˈoʊpən/",
+    "wordType": "verb",
+    "vietnameseMeaning": "mở",
+    "exampleSentence": "You don't have to open your mouth."
+  },
+  {
+    "vocabulary": "opinion",
+    "phonetic": "/əˈpɪnjən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ý kiến",
+    "exampleSentence": "You always did have a high opinion of yourself."
+  },
+  {
+    "vocabulary": "opposite",
+    "phonetic": "/ˈɑpəzət/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đối lập",
+    "exampleSentence": "Without another word, he turned the horse and kicked it into a trot in the opposite direction."
+  },
+  {
+    "vocabulary": "or",
+    "phonetic": "/ɔr/",
+    "wordType": "abbreviation",
+    "vietnameseMeaning": "hoặc",
+    "exampleSentence": "Do you want a boy or a girl, Dad?"
+  },
+  {
+    "vocabulary": "orange",
+    "phonetic": "/ˈɔrəndʒ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "quả cam; màu cam",
+    "exampleSentence": "I gave him some orange juice."
+  },
+  {
+    "vocabulary": "order",
+    "phonetic": "/ˈɔrdər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "gọi món",
+    "exampleSentence": "The restraining order is for Destiny, not Alex."
+  },
+  {
+    "vocabulary": "other",
+    "phonetic": "/ˈəðər/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "khác",
+    "exampleSentence": "He closed the door and walked around to the other side."
+  },
+  {
+    "vocabulary": "our",
+    "phonetic": "/ˈaʊ(ə)r/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "của chúng tôi",
+    "exampleSentence": "We are already well on our way."
+  },
+  {
+    "vocabulary": "out",
+    "phonetic": "/aʊt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "ngoài",
+    "exampleSentence": "Carmen held out a hand."
+  },
+  {
+    "vocabulary": "outside",
+    "phonetic": "/ˈaʊtsaɪd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bên ngoài",
+    "exampleSentence": "Felipa said it was supposed to be nice outside today."
+  },
+  {
+    "vocabulary": "over",
+    "phonetic": "/ˈoʊvər/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "kết thúc",
+    "exampleSentence": "He is famous all over the world."
+  },
+  {
+    "vocabulary": "own",
+    "phonetic": "/oʊn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "riêng",
+    "exampleSentence": "Was it greedy to want one of their own as well?"
+  },
+  {
+    "vocabulary": "page",
+    "phonetic": "/peɪdʒ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "trang",
+    "exampleSentence": "She watched him turn a page and touch it."
+  },
+  {
+    "vocabulary": "paint",
+    "phonetic": "/peɪnt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sơn; vẽ",
+    "exampleSentence": "I had to bring you here so I could paint a portrait."
+  },
+  {
+    "vocabulary": "painting",
+    "phonetic": "/ˈpeɪn(t)ɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bức tranh",
+    "exampleSentence": "I didn't want you to see the painting until it was done."
+  },
+  {
+    "vocabulary": "pair",
+    "phonetic": "/pɛr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cặp",
+    "exampleSentence": "Carmen made a ball out of a pair of socks."
+  },
+  {
+    "vocabulary": "paper",
+    "phonetic": "/ˈpeɪpər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Giấy",
+    "exampleSentence": "I put aside the paper and tried to nap."
+  },
+  {
+    "vocabulary": "paragraph",
+    "phonetic": "/ˈpɛrəˌɡræf/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đoạn",
+    "exampleSentence": "I was reading the following paragraph to her:"
+  },
+  {
+    "vocabulary": "parent",
+    "phonetic": "/ˈpɛrənt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cha mẹ",
+    "exampleSentence": "What causes a parent to love one child more than another?"
+  },
+  {
+    "vocabulary": "park",
+    "phonetic": "/pɑrk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "công viên",
+    "exampleSentence": "I took the shortest way through the little park behind the palace."
+  },
+  {
+    "vocabulary": "part",
+    "phonetic": "/pɑrt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "phần",
+    "exampleSentence": "They will become part of the solution."
+  },
+  {
+    "vocabulary": "partner",
+    "phonetic": "/ˈpɑrtnər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cộng sự",
+    "exampleSentence": "He'd never had a partner in all his time alive."
+  },
+  {
+    "vocabulary": "party",
+    "phonetic": "/ˈpɑrdi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bữa tiệc",
+    "exampleSentence": "So the party was actually for him, not both of them."
+  },
+  {
+    "vocabulary": "passport",
+    "phonetic": "/ˈpæsˌpɔrt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hộ chiếu",
+    "exampleSentence": "But the terms passport and sea-letter are often used indiscriminately."
+  },
+  {
+    "vocabulary": "past",
+    "phonetic": "/pæst/",
+    "wordType": "noun",
+    "vietnameseMeaning": "quá khứ",
+    "exampleSentence": "They had to move forward, and leave the past behind them."
+  },
+  {
+    "vocabulary": "pay",
+    "phonetic": "/peɪ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "trả",
+    "exampleSentence": "How much would you pay for that pan today?"
+  },
+  {
+    "vocabulary": "pen",
+    "phonetic": "/pɛn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cây bút",
+    "exampleSentence": "The pen has black ink in it now."
+  },
+  {
+    "vocabulary": "pencil",
+    "phonetic": "/ˈpɛnsəl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bút chì",
+    "exampleSentence": "I got my pencil ready."
+  },
+  {
+    "vocabulary": "people",
+    "phonetic": "/ˈpipəl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "(nhiều) người",
+    "exampleSentence": "Most people will tell you anything you want to know."
+  },
+  {
+    "vocabulary": "pepper",
+    "phonetic": "/ˈpɛpər/",
+    "wordType": "verb",
+    "vietnameseMeaning": "tiêu",
+    "exampleSentence": "Chili pepper lights distracted her."
+  },
+  {
+    "vocabulary": "perfect",
+    "phonetic": "/ˈpərfɪkt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Hoàn hảo!",
+    "exampleSentence": "I think you're the most perfect person I've ever met."
+  },
+  {
+    "vocabulary": "period",
+    "phonetic": "/ˈpɪriəd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "một khoảng thời gian",
+    "exampleSentence": "They covered a period of twenty years."
+  },
+  {
+    "vocabulary": "person",
+    "phonetic": "/ˈpərs(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "(một) người",
+    "exampleSentence": "Do you expect to find this person in Ashley?"
+  },
+  {
+    "vocabulary": "personal",
+    "phonetic": "/ˈpərs(ə)n(ə)l/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "cá nhân",
+    "exampleSentence": "We all have a personal life."
+  },
+  {
+    "vocabulary": "phone",
+    "phonetic": "/foʊn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "điện thoại",
+    "exampleSentence": "The phone woke me up, even though it wasn't very loud."
+  },
+  {
+    "vocabulary": "photo",
+    "phonetic": "/ˈfoʊdoʊ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ảnh",
+    "exampleSentence": "The babies in the photo were living beings."
+  },
+  {
+    "vocabulary": "photograph",
+    "phonetic": "/ˈfoʊdəˌɡræf/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ảnh chụp",
+    "exampleSentence": "Dean tried to picture Byrne from his photograph but nothing came to mind."
+  },
+  {
+    "vocabulary": "phrase",
+    "phonetic": "/freɪz/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cụm từ",
+    "exampleSentence": "She repeated the phrase over and over, searching for another meaning."
+  },
+  {
+    "vocabulary": "piano",
+    "phonetic": "/piˈænoʊ/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "đàn piano",
+    "exampleSentence": "She had taken a few piano lessons at the Perkins Institution."
+  },
+  {
+    "vocabulary": "picture",
+    "phonetic": "/ˈpɪk(t)ʃər/",
+    "wordType": "verb",
+    "vietnameseMeaning": "hình ảnh",
+    "exampleSentence": "It was a picture taken at the party and the focus was on Carmen and Alex."
+  },
+  {
+    "vocabulary": "piece",
+    "phonetic": "/pis/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mảnh",
+    "exampleSentence": "Now cut me a piece of that pie."
+  },
+  {
+    "vocabulary": "pig",
+    "phonetic": "/pɪɡ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Con lợn, con heo",
+    "exampleSentence": "If I promise not to act like a misogynist pig, would you have dinner with me?"
+  },
+  {
+    "vocabulary": "pink",
+    "phonetic": "/pɪŋk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Màu hồng",
+    "exampleSentence": "It was pink with white tips, in an antique brass planter."
+  },
+  {
+    "vocabulary": "place",
+    "phonetic": "/pleɪs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "địa điểm",
+    "exampleSentence": "In the first place, he didn't consider this home."
+  },
+  {
+    "vocabulary": "plan",
+    "phonetic": "/plæn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "kế hoạch",
+    "exampleSentence": "I plan on it."
+  },
+  {
+    "vocabulary": "plane",
+    "phonetic": "/pleɪn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "máy bay",
+    "exampleSentence": "I'll make a plane reservation."
+  },
+  {
+    "vocabulary": "plant",
+    "phonetic": "/plænt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thực vật",
+    "exampleSentence": "If a plant cannot live according to its nature, it dies; and so a man."
+  },
+  {
+    "vocabulary": "play",
+    "phonetic": "/pleɪ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chơi",
+    "exampleSentence": "I love to play with little sister."
+  },
+  {
+    "vocabulary": "player",
+    "phonetic": "/ˈpleɪər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "người chơi",
+    "exampleSentence": "\"That's a good player of ours,\" she added."
+  },
+  {
+    "vocabulary": "please",
+    "phonetic": "/pliz/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "xin vui lòng",
+    "exampleSentence": "Please don't tell her!"
+  },
+  {
+    "vocabulary": "point",
+    "phonetic": "/pɔɪnt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "điểm",
+    "exampleSentence": "At some point she fell asleep."
+  },
+  {
+    "vocabulary": "police",
+    "phonetic": "/pəˈlis/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cảnh sát",
+    "exampleSentence": "Let the police check him out!"
+  },
+  {
+    "vocabulary": "policeman",
+    "phonetic": "/pəˈlismən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cảnh sát",
+    "exampleSentence": "Talking to that policeman set him even more."
+  },
+  {
+    "vocabulary": "pool",
+    "phonetic": "/pul/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hồ bơi",
+    "exampleSentence": "We've got a pool going in the office."
+  },
+  {
+    "vocabulary": "poor",
+    "phonetic": "/pʊr/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "nghèo nàn",
+    "exampleSentence": "The poor kid is feeling deserted."
+  },
+  {
+    "vocabulary": "popular",
+    "phonetic": "/ˈpɑpjələr/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "phổ biến, nổi tiếng",
+    "exampleSentence": "He had now become a popular leader."
+  },
+  {
+    "vocabulary": "positive",
+    "phonetic": "/ˈpɑzədɪv/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tích cực",
+    "exampleSentence": "I'm positive she didn't notice us the first time."
+  },
+  {
+    "vocabulary": "possible",
+    "phonetic": "/ˈpɑsəb(ə)l/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "khả thi",
+    "exampleSentence": "I have only three possible answers."
+  },
+  {
+    "vocabulary": "post",
+    "phonetic": "/poʊst/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bài đăng",
+    "exampleSentence": "All my mail goes to a post office box."
+  },
+  {
+    "vocabulary": "potato",
+    "phonetic": "/pəˈteɪdoʊ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khoai tây",
+    "exampleSentence": "Katie stared at the potato in her hand."
+  },
+  {
+    "vocabulary": "pound",
+    "phonetic": "/paʊnd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bảng Anh",
+    "exampleSentence": "Sofia wanted to pound Jake's face in."
+  },
+  {
+    "vocabulary": "practice",
+    "phonetic": "/ˈpræktəs/",
+    "wordType": "verb",
+    "vietnameseMeaning": "thực hành",
+    "exampleSentence": "Everything gets better with practice, Carmen."
+  },
+  {
+    "vocabulary": "practise",
+    "phonetic": "/ˈpræktɪs/",
+    "wordType": "verb",
+    "vietnameseMeaning": "{'pos': 'verb', 'en': \"(UK, Canada, Australia, New Zealand, Ireland) To repeat as a way of improving one's skill in that activity.\", 'vi': '(Vương quốc Anh, Canada, Úc, New Zealand, Ireland) Để lặp lại như một cách cải thiện kỹ năng của một người trong hoạt động đó.'}",
+    "exampleSentence": "A rescript of Augustus forbade Roman citizens to practise druidical rites."
+  },
+  {
+    "vocabulary": "prefer",
+    "phonetic": "/prəˈfər/",
+    "wordType": "verb",
+    "vietnameseMeaning": "thích hơn",
+    "exampleSentence": "I prefer to work on my terms."
+  },
+  {
+    "vocabulary": "prepare",
+    "phonetic": "/prəˈpɛr/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chuẩn bị",
+    "exampleSentence": "We have two days to prepare ourselves."
+  },
+  {
+    "vocabulary": "present",
+    "phonetic": "/ˈprɛz(ə)nt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Có mặt.",
+    "exampleSentence": "Let him present his side."
+  },
+  {
+    "vocabulary": "pretty",
+    "phonetic": "/ˈprɪdi/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "xinh đẹp",
+    "exampleSentence": "Oh, what a pretty sound it made!"
+  },
+  {
+    "vocabulary": "price",
+    "phonetic": "/praɪs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "giá bán",
+    "exampleSentence": "Then they all agree to set the price per flip at $1,000."
+  },
+  {
+    "vocabulary": "probably",
+    "phonetic": "/ˈprɑbəbli/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "có lẽ",
+    "exampleSentence": "She was probably right."
+  },
+  {
+    "vocabulary": "problem",
+    "phonetic": "/ˈprɑbləm/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "vấn đề",
+    "exampleSentence": "The problem wasn't Dulce or his father."
+  },
+  {
+    "vocabulary": "product",
+    "phonetic": "/ˈprɑdəkt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sản phẩm",
+    "exampleSentence": "Either way, the words were the product of a kind heart."
+  },
+  {
+    "vocabulary": "programme",
+    "phonetic": "/ˈprəʊgræm/",
+    "wordType": "verb",
+    "vietnameseMeaning": "{'pos': 'verb', 'en': 'Programme is a British spelling for program, which is defined as to input data into a machine to cause it to do a certain thing, or to train a person or animal to behave or react in a certain way.', 'vi': 'Chương trình là cách viết của tiếng Anh cho chương trình, được định nghĩa là nhập dữ liệu vào máy để khiến nó thực hiện một việc nhất định hoặc huấn luyện một người hoặc động vật cư xử hoặc phản ứng theo một cách nhất định.'}, {'pos': 'noun', 'en': 'Programme is a British spelling for a program, which is a planned series of events, or a performance, or a booklet telling you what events to expect as part of a series of events.', 'vi': 'Chương trình là cách viết tiếng Anh của một chương trình, là một chuỗi sự kiện được lên kế hoạch hoặc một buổi biểu diễn, hoặc một tập sách cho bạn biết những sự kiện sẽ xảy ra như một phần của một chuỗi sự kiện.'}",
+    "exampleSentence": "This programme he fulfilled."
+  },
+  {
+    "vocabulary": "project",
+    "phonetic": "/ˈprɑˌdʒɛkt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "dự án",
+    "exampleSentence": "Quinn's sabbatical project lost its funding."
+  },
+  {
+    "vocabulary": "purple",
+    "phonetic": "/ˈpərpəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Màu tím",
+    "exampleSentence": "Nina returned with a dress made of dark purple velvet and satin."
+  },
+  {
+    "vocabulary": "put",
+    "phonetic": "/pʊt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đặt",
+    "exampleSentence": "She put on her red dress."
+  },
+  {
+    "vocabulary": "quarter",
+    "phonetic": "/ˈkwɔrdər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "25 xu",
+    "exampleSentence": "That's a quarter of all the hungry people in the world."
+  },
+  {
+    "vocabulary": "question",
+    "phonetic": "/ˈkwɛstʃ(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "câu hỏi",
+    "exampleSentence": "The big question was, would her confidence last?"
+  },
+  {
+    "vocabulary": "quick",
+    "phonetic": "/kwɪk/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "nhanh chóng",
+    "exampleSentence": "She took a quick step back."
+  },
+  {
+    "vocabulary": "quickly",
+    "phonetic": "/ˈkwɪkli/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "mau",
+    "exampleSentence": "The storm passed quickly, but the night remained warm."
+  },
+  {
+    "vocabulary": "quiet",
+    "phonetic": "/ˈkwaɪət/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Yên lặng",
+    "exampleSentence": "You are quiet this morning, son."
+  },
+  {
+    "vocabulary": "quite",
+    "phonetic": "/kwaɪt/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "khá",
+    "exampleSentence": "It is quite near the park gate."
+  },
+  {
+    "vocabulary": "radio",
+    "phonetic": "/ˈreɪdioʊ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đài phát thanh",
+    "exampleSentence": "The radio had shifted into Christmas mode with one song after another."
+  },
+  {
+    "vocabulary": "rain",
+    "phonetic": "/reɪn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mưa",
+    "exampleSentence": "The rain on the roof was soothing."
+  },
+  {
+    "vocabulary": "read",
+    "phonetic": "/rid/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đọc",
+    "exampleSentence": "Read books that are true."
+  },
+  {
+    "vocabulary": "reader",
+    "phonetic": "/ˈridər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "người đọc",
+    "exampleSentence": "Will you be a reader, a student merely, or a seer?"
+  },
+  {
+    "vocabulary": "reading",
+    "phonetic": "/ˈridɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đọc hiểu",
+    "exampleSentence": "He was always reading, learning, inquiring."
+  },
+  {
+    "vocabulary": "ready",
+    "phonetic": "/ˈrɛdi/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "sẳn sàng",
+    "exampleSentence": "Let's get the kids ready to go."
+  },
+  {
+    "vocabulary": "real",
+    "phonetic": "/ˈri(ə)l/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "thực, thực tế, có thật",
+    "exampleSentence": "The real surprise came with his presence in the delivery room."
+  },
+  {
+    "vocabulary": "really",
+    "phonetic": "/ˈri(ə)li/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "có thật không",
+    "exampleSentence": "You look really tired."
+  },
+  {
+    "vocabulary": "reason",
+    "phonetic": "/ˈrizən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "lý do",
+    "exampleSentence": "He had no reason to worry."
+  },
+  {
+    "vocabulary": "red",
+    "phonetic": "/rɛd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "màu đỏ",
+    "exampleSentence": "He held out a bottle of red water."
+  },
+  {
+    "vocabulary": "relax",
+    "phonetic": "/rəˈlæks/",
+    "wordType": "verb",
+    "vietnameseMeaning": "thư giãn",
+    "exampleSentence": "Relax, I've got this."
+  },
+  {
+    "vocabulary": "remember",
+    "phonetic": "/rəˈmɛmbər/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nhớ lại",
+    "exampleSentence": "Do you remember that rumor in school?"
+  },
+  {
+    "vocabulary": "repeat",
+    "phonetic": "/rəˈpit/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nói lại",
+    "exampleSentence": "He had to repeat the question."
+  },
+  {
+    "vocabulary": "report",
+    "phonetic": "/rəˈpɔrt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bài báo cáo",
+    "exampleSentence": "Send me a report when you're done."
+  },
+  {
+    "vocabulary": "restaurant",
+    "phonetic": "/ˈrɛst(ə)rənt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nhà hàng",
+    "exampleSentence": "The ride to the restaurant was a quiet one."
+  },
+  {
+    "vocabulary": "result",
+    "phonetic": "/rəˈzəlt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "kết quả",
+    "exampleSentence": "We do know as a result of earlier tests EA, as we call it, is also part of the lure."
+  },
+  {
+    "vocabulary": "return",
+    "phonetic": "/rəˈtərn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "trở về",
+    "exampleSentence": "I have something to return to you."
+  },
+  {
+    "vocabulary": "rice",
+    "phonetic": "/raɪs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Cơm",
+    "exampleSentence": "The rice and beans were bland until mixed together."
+  },
+  {
+    "vocabulary": "rich",
+    "phonetic": "/rɪtʃ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "giàu có",
+    "exampleSentence": "The rich have always had this luxury."
+  },
+  {
+    "vocabulary": "ride",
+    "phonetic": "/raɪd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "dap xe",
+    "exampleSentence": "The rest of the ride was pleasant."
+  },
+  {
+    "vocabulary": "right",
+    "phonetic": "/raɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bên phải",
+    "exampleSentence": "Right now she didn't care where they were."
+  },
+  {
+    "vocabulary": "river",
+    "phonetic": "/ˈrɪvər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "dòng sông",
+    "exampleSentence": "Everything west of the river was blank."
+  },
+  {
+    "vocabulary": "road",
+    "phonetic": "/roʊd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "đường",
+    "exampleSentence": "Didn't the police set up road blocks?"
+  },
+  {
+    "vocabulary": "room",
+    "phonetic": "/rum/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phòng",
+    "exampleSentence": "Sometimes he even did it when there was a room full of people between them."
+  },
+  {
+    "vocabulary": "routine",
+    "phonetic": "/ruˈtin/",
+    "wordType": "noun",
+    "vietnameseMeaning": "công việc hằng ngày",
+    "exampleSentence": "In a few more weeks she could make a routine visit to the doctor."
+  },
+  {
+    "vocabulary": "rule",
+    "phonetic": "/rul/",
+    "wordType": "verb",
+    "vietnameseMeaning": "quy tắc",
+    "exampleSentence": "But I didn't make that rule up."
+  },
+  {
+    "vocabulary": "run",
+    "phonetic": "/rən/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chạy",
+    "exampleSentence": "I didn't run away."
+  },
+  {
+    "vocabulary": "sad",
+    "phonetic": "/sæd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "buồn",
+    "exampleSentence": "She clearly felt sad to see this day end."
+  },
+  {
+    "vocabulary": "salad",
+    "phonetic": "/ˈsæləd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "rau trộn; xà lách trộn",
+    "exampleSentence": "He stirred his potato salad thoughtfully."
+  },
+  {
+    "vocabulary": "salt",
+    "phonetic": "/sɔlt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "muối",
+    "exampleSentence": "You can get that salt shaker now, Cynthia."
+  },
+  {
+    "vocabulary": "same",
+    "phonetic": "/seɪm/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "cùng",
+    "exampleSentence": "It was the same man, she was sure of it."
+  },
+  {
+    "vocabulary": "sandwich",
+    "phonetic": "/ˈsænˌ(d)wɪtʃ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bánh mì sandwich",
+    "exampleSentence": "I'm going to make myself a sandwich and get back to work."
+  },
+  {
+    "vocabulary": "saturday",
+    "phonetic": "/ˈsædərˌdeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thứ Bảy",
+    "exampleSentence": "We left Hulton Friday night and arrived here Saturday morning."
+  },
+  {
+    "vocabulary": "say",
+    "phonetic": "/seɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nói",
+    "exampleSentence": "I like the way you say thank you."
+  },
+  {
+    "vocabulary": "school",
+    "phonetic": "/skul/",
+    "wordType": "noun",
+    "vietnameseMeaning": "trường học",
+    "exampleSentence": "I go to school every day, and I learn many new things."
+  },
+  {
+    "vocabulary": "science",
+    "phonetic": "/ˈsaɪəns/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khoa học",
+    "exampleSentence": "Does any section of science consider time travel a possibility?"
+  },
+  {
+    "vocabulary": "scientist",
+    "phonetic": "/ˈsaɪəntəst/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nhà khoa học",
+    "exampleSentence": "The scientist hopped up with a cheerful salute."
+  },
+  {
+    "vocabulary": "sea",
+    "phonetic": "/si/",
+    "wordType": "noun",
+    "vietnameseMeaning": "biển cả",
+    "exampleSentence": "The sea was rough."
+  },
+  {
+    "vocabulary": "second",
+    "phonetic": "/ˈsɛkənd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "thứ hai",
+    "exampleSentence": "A second and a third cannon ball flew past."
+  },
+  {
+    "vocabulary": "section",
+    "phonetic": "/ˈsɛkʃ(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phần",
+    "exampleSentence": "The rubber is circular in section, and about 2 in."
+  },
+  {
+    "vocabulary": "see",
+    "phonetic": "/si/",
+    "wordType": "verb",
+    "vietnameseMeaning": "thấy",
+    "exampleSentence": "I see what you mean."
+  },
+  {
+    "vocabulary": "sell",
+    "phonetic": "/sɛl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bán (hàng hoá)",
+    "exampleSentence": "I had a beautiful black once, but I had to sell it."
+  },
+  {
+    "vocabulary": "send",
+    "phonetic": "/sɛnd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "gửi",
+    "exampleSentence": "I'll be sure to send it to you."
+  },
+  {
+    "vocabulary": "sentence",
+    "phonetic": "/ˈsɛn(t)əns/",
+    "wordType": "verb",
+    "vietnameseMeaning": "kết án",
+    "exampleSentence": "He typed a short sentence, and then stopped."
+  },
+  {
+    "vocabulary": "september",
+    "phonetic": "/sɛpˈtɛmbər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tháng Chín",
+    "exampleSentence": "He'll go back to school in September, but miss the spring semester, and not graduate."
+  },
+  {
+    "vocabulary": "seven",
+    "phonetic": "/ˈsɛvən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Số bảy",
+    "exampleSentence": "I knew someone who received that sacrament seven times."
+  },
+  {
+    "vocabulary": "seventeen",
+    "phonetic": "/ˌsɛvənˈtin/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mười bảy",
+    "exampleSentence": "At seventeen, Jenny would easily have passed for twenty-one."
+  },
+  {
+    "vocabulary": "seventy",
+    "phonetic": "/ˈsɛvən(t)i/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bảy mươi",
+    "exampleSentence": "She must weigh seventy pounds or more."
+  },
+  {
+    "vocabulary": "share",
+    "phonetic": "/ʃɛr/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chia sẻ",
+    "exampleSentence": "I had no plans to share with Howie what I'd learned of his previous life."
+  },
+  {
+    "vocabulary": "she",
+    "phonetic": "/ʃi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bà ấy",
+    "exampleSentence": "She is betraying us!"
+  },
+  {
+    "vocabulary": "sheep",
+    "phonetic": "/ʃip/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cừu",
+    "exampleSentence": "Alex knew the sheep liked this area."
+  },
+  {
+    "vocabulary": "shirt",
+    "phonetic": "/ʃərt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "áo sơ mi",
+    "exampleSentence": "\"Let's go,\" Alex said, tucking his shirt into his pants."
+  },
+  {
+    "vocabulary": "shoe",
+    "phonetic": "/ʃu/",
+    "wordType": "noun",
+    "vietnameseMeaning": "giày",
+    "exampleSentence": "Maybe he was wondering when the other shoe would fall."
+  },
+  {
+    "vocabulary": "shop",
+    "phonetic": "/ʃɑp/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cửa tiệm",
+    "exampleSentence": "It was too early for the silver shop to be open."
+  },
+  {
+    "vocabulary": "shopping",
+    "phonetic": "/ˈʃɑpɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mua sắm",
+    "exampleSentence": "I can't even get on her shopping list."
+  },
+  {
+    "vocabulary": "short",
+    "phonetic": "/ʃɔrt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "thấp, lùn; ngắn",
+    "exampleSentence": "Life's too short as it is."
+  },
+  {
+    "vocabulary": "should",
+    "phonetic": "/ʃʊd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nên",
+    "exampleSentence": "She should wash them, but there wasn't time."
+  },
+  {
+    "vocabulary": "show",
+    "phonetic": "/ʃoʊ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chỉ",
+    "exampleSentence": "I'll show you where you can sleep."
+  },
+  {
+    "vocabulary": "shower",
+    "phonetic": "/ˈʃaʊ(ə)r/",
+    "wordType": "noun",
+    "vietnameseMeaning": "vòi hoa sen",
+    "exampleSentence": "After a warm shower, she felt better."
+  },
+  {
+    "vocabulary": "sick",
+    "phonetic": "/sɪk/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "đau ốm",
+    "exampleSentence": "Mom was sick and we needed a doctor."
+  },
+  {
+    "vocabulary": "similar",
+    "phonetic": "/ˈsɪm(ə)lər/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "tương tự",
+    "exampleSentence": "We have a similar sense of humor, I think."
+  },
+  {
+    "vocabulary": "sing",
+    "phonetic": "/sɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hát",
+    "exampleSentence": "He obliged and she started to sing Happy Birthday."
+  },
+  {
+    "vocabulary": "singer",
+    "phonetic": "/ˈsɪŋər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ca sĩ",
+    "exampleSentence": "The lips of the singer were closed."
+  },
+  {
+    "vocabulary": "sister",
+    "phonetic": "/ˈsɪstər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "em gái",
+    "exampleSentence": "Howard had insisted on picking up his little sister that night for safety reasons."
+  },
+  {
+    "vocabulary": "sit",
+    "phonetic": "/sɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "ngồi",
+    "exampleSentence": "Come in and sit down."
+  },
+  {
+    "vocabulary": "situation",
+    "phonetic": "/ˌsɪtʃəˈweɪʃ(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tình hình",
+    "exampleSentence": "I don't know how I got into this situation in the first place."
+  },
+  {
+    "vocabulary": "six",
+    "phonetic": "/sɪks/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Số sáu",
+    "exampleSentence": "Dinner will be ready at six O'clock."
+  },
+  {
+    "vocabulary": "sixteen",
+    "phonetic": "/sɪkˈstin/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số mười sáu (16)",
+    "exampleSentence": "I'll be sixteen in a month."
+  },
+  {
+    "vocabulary": "sixty",
+    "phonetic": "/ˈsɪksti/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sáu mươi",
+    "exampleSentence": "\"You've got sixty seconds,\" he told her."
+  },
+  {
+    "vocabulary": "skill",
+    "phonetic": "/skɪl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "kỹ năng",
+    "exampleSentence": "We have the skill and the strategy."
+  },
+  {
+    "vocabulary": "skirt",
+    "phonetic": "/skərt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "váy",
+    "exampleSentence": "She stood up, brushing down her skirt and looked at him."
+  },
+  {
+    "vocabulary": "sleep",
+    "phonetic": "/slip/",
+    "wordType": "verb",
+    "vietnameseMeaning": "ngủ",
+    "exampleSentence": "Are you wiping the sleep from your eyes?"
+  },
+  {
+    "vocabulary": "slow",
+    "phonetic": "/sloʊ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "lề mề",
+    "exampleSentence": "A slow smile came to his lips."
+  },
+  {
+    "vocabulary": "small",
+    "phonetic": "/smɔl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "nhỏ",
+    "exampleSentence": "It's a very small window."
+  },
+  {
+    "vocabulary": "snake",
+    "phonetic": "/sneɪk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "con rắn",
+    "exampleSentence": "There could be a snake in the daylight."
+  },
+  {
+    "vocabulary": "snow",
+    "phonetic": "/snoʊ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tuyết",
+    "exampleSentence": "Snow crunched under her feet and quickly soaked her flimsy slippers."
+  },
+  {
+    "vocabulary": "so",
+    "phonetic": "/soʊ/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "vì thế",
+    "exampleSentence": "I know you must be tired, so I will let you rest."
+  },
+  {
+    "vocabulary": "some",
+    "phonetic": "/səm/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "một số",
+    "exampleSentence": "Now go home and get some rest."
+  },
+  {
+    "vocabulary": "somebody",
+    "phonetic": "/ˈsəmbədi/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "có ai",
+    "exampleSentence": "Somebody clocked my fast ball at seventy-nine."
+  },
+  {
+    "vocabulary": "someone",
+    "phonetic": "/ˈsəmˌwən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "người nào",
+    "exampleSentence": "Someone knocked at the door."
+  },
+  {
+    "vocabulary": "something",
+    "phonetic": "/ˈsəmˌθɪŋ/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "một cái gì đó",
+    "exampleSentence": "There was certainly something in it."
+  },
+  {
+    "vocabulary": "sometimes",
+    "phonetic": "/ˈsəmˌtaɪmz/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "thỉnh thoảng",
+    "exampleSentence": "Sometimes we go out to eat."
+  },
+  {
+    "vocabulary": "son",
+    "phonetic": "/sən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "con trai",
+    "exampleSentence": "Her son was missing."
+  },
+  {
+    "vocabulary": "song",
+    "phonetic": "/sɔŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bài hát",
+    "exampleSentence": "I learned a song about spring."
+  },
+  {
+    "vocabulary": "soon",
+    "phonetic": "/sun/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "nhanh thôi",
+    "exampleSentence": "She had to get a car as soon as possible."
+  },
+  {
+    "vocabulary": "sorry",
+    "phonetic": "/ˈsɑri/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "lấy làm tiếc",
+    "exampleSentence": "I am very sorry for them."
+  },
+  {
+    "vocabulary": "sound",
+    "phonetic": "/saʊnd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "âm thanh",
+    "exampleSentence": "They heard the sound of voices behind them."
+  },
+  {
+    "vocabulary": "soup",
+    "phonetic": "/sup/",
+    "wordType": "noun",
+    "vietnameseMeaning": "súp",
+    "exampleSentence": "\"I.ll get you some soup and cocoa,\" she said and rose."
+  },
+  {
+    "vocabulary": "south",
+    "phonetic": "/saʊθ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Hướng Nam",
+    "exampleSentence": "The return address on the envelope was Columbia, South America, but it wasn't addressed to anyone."
+  },
+  {
+    "vocabulary": "space",
+    "phonetic": "/speɪs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "không gian",
+    "exampleSentence": "I didn't see a space ship!"
+  },
+  {
+    "vocabulary": "speak",
+    "phonetic": "/spik/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nói chuyện (trang trọng), phát biểu",
+    "exampleSentence": "I started to speak but she shushed me."
+  },
+  {
+    "vocabulary": "special",
+    "phonetic": "/ˈspɛʃəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "đặc biệt",
+    "exampleSentence": "It's nice to have that special respect."
+  },
+  {
+    "vocabulary": "spell",
+    "phonetic": "/spɛl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đánh vần",
+    "exampleSentence": "I think you put a spell on me, sweetheart."
+  },
+  {
+    "vocabulary": "spelling",
+    "phonetic": "/ˈspɛlɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "chính tả",
+    "exampleSentence": "The spelling also is interesting."
+  },
+  {
+    "vocabulary": "spend",
+    "phonetic": "/spɛnd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chi tiêu",
+    "exampleSentence": "I spend my life protecting you."
+  },
+  {
+    "vocabulary": "sport",
+    "phonetic": "/spɔrt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "thể thao",
+    "exampleSentence": "You be there to show her what a good sport you are."
+  },
+  {
+    "vocabulary": "spring",
+    "phonetic": "/sprɪŋ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "mùa xuân",
+    "exampleSentence": "The snow melted, leaving in its wake a harvest of spring flowers."
+  },
+  {
+    "vocabulary": "stand",
+    "phonetic": "/stænd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đứng",
+    "exampleSentence": "Don't just stand there."
+  },
+  {
+    "vocabulary": "star",
+    "phonetic": "/stɑr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ngôi sao",
+    "exampleSentence": "\"A silent film star,\" Charlie said."
+  },
+  {
+    "vocabulary": "start",
+    "phonetic": "/stɑrt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khởi đầu",
+    "exampleSentence": "It would start all over again."
+  },
+  {
+    "vocabulary": "statement",
+    "phonetic": "/ˈsteɪtmənt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tuyên bố",
+    "exampleSentence": "His statement did nothing to slow Fred down."
+  },
+  {
+    "vocabulary": "station",
+    "phonetic": "/ˈsteɪʃ(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ga tàu",
+    "exampleSentence": "I left the station, not sure what to do next."
+  },
+  {
+    "vocabulary": "stay",
+    "phonetic": "/steɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Ở lại!",
+    "exampleSentence": "They wanted to stay at the party."
+  },
+  {
+    "vocabulary": "still",
+    "phonetic": "/stɪl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "vẫn",
+    "exampleSentence": "It is still a famous school."
+  },
+  {
+    "vocabulary": "stop",
+    "phonetic": "/stɑp/",
+    "wordType": "noun",
+    "vietnameseMeaning": "dừng lại",
+    "exampleSentence": "If everyone would stop talking about it..."
+  },
+  {
+    "vocabulary": "story",
+    "phonetic": "/ˈstɔri/",
+    "wordType": "verb",
+    "vietnameseMeaning": "câu chuyện",
+    "exampleSentence": "He told his wonderful story to the king; but the king would not believe him."
+  },
+  {
+    "vocabulary": "street",
+    "phonetic": "/strit/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "con phố, đường",
+    "exampleSentence": "He walked up the street to the next block."
+  },
+  {
+    "vocabulary": "strong",
+    "phonetic": "/strɔŋ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "mạnh mẽ",
+    "exampleSentence": "He was strong and ready for every duty."
+  },
+  {
+    "vocabulary": "student",
+    "phonetic": "/ˈst(j)udnt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sinh viên",
+    "exampleSentence": "The exchange student was growling at her."
+  },
+  {
+    "vocabulary": "study",
+    "phonetic": "/ˈstədi/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nghiên cứu, học",
+    "exampleSentence": "I guess I should stay here and study as well, but..."
+  },
+  {
+    "vocabulary": "style",
+    "phonetic": "/staɪl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phong cách",
+    "exampleSentence": "He's got a great sense of style, Linda said with a laugh."
+  },
+  {
+    "vocabulary": "subject",
+    "phonetic": "/ˈsəbdʒɛkt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "môn học",
+    "exampleSentence": "She forced the subject from her mind."
+  },
+  {
+    "vocabulary": "success",
+    "phonetic": "/səkˈsɛs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "sự thành công",
+    "exampleSentence": "Each success has some failure along the way."
+  },
+  {
+    "vocabulary": "sugar",
+    "phonetic": "/ˈʃʊɡər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đường",
+    "exampleSentence": "I always bring Diablo a sugar cube."
+  },
+  {
+    "vocabulary": "summer",
+    "phonetic": "/ˈsəmər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mùa hè",
+    "exampleSentence": "It was warm and sweet, like a summer rain."
+  },
+  {
+    "vocabulary": "sun",
+    "phonetic": "/sən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mặt trời",
+    "exampleSentence": "The sun was warm."
+  },
+  {
+    "vocabulary": "sunday",
+    "phonetic": "/ˈsəndeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Chủ nhật",
+    "exampleSentence": "Sunday dawned a sunny hot July day."
+  },
+  {
+    "vocabulary": "supermarket",
+    "phonetic": "/ˈsupərˌmɑrkət/",
+    "wordType": "noun",
+    "vietnameseMeaning": "siêu thị",
+    "exampleSentence": "You went to a supermarket to buy a toothbrush."
+  },
+  {
+    "vocabulary": "sure",
+    "phonetic": "/ʃʊr/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Chắc chắn",
+    "exampleSentence": "He sure is a nice guy."
+  },
+  {
+    "vocabulary": "sweater",
+    "phonetic": "/ˈswɛdər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "áo len",
+    "exampleSentence": "I just came over to pick up a sweater for her."
+  },
+  {
+    "vocabulary": "swim",
+    "phonetic": "/swɪm/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bơi",
+    "exampleSentence": "She glanced down at her swim suit."
+  },
+  {
+    "vocabulary": "swimming",
+    "phonetic": "/ˈswɪmɪŋ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bơi lội",
+    "exampleSentence": "I'll show you the swimming hole."
+  },
+  {
+    "vocabulary": "t shirt",
+    "phonetic": "/ˈtiːʃɜːt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': 'A short-sleeved, pullover shirt with no collar.', 'vi': 'Một chiếc áo pull ngắn tay, không có cổ.'}",
+    "exampleSentence": "Regardless of the type of coat you spring for, ensure that it is big enough to fit for the entire winter, and don't forget to try it on when your child is wearing multiple layers (a shirt and a sweater), instead of only a light T-shirt."
+  },
+  {
+    "vocabulary": "table",
+    "phonetic": "/ˈteɪbəl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "cái bàn",
+    "exampleSentence": "He was sitting at a table across and down from them."
+  },
+  {
+    "vocabulary": "take",
+    "phonetic": "/teɪk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "lấy",
+    "exampleSentence": "I can take care of myself."
+  },
+  {
+    "vocabulary": "talk",
+    "phonetic": "/tɔk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nói chuyện",
+    "exampleSentence": "She didn't come here to talk to me."
+  },
+  {
+    "vocabulary": "tall",
+    "phonetic": "/tɔl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "cao",
+    "exampleSentence": "The two tall peasants had their say."
+  },
+  {
+    "vocabulary": "taxi",
+    "phonetic": "/ˈtæksi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "xe tắc xi",
+    "exampleSentence": "\"I could call a taxi,\" she said."
+  },
+  {
+    "vocabulary": "tea",
+    "phonetic": "/ti/",
+    "wordType": "noun",
+    "vietnameseMeaning": "trà",
+    "exampleSentence": "He drank hot tea from a glass."
+  },
+  {
+    "vocabulary": "teach",
+    "phonetic": "/titʃ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "dạy",
+    "exampleSentence": "You teach them to respect people."
+  },
+  {
+    "vocabulary": "teacher",
+    "phonetic": "/ˈtitʃər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "giáo viên",
+    "exampleSentence": "A teacher doesn't have to be smart—just brighter than the student."
+  },
+  {
+    "vocabulary": "team",
+    "phonetic": "/tim/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đội",
+    "exampleSentence": "A good leader makes a good team the best, as my father says."
+  },
+  {
+    "vocabulary": "teenager",
+    "phonetic": "/ˈtiːnˌeɪʤə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': 'A person in his or her teens.', 'vi': 'Một người đang ở độ tuổi thanh thiếu niên.'}",
+    "exampleSentence": "The moody teenager was back."
+  },
+  {
+    "vocabulary": "telephone",
+    "phonetic": "/ˈtɛləˌfoʊn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "điện thoại",
+    "exampleSentence": "The voice on the telephone became urgent."
+  },
+  {
+    "vocabulary": "television",
+    "phonetic": "/ˈtɛləˌvɪʒən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "vô tuyến",
+    "exampleSentence": "He had been spending too much time with the television lately."
+  },
+  {
+    "vocabulary": "tell",
+    "phonetic": "/tɛl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bảo, nói cho biết",
+    "exampleSentence": "Then there will be no one to tell tales."
+  },
+  {
+    "vocabulary": "ten",
+    "phonetic": "/tɛn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số mười",
+    "exampleSentence": "What she knew was that her father and his lies had skewed her outlook on her world for ten years."
+  },
+  {
+    "vocabulary": "tennis",
+    "phonetic": "/ˈtɛnəs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "quần vợt",
+    "exampleSentence": "They like their iPods, their laptops, their cars, their tennis shoes, and so on."
+  },
+  {
+    "vocabulary": "terrible",
+    "phonetic": "/ˈtɛrəb(ə)l/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "kinh khủng",
+    "exampleSentence": "It was a terrible choice for a hiding place."
+  },
+  {
+    "vocabulary": "test",
+    "phonetic": "/tɛst/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thử nghiệm",
+    "exampleSentence": "We conducted one more test before lunch."
+  },
+  {
+    "vocabulary": "text",
+    "phonetic": "/tɛkst/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nhắn tin",
+    "exampleSentence": "I'll text you my address."
+  },
+  {
+    "vocabulary": "than",
+    "phonetic": "/ðæn/",
+    "wordType": "conjunction",
+    "vietnameseMeaning": "hơn",
+    "exampleSentence": "He thinks you are better than us."
+  },
+  {
+    "vocabulary": "thank",
+    "phonetic": "/θæŋk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Cảm ơn.",
+    "exampleSentence": "Thank you for inviting us."
+  },
+  {
+    "vocabulary": "thanks",
+    "phonetic": "/θæŋks/",
+    "wordType": "interjection",
+    "vietnameseMeaning": "cảm ơn",
+    "exampleSentence": "Thanks, but I did all this by myself until you came along."
+  },
+  {
+    "vocabulary": "that",
+    "phonetic": "/ðæt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "cái đó",
+    "exampleSentence": "I thought that was the best way to carry her."
+  },
+  {
+    "vocabulary": "the",
+    "phonetic": "/ði/",
+    "wordType": "article",
+    "vietnameseMeaning": "cái, con, người, ấy, này...",
+    "exampleSentence": "The horse did not stir."
+  },
+  {
+    "vocabulary": "theatre",
+    "phonetic": "/ˈθɪətə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': '(Australia, Canada, New Zealand, UK) Alternative spelling of theater.', 'vi': '(Úc, Canada, New Zealand, Vương quốc Anh) Cách viết khác của rạp hát.'}",
+    "exampleSentence": "He waved her out of the theatre and led her toward the mansion."
+  },
+  {
+    "vocabulary": "their",
+    "phonetic": "/ðɛr/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "của chúng",
+    "exampleSentence": "At home, presents were under the tree, waiting for their return."
+  },
+  {
+    "vocabulary": "them",
+    "phonetic": "/ðɛm/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "chúng",
+    "exampleSentence": "We'll take care of them together."
+  },
+  {
+    "vocabulary": "then",
+    "phonetic": "/ðɛn/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "sau đó",
+    "exampleSentence": "Then he picked up another box."
+  },
+  {
+    "vocabulary": "there",
+    "phonetic": "/ðɛr/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "ở đó",
+    "exampleSentence": "There was shopping and packing to be done before they left on vacation."
+  },
+  {
+    "vocabulary": "they",
+    "phonetic": "/ðeɪ/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "họ",
+    "exampleSentence": "They had two adopted children already."
+  },
+  {
+    "vocabulary": "thing",
+    "phonetic": "/θɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "điều",
+    "exampleSentence": "How could he do such a thing to his own children?"
+  },
+  {
+    "vocabulary": "think",
+    "phonetic": "/θɪŋk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "suy nghĩ",
+    "exampleSentence": "He could not think of anything else."
+  },
+  {
+    "vocabulary": "third",
+    "phonetic": "/θərd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thứ ba",
+    "exampleSentence": "Your room is the third on the left."
+  },
+  {
+    "vocabulary": "thirsty",
+    "phonetic": "/ˈθərsti/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "khát nước",
+    "exampleSentence": "Hard work made us thirsty and hungry as well."
+  },
+  {
+    "vocabulary": "thirteen",
+    "phonetic": "/ˌθərˈtin/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Mười ba",
+    "exampleSentence": "When I was thirteen in 1981, I got a Commodore VIC-20 computer."
+  },
+  {
+    "vocabulary": "thirty",
+    "phonetic": "/ˈθərdi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "ba mươi",
+    "exampleSentence": "I grew up thirty miles to the north."
+  },
+  {
+    "vocabulary": "this",
+    "phonetic": "/ðɪs/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "điều này",
+    "exampleSentence": "This is our planting-ground."
+  },
+  {
+    "vocabulary": "thousand",
+    "phonetic": "/ˈθaʊz(ə)nd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nghìn",
+    "exampleSentence": "I have over three thousand acres."
+  },
+  {
+    "vocabulary": "three",
+    "phonetic": "/θri/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số ba",
+    "exampleSentence": "Put three in each shoe."
+  },
+  {
+    "vocabulary": "through",
+    "phonetic": "/θru/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "xuyên qua",
+    "exampleSentence": "He ran a hand through his hair."
+  },
+  {
+    "vocabulary": "thursday",
+    "phonetic": "/ˈθərzdeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thứ năm",
+    "exampleSentence": "I believe today is Thursday."
+  },
+  {
+    "vocabulary": "ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "vé",
+    "exampleSentence": "They approached the ticket counter with 15 minutes to spare."
+  },
+  {
+    "vocabulary": "time",
+    "phonetic": "/taɪm/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thời gian",
+    "exampleSentence": "It isn't the first time I've cooked."
+  },
+  {
+    "vocabulary": "tired",
+    "phonetic": "/ˈtaɪərd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "mệt mỏi",
+    "exampleSentence": "I know you must be tired, so I will let you rest."
+  },
+  {
+    "vocabulary": "title",
+    "phonetic": "/ˈtaɪdl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chức vụ",
+    "exampleSentence": "The chapter title poses a valid question."
+  },
+  {
+    "vocabulary": "to",
+    "phonetic": "/tu/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "theo hướng, hướng tới, đến, tới",
+    "exampleSentence": "You've been to Australia, haven't you?"
+  },
+  {
+    "vocabulary": "today",
+    "phonetic": "/təˈdeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hôm nay",
+    "exampleSentence": "What are we going to do today, Dad?"
   },
   {
     "vocabulary": "together",
-    "phonetic": "/təˈɡeð.ər/",
-    "wordType": "adverb",
-    "vietnameseMeaning": "Cùng nhau, chung sức",
-    "exampleSentence": "The family enjoys cooking dinner together on Sundays."
+    "phonetic": "/təˈɡɛðər/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "cùng với nhau",
+    "exampleSentence": "Together they led her away."
   },
   {
-    "vocabulary": "neatly",
-    "phonetic": "/ˈniːt.li/",
+    "vocabulary": "toilet",
+    "phonetic": "/ˈtɔɪlɪt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "phòng vệ sinh",
+    "exampleSentence": "\"Toilet paper,\" she muttered."
+  },
+  {
+    "vocabulary": "tomato",
+    "phonetic": "/təˈmeɪdoʊ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cà chua",
+    "exampleSentence": "The tomato plants were drooping, their crop reduced to small discolored fruit."
+  },
+  {
+    "vocabulary": "tomorrow",
+    "phonetic": "/təˈmɔroʊ/",
     "wordType": "adverb",
-    "vietnameseMeaning": "Gọn gàng, ngăn nắp",
-    "exampleSentence": "She organized her study notes neatly in a blue binder."
+    "vietnameseMeaning": "ngày mai",
+    "exampleSentence": "Tomorrow is Christmas morning."
+  },
+  {
+    "vocabulary": "tonight",
+    "phonetic": "/təˈnaɪt/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "tối nay",
+    "exampleSentence": "He is very busy with Tessa tonight, do you think?"
+  },
+  {
+    "vocabulary": "too",
+    "phonetic": "/tu/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "quá",
+    "exampleSentence": "She had to move a few things to make room, but that wasn't too hard."
+  },
+  {
+    "vocabulary": "tooth",
+    "phonetic": "/tuθ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "răng",
+    "exampleSentence": "(Formula, x.l.x.) radula has a number of uniform teeth on each side of the median tooth in each transverse row."
+  },
+  {
+    "vocabulary": "topic",
+    "phonetic": "/ˈtɑpɪk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đề tài",
+    "exampleSentence": "Lori was a topic he didn't want to discuss with anyone."
+  },
+  {
+    "vocabulary": "tourist",
+    "phonetic": "/ˈtʊrəst/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khách du lịch",
+    "exampleSentence": "This is the time for the tourist to visit India."
+  },
+  {
+    "vocabulary": "town",
+    "phonetic": "/taʊn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thị trấn",
+    "exampleSentence": "I'll be back in town Friday."
+  },
+  {
+    "vocabulary": "traffic",
+    "phonetic": "/ˈtræfɪk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "giao thông",
+    "exampleSentence": "In town doing traffic control, I guess."
+  },
+  {
+    "vocabulary": "train",
+    "phonetic": "/treɪn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "tàu hỏa/xe lửa",
+    "exampleSentence": "\"I know you train with them,\" he stated."
+  },
+  {
+    "vocabulary": "travel",
+    "phonetic": "/ˈtrævəl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "du lịch",
+    "exampleSentence": "I would like to travel there."
+  },
+  {
+    "vocabulary": "tree",
+    "phonetic": "/tri/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cái cây",
+    "exampleSentence": "The Christmas tree could only be seen from the back of the house, but that didn't matter."
+  },
+  {
+    "vocabulary": "trip",
+    "phonetic": "/trɪp/",
+    "wordType": "noun",
+    "vietnameseMeaning": "chuyến đi",
+    "exampleSentence": "Outside of this being her first trip in an airplane, the rest of the flight was uneventful."
+  },
+  {
+    "vocabulary": "trousers",
+    "phonetic": "/ˈtraʊzərz/",
+    "wordType": "noun",
+    "vietnameseMeaning": "quần",
+    "exampleSentence": "He stepped into his new trousers, inhaling deeply before buttoning them."
+  },
+  {
+    "vocabulary": "true",
+    "phonetic": "/tru/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "đúng",
+    "exampleSentence": "A few months ago she didn't know the true meaning of love."
+  },
+  {
+    "vocabulary": "try",
+    "phonetic": "/traɪ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "thử",
+    "exampleSentence": "Try to stay out of the woods."
+  },
+  {
+    "vocabulary": "tuesday",
+    "phonetic": "/ˈt(j)uzdeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thứ Ba",
+    "exampleSentence": "It was the first words spoken to him by the sharp-tongued woman since the prior Tuesday evening when she'd first purchased the letters."
+  },
+  {
+    "vocabulary": "turn",
+    "phonetic": "/tərn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bật",
+    "exampleSentence": "But let's see how things turn out."
+  },
+  {
+    "vocabulary": "tv",
+    "phonetic": "/ˈˌti ˈvi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "truyền hình",
+    "exampleSentence": "It's as safe as watching TV and a darned sight more fun."
+  },
+  {
+    "vocabulary": "twelve",
+    "phonetic": "/twɛlv/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số mười hai (12)",
+    "exampleSentence": "I was then twelve years old."
+  },
+  {
+    "vocabulary": "twenty",
+    "phonetic": "/ˈtwɛn(t)i/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số hai mươi (20)",
+    "exampleSentence": "There were twenty of them, far more than the small house could hold."
+  },
+  {
+    "vocabulary": "twice",
+    "phonetic": "/twaɪs/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "hai lần",
+    "exampleSentence": "We go through this at least twice a year."
+  },
+  {
+    "vocabulary": "two",
+    "phonetic": "/tu/",
+    "wordType": "noun",
+    "vietnameseMeaning": "số hai",
+    "exampleSentence": "They had two adopted children already."
+  },
+  {
+    "vocabulary": "type",
+    "phonetic": "/taɪp/",
+    "wordType": "noun",
+    "vietnameseMeaning": "loại",
+    "exampleSentence": "She continued to type while I put in the call."
+  },
+  {
+    "vocabulary": "umbrella",
+    "phonetic": "/ˌəmˈbrɛlə/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Cái dù",
+    "exampleSentence": "She held an umbrella and was dressed in a grey suit."
+  },
+  {
+    "vocabulary": "uncle",
+    "phonetic": "/ˈəŋk(ə)l/",
+    "wordType": "noun",
+    "vietnameseMeaning": "chú; bác",
+    "exampleSentence": "What does your uncle do on the planet?"
+  },
+  {
+    "vocabulary": "under",
+    "phonetic": "/ˈəndər/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "bên dưới",
+    "exampleSentence": "Then the horse bunched up under him."
+  },
+  {
+    "vocabulary": "understand",
+    "phonetic": "/ˌəndərˈstænd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "hiểu",
+    "exampleSentence": "And the whole thing has been unnatural because that cat and I are both able to talk your language, and to understand the words you say."
+  },
+  {
+    "vocabulary": "university",
+    "phonetic": "/ˌjunəˈvərsədi/",
+    "wordType": "noun",
+    "vietnameseMeaning": "trường đại học",
+    "exampleSentence": "On a hunch, she called the University of Arkansas."
+  },
+  {
+    "vocabulary": "until",
+    "phonetic": "/ˌənˈtɪl/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "cho đến",
+    "exampleSentence": "We went to bed and slept until morning."
+  },
+  {
+    "vocabulary": "up",
+    "phonetic": "/əp/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "hướng lên",
+    "exampleSentence": "Then he picked up another box."
+  },
+  {
+    "vocabulary": "upstairs",
+    "phonetic": "/ˌəpˈstɛrz/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "tầng trên",
+    "exampleSentence": "The upstairs bedroom would become an office."
+  },
+  {
+    "vocabulary": "us",
+    "phonetic": "/əs/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "Chúng tôi / Chúng ta",
+    "exampleSentence": "You didn't tell us it was her birthday."
+  },
+  {
+    "vocabulary": "use",
+    "phonetic": "/juːs/",
+    "wordType": "verb",
+    "vietnameseMeaning": "sử dụng",
+    "exampleSentence": "I figured you could use the rest."
+  },
+  {
+    "vocabulary": "useful",
+    "phonetic": "/ˈjusfəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "hữu ích",
+    "exampleSentence": "He has a useful gift."
+  },
+  {
+    "vocabulary": "usually",
+    "phonetic": "/ˈjuʒ(u)əli/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "thường xuyên",
+    "exampleSentence": "His usually calm face showed excitement."
+  },
+  {
+    "vocabulary": "vacation",
+    "phonetic": "/veɪˈkeɪʃ(ə)n/",
+    "wordType": "noun",
+    "vietnameseMeaning": "kỳ nghỉ",
+    "exampleSentence": "This was a vacation, not an isolation camp."
+  },
+  {
+    "vocabulary": "vegetable",
+    "phonetic": "/ˈvɛdʒtəb(ə)l/",
+    "wordType": "noun",
+    "vietnameseMeaning": "rau",
+    "exampleSentence": "Today, I have a vegetable garden in my backyard."
+  },
+  {
+    "vocabulary": "very",
+    "phonetic": "/ˈvɛri/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "rất",
+    "exampleSentence": "You love him very much."
+  },
+  {
+    "vocabulary": "video",
+    "phonetic": "/ˈvɪdioʊ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "đoạn video",
+    "exampleSentence": "We don't simply have more video screens; we now have an infinitude of broadcasters."
+  },
+  {
+    "vocabulary": "village",
+    "phonetic": "/ˈvɪlɪdʒ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "làng; xã",
+    "exampleSentence": "Away they went through the village street and out upon the country road."
+  },
+  {
+    "vocabulary": "visit",
+    "phonetic": "/ˈvɪzɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "ghé thăm",
+    "exampleSentence": "If you're hungry, visit the kitchen."
+  },
+  {
+    "vocabulary": "visitor",
+    "phonetic": "/ˈvɪzɪdər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "khách thăm quan",
+    "exampleSentence": "You didn't have a visitor last night."
+  },
+  {
+    "vocabulary": "wait",
+    "phonetic": "/weɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "chờ đợi",
+    "exampleSentence": "I can hardly wait for the fun to begin!"
+  },
+  {
+    "vocabulary": "waiter",
+    "phonetic": "/ˈweɪdər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phục vụ nam",
+    "exampleSentence": "The waiter called him Mr. Bryce."
+  },
+  {
+    "vocabulary": "wake",
+    "phonetic": "/weɪk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thức dậy",
+    "exampleSentence": "My flight was delayed an hour so my early wake up was in vain."
+  },
+  {
+    "vocabulary": "walk",
+    "phonetic": "/wɔk/",
+    "wordType": "verb",
+    "vietnameseMeaning": "bước đi",
+    "exampleSentence": "My sister can walk and run."
+  },
+  {
+    "vocabulary": "wall",
+    "phonetic": "/wɔl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "bức tường",
+    "exampleSentence": "The keys hung on the wall beside the door."
+  },
+  {
+    "vocabulary": "want",
+    "phonetic": "/wɑnt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "muốn",
+    "exampleSentence": "I do not want all this."
+  },
+  {
+    "vocabulary": "warm",
+    "phonetic": "/wɔrm/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "ấm",
+    "exampleSentence": "It was a warm afternoon in August."
+  },
+  {
+    "vocabulary": "wash",
+    "phonetic": "/wɑʃ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "rửa",
+    "exampleSentence": "Now go wash up for supper."
+  },
+  {
+    "vocabulary": "watch",
+    "phonetic": "/wɑtʃ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "đồng hồ đeo tay",
+    "exampleSentence": "He glanced at his watch and swallowed before answering."
+  },
+  {
+    "vocabulary": "water",
+    "phonetic": "/ˈwɔdər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nước",
+    "exampleSentence": "The water felt delightful."
+  },
+  {
+    "vocabulary": "way",
+    "phonetic": "/weɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cách",
+    "exampleSentence": "Travel the way you wish to go."
+  },
+  {
+    "vocabulary": "we",
+    "phonetic": "/wi/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "chúng tôi",
+    "exampleSentence": "What time are we going to leave tomorrow?"
+  },
+  {
+    "vocabulary": "wear",
+    "phonetic": "/wɛr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mặc",
+    "exampleSentence": "You'd better wear a coat."
+  },
+  {
+    "vocabulary": "weather",
+    "phonetic": "/ˈwɛðər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thời tiết",
+    "exampleSentence": "I'm surprised to say the weather was better."
+  },
+  {
+    "vocabulary": "website",
+    "phonetic": "/ˈwɛbˌsaɪt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "{'pos': 'noun', 'en': 'A set of interconnected webpages, usually including a homepage, generally located on the same server, and prepared and maintained as a collection of information by a person, group, or organization.', 'vi': 'Một tập hợp các trang web được kết nối với nhau, thường bao gồm một trang chủ, thường nằm trên cùng một máy chủ và được chuẩn bị và duy trì dưới dạng tập hợp thông tin của một người, nhóm hoặc tổ chức.'}, {'pos': '', 'en': 'A set of interconnected webpages, usually including a homepage, generally located on the same server, and prepared and maintained as a collection of information by a person, group, or organization.', 'vi': 'Một tập hợp các trang web được kết nối với nhau, thường bao gồm một trang chủ, thường nằm trên cùng một máy chủ và được chuẩn bị và duy trì dưới dạng tập hợp thông tin của một người, nhóm hoặc tổ chức.'}",
+    "exampleSentence": "Maybe there's an 'I hate Jackson Parrish' website out there."
+  },
+  {
+    "vocabulary": "wednesday",
+    "phonetic": "/ˈwɛnzdeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thứ tư",
+    "exampleSentence": "30. She started work last Wednesday."
+  },
+  {
+    "vocabulary": "week",
+    "phonetic": "/wik/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tuần",
+    "exampleSentence": "Last week I visited a beautiful art store."
+  },
+  {
+    "vocabulary": "weekend",
+    "phonetic": "/ˈwikˌɛnd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cuối tuần",
+    "exampleSentence": "The holiday weekend passed pleasantly."
+  },
+  {
+    "vocabulary": "welcome",
+    "phonetic": "/ˈwɛlkəm/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "chào đón",
+    "exampleSentence": "Welcome to your new life."
+  },
+  {
+    "vocabulary": "well",
+    "phonetic": "/wɛl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "vâng",
+    "exampleSentence": "Well... they had been flirting with each other in the car."
+  },
+  {
+    "vocabulary": "west",
+    "phonetic": "/wɛst/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "hướng Tây",
+    "exampleSentence": "I understand you have a big ranch west of here."
+  },
+  {
+    "vocabulary": "what",
+    "phonetic": "/(h)wət/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Cái gì",
+    "exampleSentence": "What time is it?"
+  },
+  {
+    "vocabulary": "when",
+    "phonetic": "/(h)wɛn/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "khi nào",
+    "exampleSentence": "He had climbed many a tree when he was a boy."
+  },
+  {
+    "vocabulary": "where",
+    "phonetic": "/(h)wɛr/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "ở đâu",
+    "exampleSentence": "Was that where his father got all that money?"
+  },
+  {
+    "vocabulary": "which",
+    "phonetic": "/(h)wɪtʃ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "mà",
+    "exampleSentence": "All of which was beside the point."
+  },
+  {
+    "vocabulary": "white",
+    "phonetic": "/(h)waɪt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "màu trắng",
+    "exampleSentence": "His face is white, and he seems very weak."
+  },
+  {
+    "vocabulary": "who",
+    "phonetic": "/hu/",
+    "wordType": "abbreviation",
+    "vietnameseMeaning": "ai",
+    "exampleSentence": "The boy who sat beside him was his son."
+  },
+  {
+    "vocabulary": "why",
+    "phonetic": "/(h)waɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "tại sao",
+    "exampleSentence": "Why would she want to do that?"
+  },
+  {
+    "vocabulary": "wife",
+    "phonetic": "/waɪf/",
+    "wordType": "noun",
+    "vietnameseMeaning": "vợ, bà xã",
+    "exampleSentence": "My wife looked up from her lap top."
+  },
+  {
+    "vocabulary": "will",
+    "phonetic": "/wɪl/",
+    "wordType": "verb",
+    "vietnameseMeaning": "sẽ",
+    "exampleSentence": "If the people of Boston must fight for their liberty, we will help them."
+  },
+  {
+    "vocabulary": "win",
+    "phonetic": "/wɪn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "thắng lợi",
+    "exampleSentence": "I only want to see whether you will let me win this ten, or beat it."
+  },
+  {
+    "vocabulary": "window",
+    "phonetic": "/ˈwɪndoʊ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "cửa sổ",
+    "exampleSentence": "She glanced out the window, still smiling."
+  },
+  {
+    "vocabulary": "wine",
+    "phonetic": "/waɪn/",
+    "wordType": "verb",
+    "vietnameseMeaning": "rượu nho",
+    "exampleSentence": "He finished a couple of bottles of wine by himself."
+  },
+  {
+    "vocabulary": "winter",
+    "phonetic": "/ˈwɪn(t)ər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "mùa đông",
+    "exampleSentence": "\"Remember last winter?\" she sniffed."
+  },
+  {
+    "vocabulary": "with",
+    "phonetic": "/wɪð/",
+    "wordType": "preposition",
+    "vietnameseMeaning": "với",
+    "exampleSentence": "\"How long will you be with us?\" he asked."
+  },
+  {
+    "vocabulary": "without",
+    "phonetic": "/wəˈðaʊt/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "không có",
+    "exampleSentence": "When he continued to watch her without response, she sighed."
+  },
+  {
+    "vocabulary": "woman",
+    "phonetic": "/ˈwʊmən/",
+    "wordType": "noun",
+    "vietnameseMeaning": "phụ nữ",
+    "exampleSentence": "A woman has a right to protect herself – any way she can."
+  },
+  {
+    "vocabulary": "wonderful",
+    "phonetic": "/ˈwəndərfəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "tuyệt vời",
+    "exampleSentence": "He was such a wonderful person in so many ways."
+  },
+  {
+    "vocabulary": "word",
+    "phonetic": "/wərd/",
+    "wordType": "noun",
+    "vietnameseMeaning": "từ ngữ",
+    "exampleSentence": "I just got word that my father had a heart attack."
+  },
+  {
+    "vocabulary": "work",
+    "phonetic": "/wərk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "công việc",
+    "exampleSentence": "It did work this morning."
+  },
+  {
+    "vocabulary": "worker",
+    "phonetic": "/ˈwərkər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "công nhân",
+    "exampleSentence": "Worker Chad lives in Chattanooga."
+  },
+  {
+    "vocabulary": "world",
+    "phonetic": "/wərld/",
+    "wordType": "noun",
+    "vietnameseMeaning": "thế giới",
+    "exampleSentence": "There's a world of good you could perform."
+  },
+  {
+    "vocabulary": "would",
+    "phonetic": "/wʊd/",
+    "wordType": "verb",
+    "vietnameseMeaning": "nào",
+    "exampleSentence": "Would you like to read his speech?"
+  },
+  {
+    "vocabulary": "write",
+    "phonetic": "/raɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "viết",
+    "exampleSentence": "I'll write something every day."
+  },
+  {
+    "vocabulary": "writer",
+    "phonetic": "/ˈraɪdər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "nhà văn",
+    "exampleSentence": "Surely the writer must become as a little child to see things like that."
+  },
+  {
+    "vocabulary": "writing",
+    "phonetic": "/ˈraɪdɪŋ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "viết",
+    "exampleSentence": "Are you writing a book?"
+  },
+  {
+    "vocabulary": "wrong",
+    "phonetic": "/rɔŋ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "sai rồi",
+    "exampleSentence": "Sometimes I make a mistake and do the wrong thing."
+  },
+  {
+    "vocabulary": "yeah",
+    "phonetic": "/jɛ(ə)/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Vâng",
+    "exampleSentence": "Yeah, I can imagine."
+  },
+  {
+    "vocabulary": "year",
+    "phonetic": "/jɪr/",
+    "wordType": "noun",
+    "vietnameseMeaning": "năm",
+    "exampleSentence": "Each year a payment is made to each resident of Alaska."
+  },
+  {
+    "vocabulary": "yellow",
+    "phonetic": "/ˈjɛloʊ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Màu vàng",
+    "exampleSentence": "One of the yellow portals beckoned her."
+  },
+  {
+    "vocabulary": "yes",
+    "phonetic": "/jɛs/",
+    "wordType": "noun",
+    "vietnameseMeaning": "đúng",
+    "exampleSentence": "Yes, but I don't have time."
+  },
+  {
+    "vocabulary": "yesterday",
+    "phonetic": "/ˈjɛstərˌdeɪ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "hôm qua",
+    "exampleSentence": "It is a beautiful day, but yesterday it was cold."
+  },
+  {
+    "vocabulary": "you",
+    "phonetic": "/ju/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "bạn",
+    "exampleSentence": "I love you so much."
+  },
+  {
+    "vocabulary": "young",
+    "phonetic": "/jəŋ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "trẻ",
+    "exampleSentence": "The young girl ran off without a word."
+  },
+  {
+    "vocabulary": "your",
+    "phonetic": "/jɔr/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "của bạn",
+    "exampleSentence": "What is your father's name?"
+  },
+  {
+    "vocabulary": "yourself",
+    "phonetic": "/jərˈsɛlf/",
+    "wordType": "pronoun",
+    "vietnameseMeaning": "bản thân bạn",
+    "exampleSentence": "I wish you could hear yourself talking."
   }
 ]

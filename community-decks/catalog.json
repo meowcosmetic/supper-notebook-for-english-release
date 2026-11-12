@@ -6,8 +6,8 @@
     "icon": "🌱",
     "level": "A1",
     "category": "Cơ bản & Đời sống",
-    "description": "30 từ vựng nền tảng về sinh hoạt, gia đình, thói quen và cảm xúc thường nhật tích cực.",
-    "wordCount": 30,
+    "description": "Trọn bộ 898 từ vựng Oxford A1 nền tảng về sinh hoạt, gia đình, thói quen và giao tiếp sơ cấp.",
+    "wordCount": 898,
     "file": "a1-starter.json",
     "sheetName": "deck_a1",
     "tags": [
@@ -17,11 +17,11 @@
       "starter"
     ],
     "preview": [
-      "greet",
-      "schedule",
-      "routine",
-      "polite",
-      "grateful"
+      "a",
+      "about",
+      "above",
+      "across",
+      "action"
     ]
   },
   {
@@ -31,8 +31,8 @@
     "icon": "🌿",
     "level": "A2",
     "category": "Giao tiếp & Đời thường",
-    "description": "30 từ vựng thực tế phục vụ đi lại, mô tả sự vật, đưa ra quyết định và kết nối cộng đồng.",
-    "wordCount": 30,
+    "description": "Trọn bộ 792 từ vựng Oxford A2 phục vụ đi lại, công việc, mô tả sự vật và kết nối xã hội thường nhật.",
+    "wordCount": 792,
     "file": "a2-elementary.json",
     "sheetName": "deck_a2",
     "tags": [
@@ -42,11 +42,11 @@
       "elementary"
     ],
     "preview": [
-      "arrive",
-      "convenient",
-      "decide",
-      "prepare",
-      "explore"
+      "ability",
+      "able",
+      "abroad",
+      "accept",
+      "accident"
     ]
   },
   {
@@ -56,8 +56,8 @@
     "icon": "🚀",
     "level": "B1",
     "category": "Công sở & Xã hội",
-    "description": "30 từ vựng thiết yếu trong giải quyết vấn đề, tương tác đồng nghiệp và tư duy linh hoạt.",
-    "wordCount": 30,
+    "description": "Trọn bộ 690 từ vựng Oxford B1 thiết yếu trong giải quyết vấn đề, tương tác đồng nghiệp và đời sống tự tin.",
+    "wordCount": 690,
     "file": "b1-intermediate.json",
     "sheetName": "deck_b1",
     "tags": [
@@ -67,11 +67,11 @@
       "intermediate"
     ],
     "preview": [
-      "achieve",
-      "colleague",
-      "flexible",
-      "efficient",
-      "perspective"
+      "absolutely",
+      "academic",
+      "access",
+      "accommodation",
+      "account"
     ]
   },
   {
@@ -81,8 +81,8 @@
     "icon": "💼",
     "level": "B2",
     "category": "Phân tích & Quản trị",
-    "description": "30 từ vựng sắc bén cho phân tích kinh doanh, hợp tác chiến lược, đổi mới và phản biện.",
-    "wordCount": 30,
+    "description": "Trọn bộ 1.297 từ vựng Oxford B2 sắc bén cho giao tiếp chuyên nghiệp, phân tích, đổi mới và phản biện.",
+    "wordCount": 1297,
     "file": "b2-upper-intermediate.json",
     "sheetName": "deck_b2",
     "tags": [
@@ -92,11 +92,11 @@
       "upper-intermediate"
     ],
     "preview": [
-      "collaborate",
-      "eligible",
-      "sustainable",
-      "innovate",
-      "resilience"
+      "abandon",
+      "absolute",
+      "absorb",
+      "abstract",
+      "accent"
     ]
   },
   {
@@ -106,8 +106,8 @@
     "icon": "🎓",
     "level": "C1",
     "category": "Học thuật & Diễn đạt cao cấp",
-    "description": "30 từ vựng cao cấp mở rộng năng lực lập luận, hùng biện và nắm bắt sắc thái chuyên sâu.",
-    "wordCount": 30,
+    "description": "Trọn bộ 640 từ vựng Oxford C1 cao cấp mở rộng năng lực học thuật, lập luận và hùng biện chuyên sâu.",
+    "wordCount": 640,
     "file": "c1-advanced.json",
     "sheetName": "deck_c1",
     "tags": [
@@ -117,11 +117,11 @@
       "advanced"
     ],
     "preview": [
-      "advocate",
-      "comprehensive",
-      "plausible",
-      "eloquent",
-      "nuance"
+      "abolish",
+      "abortion",
+      "absence",
+      "absent",
+      "absurd"
     ]
   },
   {
@@ -131,8 +131,8 @@
     "icon": "👑",
     "level": "C2",
     "category": "Đỉnh cao ngôn từ",
-    "description": "30 từ vựng tinh xảo, văn phong uyên bác và năng lực thấu suốt ngôn ngữ trình độ bản xứ.",
-    "wordCount": 30,
+    "description": "Trọn bộ 637 từ vựng Oxford C1-C2 tinh xảo, văn phong uyên bác và năng lực thấu suốt ngôn ngữ bản xứ.",
+    "wordCount": 637,
     "file": "c2-mastery.json",
     "sheetName": "deck_c2",
     "tags": [
@@ -142,11 +142,11 @@
       "proficient"
     ],
     "preview": [
-      "ubiquitous",
-      "ephemeral",
-      "paradigm",
-      "pragmatic",
-      "serendipity"
+      "intermediate",
+      "intervene",
+      "intervention",
+      "intimate",
+      "intriguing"
     ]
   }
 ]
