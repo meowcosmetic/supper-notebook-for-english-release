@@ -20,7 +20,7 @@
 
 | Mục | Nội dung |
 | :--- | :--- |
-| 🚀 **Bản mới nhất** | `v1.4.20` (versionCode `51`) |
+| 🚀 **Bản mới nhất** | `v1.4.33` (versionCode `64`) |
 | 📦 **Dung lượng file** | `~11.9 MB` |
 | ⬇️ **Link tải trực tiếp** | [**👉 SuperNotebook-v1.4.33.apk**](https://github.com/meowcosmetic/supper-notebook-for-english-release/releases/download/v1.4.33/SuperNotebook-v1.4.33.apk) |
 | 🔒 **Mã xác thực SHA256** | [`SuperNotebook-v1.4.33.apk.sha256`](./SuperNotebook-v1.4.33.apk.sha256) |
@@ -44,7 +44,9 @@
 
 ### 3. 🗂️ Flashcard & Thuật toán SM-2
 - Ôn từ vựng theo chu kỳ lặp lại ngắt quãng (thuật toán SM-2 tương tự Anki).
-- Tự động tính ngày cần ôn lại dựa trên mức độ bạn nhớ từ (Again / Hard / Good / Easy).
+- Đánh giá 4 mức độ: **Again (10 phút)**, **Hard (Khó)**, **Good (Tốt)**, **Easy (Dễ)**.
+- **Phím tắt số `1`–`4`**: Thao tác tức thì khi lật thẻ mà không cần dùng chuột, hỗ trợ cả hàng phím số và bàn phím số Numpad.
+- **Bộ đếm "Đến hạn" tức thì**: Nút lọc trên danh sách hiển thị số lượng từ đến hạn ôn `(Đến hạn: X/Y)` mà không phải tải lại dữ liệu.
 - Có phát âm Text-to-Speech, phiên âm IPA, từ loại, câu ví dụ và dịch nghĩa song ngữ.
 
 ### 4. 🎧 Luyện đề TOEIC Offline (ETS & YBM)
@@ -69,6 +71,17 @@
 ### 8. 🔄 Đồng bộ 2 chiều với Google Sheets
 - Lưu trữ trực tiếp tại máy qua IndexedDB nên app mở tức thì và dùng bình thường khi mất mạng.
 - Tự động đồng bộ ngầm 2 chiều với Google Spreadsheet của bạn khi có kết nối mạng.
+
+### 9. 📦 Kho Bộ Từ Vựng Có Sẵn CEFR (Oxford 3000 & 5000)
+- **4.954 từ vựng** chia thành 6 cấp độ chuẩn quốc tế:
+  - 🌱 **A1 Starter (898 từ)**: Khởi đầu vững chắc, sinh hoạt đời thường.
+  - 🌿 **A2 Elementary (792 từ)**: Giao tiếp thực tế, du lịch, mua sắm.
+  - 🚀 **B1 Intermediate (690 từ)**: Công sở, giải quyết vấn đề (tương đương TOEIC 500–650).
+  - 💼 **B2 Upper-Intermediate (1.297 từ)**: Phân tích, đàm phán (tương đương TOEIC 750+ / IELTS 6.5).
+  - 🎓 **C1 Advanced (640 từ)**: Học thuật, viết luận chuyên sâu (tương đương IELTS 7.5–8.0).
+  - 👑 **C2 Mastery (637 từ)**: Tinh hoa bản ngữ, văn phong tu từ đỉnh cao.
+- **Tự động tạo Tab mới trên Google Sheets**: Tự động tạo tab độc lập (`deck_a1`, `deck_a2`...) với 11 cột chuẩn và tải từ vựng lên, hoàn toàn không đụng chạm hay ghi đè vào tab `vocal` cá nhân.
+- **Đồng bộ tiến độ SRS 2 chiều**: Ôn tập Flashcard trên các bộ từ này tự động đồng bộ kết quả lên Google Sheets.
 
 ---
 
