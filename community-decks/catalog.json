@@ -1,0 +1,152 @@
+[
+  {
+    "id": "a1_starter",
+    "title": "A1 - Khởi đầu vững chắc",
+    "englishTitle": "A1 Starter Basics",
+    "icon": "🌱",
+    "level": "A1",
+    "category": "Cơ bản & Đời sống",
+    "description": "30 từ vựng nền tảng về sinh hoạt, gia đình, thói quen và cảm xúc thường nhật tích cực.",
+    "wordCount": 30,
+    "file": "a1-starter.json",
+    "sheetName": "deck_a1",
+    "tags": [
+      "a1",
+      "co-ban",
+      "doi-song",
+      "starter"
+    ],
+    "preview": [
+      "greet",
+      "schedule",
+      "routine",
+      "polite",
+      "grateful"
+    ]
+  },
+  {
+    "id": "a2_elementary",
+    "title": "A2 - Giao tiếp Thiết yếu",
+    "englishTitle": "A2 Elementary Practical",
+    "icon": "🌿",
+    "level": "A2",
+    "category": "Giao tiếp & Đời thường",
+    "description": "30 từ vựng thực tế phục vụ đi lại, mô tả sự vật, đưa ra quyết định và kết nối cộng đồng.",
+    "wordCount": 30,
+    "file": "a2-elementary.json",
+    "sheetName": "deck_a2",
+    "tags": [
+      "a2",
+      "giao-tiep",
+      "thuc-te",
+      "elementary"
+    ],
+    "preview": [
+      "arrive",
+      "convenient",
+      "decide",
+      "prepare",
+      "explore"
+    ]
+  },
+  {
+    "id": "b1_intermediate",
+    "title": "B1 - Tự tin & Thích ứng",
+    "englishTitle": "B1 Intermediate Fluency",
+    "icon": "🚀",
+    "level": "B1",
+    "category": "Công sở & Xã hội",
+    "description": "30 từ vựng thiết yếu trong giải quyết vấn đề, tương tác đồng nghiệp và tư duy linh hoạt.",
+    "wordCount": 30,
+    "file": "b1-intermediate.json",
+    "sheetName": "deck_b1",
+    "tags": [
+      "b1",
+      "trung-cap",
+      "cong-so",
+      "intermediate"
+    ],
+    "preview": [
+      "achieve",
+      "colleague",
+      "flexible",
+      "efficient",
+      "perspective"
+    ]
+  },
+  {
+    "id": "b2_upper_intermediate",
+    "title": "B2 - Chuyên nghiệp & Đổi mới",
+    "englishTitle": "B2 Upper-Intermediate Professional",
+    "icon": "💼",
+    "level": "B2",
+    "category": "Phân tích & Quản trị",
+    "description": "30 từ vựng sắc bén cho phân tích kinh doanh, hợp tác chiến lược, đổi mới và phản biện.",
+    "wordCount": 30,
+    "file": "b2-upper-intermediate.json",
+    "sheetName": "deck_b2",
+    "tags": [
+      "b2",
+      "chuyen-nghiep",
+      "kinh-doanh",
+      "upper-intermediate"
+    ],
+    "preview": [
+      "collaborate",
+      "eligible",
+      "sustainable",
+      "innovate",
+      "resilience"
+    ]
+  },
+  {
+    "id": "c1_advanced",
+    "title": "C1 - Học thuật & Tinh tế",
+    "englishTitle": "C1 Advanced Expression",
+    "icon": "🎓",
+    "level": "C1",
+    "category": "Học thuật & Diễn đạt cao cấp",
+    "description": "30 từ vựng cao cấp mở rộng năng lực lập luận, hùng biện và nắm bắt sắc thái chuyên sâu.",
+    "wordCount": 30,
+    "file": "c1-advanced.json",
+    "sheetName": "deck_c1",
+    "tags": [
+      "c1",
+      "hoc-thuat",
+      "cao-cap",
+      "advanced"
+    ],
+    "preview": [
+      "advocate",
+      "comprehensive",
+      "plausible",
+      "eloquent",
+      "nuance"
+    ]
+  },
+  {
+    "id": "c2_mastery",
+    "title": "C2 - Tinh hoa & Bản ngữ",
+    "englishTitle": "C2 Native Mastery",
+    "icon": "👑",
+    "level": "C2",
+    "category": "Đỉnh cao ngôn từ",
+    "description": "30 từ vựng tinh xảo, văn phong uyên bác và năng lực thấu suốt ngôn ngữ trình độ bản xứ.",
+    "wordCount": 30,
+    "file": "c2-mastery.json",
+    "sheetName": "deck_c2",
+    "tags": [
+      "c2",
+      "tinh-hoa",
+      "mastery",
+      "proficient"
+    ],
+    "preview": [
+      "ubiquitous",
+      "ephemeral",
+      "paradigm",
+      "pragmatic",
+      "serendipity"
+    ]
+  }
+]

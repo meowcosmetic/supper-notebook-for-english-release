@@ -1,0 +1,212 @@
+[
+  {
+    "vocabulary": "greet",
+    "phonetic": "/ɡriːt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Chào hỏi, đón chào",
+    "exampleSentence": "We always greet our new neighbors with a friendly smile."
+  },
+  {
+    "vocabulary": "schedule",
+    "phonetic": "/ˈskedʒ.uːl/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Lịch trình, thời gian biểu",
+    "exampleSentence": "I check my daily study schedule every morning."
+  },
+  {
+    "vocabulary": "routine",
+    "phonetic": "/ruːˈtiːn/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Thói quen, lịch sinh hoạt hằng ngày",
+    "exampleSentence": "A healthy morning routine gives me energy for the whole day."
+  },
+  {
+    "vocabulary": "polite",
+    "phonetic": "/pəˈlaɪt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Lịch sự, lễ phép",
+    "exampleSentence": "It is polite to say thank you when someone helps you."
+  },
+  {
+    "vocabulary": "grateful",
+    "phonetic": "/ˈɡreɪt.fəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Biết ơn, cảm kích",
+    "exampleSentence": "I am grateful for the warm support from my family."
+  },
+  {
+    "vocabulary": "delicious",
+    "phonetic": "/dɪˈlɪʃ.əs/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Thơm ngon",
+    "exampleSentence": "My mother cooked a delicious vegetable soup for lunch."
+  },
+  {
+    "vocabulary": "breakfast",
+    "phonetic": "/ˈbrek.fəst/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Bữa ăn sáng",
+    "exampleSentence": "Having a balanced breakfast helps you stay focused at school."
+  },
+  {
+    "vocabulary": "habit",
+    "phonetic": "/ˈhæb.ɪt/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Thói quen tích cực",
+    "exampleSentence": "Reading ten pages of a book every evening is a great habit."
+  },
+  {
+    "vocabulary": "punctual",
+    "phonetic": "/ˈpʌŋk.tʃu.əl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Đúng giờ",
+    "exampleSentence": "He is always punctual for all morning classes."
+  },
+  {
+    "vocabulary": "quiet",
+    "phonetic": "/ˈkwaɪ.ət/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Yên tĩnh, thanh bình",
+    "exampleSentence": "The local library is a quiet place to read books."
+  },
+  {
+    "vocabulary": "friendly",
+    "phonetic": "/ˈfrend.li/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Thân thiện, hòa đồng",
+    "exampleSentence": "Our new classmate is very friendly and kind to everyone."
+  },
+  {
+    "vocabulary": "tidy",
+    "phonetic": "/ˈtaɪ.di/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Gọn gàng, ngăn nắp",
+    "exampleSentence": "She keeps her study desk tidy and organized."
+  },
+  {
+    "vocabulary": "exercise",
+    "phonetic": "/ˈek.sə.saɪz/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Tập thể dục, rèn luyện",
+    "exampleSentence": "We exercise in the park for thirty minutes every day."
+  },
+  {
+    "vocabulary": "relax",
+    "phonetic": "/rɪˈlæks/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Thư giãn, nghỉ ngơi",
+    "exampleSentence": "Listening to gentle music helps me relax after school."
+  },
+  {
+    "vocabulary": "patient",
+    "phonetic": "/ˈpeɪ.ʃənt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Kiên nhẫn, nhẫn nại",
+    "exampleSentence": "The teacher is very patient with beginners."
+  },
+  {
+    "vocabulary": "helpful",
+    "phonetic": "/ˈhelp.fəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Hay giúp đỡ, hữu ích",
+    "exampleSentence": "The store clerk was very helpful in finding the right book."
+  },
+  {
+    "vocabulary": "celebrate",
+    "phonetic": "/ˈsel.ə.breɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Kỷ niệm, chúc mừng",
+    "exampleSentence": "We gather together to celebrate my sister's graduation."
+  },
+  {
+    "vocabulary": "neighbor",
+    "phonetic": "/ˈneɪ.bər/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Người hàng xóm",
+    "exampleSentence": "Our neighbor shares fresh fruit from his garden with us."
+  },
+  {
+    "vocabulary": "hobby",
+    "phonetic": "/ˈhɒb.i/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Sở thích cá nhân",
+    "exampleSentence": "Painting landscapes is her favorite weekend hobby."
+  },
+  {
+    "vocabulary": "bright",
+    "phonetic": "/braɪt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Tươi sáng, rạng rỡ",
+    "exampleSentence": "Natural sunlight makes the living room bright and warm."
+  },
+  {
+    "vocabulary": "encourage",
+    "phonetic": "/ɪnˈkʌr.ɪdʒ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Khích lệ, động viên",
+    "exampleSentence": "Parents should always encourage their children to try new things."
+  },
+  {
+    "vocabulary": "warmly",
+    "phonetic": "/ˈwɔːm.li/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Một cách ấm áp, nồng hậu",
+    "exampleSentence": "The host welcomed all the guests warmly at the door."
+  },
+  {
+    "vocabulary": "cheerful",
+    "phonetic": "/ˈtʃɪə.fəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Vui tươi, phấn khởi",
+    "exampleSentence": "His cheerful attitude brings positive energy to the classroom."
+  },
+  {
+    "vocabulary": "refresh",
+    "phonetic": "/rɪˈfreʃ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Làm mới, làm sảng khoái",
+    "exampleSentence": "A short walk outside helps refresh my mind."
+  },
+  {
+    "vocabulary": "simple",
+    "phonetic": "/ˈsɪm.pəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Đơn giản, mộc mạc",
+    "exampleSentence": "Cooking a simple meal at home is both healthy and fun."
+  },
+  {
+    "vocabulary": "listen",
+    "phonetic": "/ˈlɪs.ən/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Lắng nghe chân thành",
+    "exampleSentence": "Good communicators always listen attentively to others."
+  },
+  {
+    "vocabulary": "gentle",
+    "phonetic": "/ˈdʒen.təl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Dịu dàng, êm dịu",
+    "exampleSentence": "A gentle breeze cooled the afternoon air."
+  },
+  {
+    "vocabulary": "gladly",
+    "phonetic": "/ˈɡlæd.li/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Một cách vui vẻ, sẵn lòng",
+    "exampleSentence": "I will gladly help you practice English pronunciation."
+  },
+  {
+    "vocabulary": "together",
+    "phonetic": "/təˈɡeð.ər/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Cùng nhau, chung sức",
+    "exampleSentence": "The family enjoys cooking dinner together on Sundays."
+  },
+  {
+    "vocabulary": "neatly",
+    "phonetic": "/ˈniːt.li/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Gọn gàng, ngăn nắp",
+    "exampleSentence": "She organized her study notes neatly in a blue binder."
+  }
+]

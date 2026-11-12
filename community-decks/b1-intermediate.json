@@ -1,0 +1,212 @@
+[
+  {
+    "vocabulary": "achieve",
+    "phonetic": "/əˈtʃiːv/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Đạt được, hoàn thành mục tiêu",
+    "exampleSentence": "With perseverance, you can achieve your professional milestones."
+  },
+  {
+    "vocabulary": "colleague",
+    "phonetic": "/ˈkɒl.iːɡ/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Đồng nghiệp cộng sự",
+    "exampleSentence": "I work closely with my marketing colleague on every creative project."
+  },
+  {
+    "vocabulary": "flexible",
+    "phonetic": "/ˈflek.sə.bəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Linh hoạt, uyển chuyển",
+    "exampleSentence": "Modern workplaces encourage flexible schedules to promote work-life harmony."
+  },
+  {
+    "vocabulary": "efficient",
+    "phonetic": "/ɪˈfɪʃ.ənt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Hiệu quả, tiết kiệm thời gian",
+    "exampleSentence": "Adopting digital tools made our documentation workflow much more efficient."
+  },
+  {
+    "vocabulary": "perspective",
+    "phonetic": "/pəˈspek.tɪv/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Góc nhìn, lăng kính tư duy",
+    "exampleSentence": "Listening to team members provides a fresh perspective on complex problems."
+  },
+  {
+    "vocabulary": "predict",
+    "phonetic": "/prɪˈdɪkt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Dự đoán, ước tính xu hướng",
+    "exampleSentence": "Analysts use reliable data to predict seasonal customer preferences."
+  },
+  {
+    "vocabulary": "suitable",
+    "phonetic": "/ˈsuː.tə.bəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Phù hợp, vừa vặn",
+    "exampleSentence": "We found a suitable venue for our annual company knowledge seminar."
+  },
+  {
+    "vocabulary": "negotiate",
+    "phonetic": "/nəˈɡəʊ.ʃi.eɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Đàm phán, thương lượng thỏa thuận",
+    "exampleSentence": "Both sides met to negotiate a fair partnership agreement."
+  },
+  {
+    "vocabulary": "adapt",
+    "phonetic": "/əˈdæpt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Thích ứng, điều chỉnh linh hoạt",
+    "exampleSentence": "Successful organizations adapt quickly to technological advancements."
+  },
+  {
+    "vocabulary": "essential",
+    "phonetic": "/ɪˈsen.ʃəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Thiết yếu, cốt lõi",
+    "exampleSentence": "Clear communication is an essential element of effective leadership."
+  },
+  {
+    "vocabulary": "initiative",
+    "phonetic": "/ɪˈnɪʃ.ə.tɪv/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Sáng kiến, tính tiên phong",
+    "exampleSentence": "She took the initiative to establish a peer-mentoring circle at work."
+  },
+  {
+    "vocabulary": "productive",
+    "phonetic": "/prəˈdʌk.tɪv/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Năng suất, giàu thành quả",
+    "exampleSentence": "Setting clear priorities helped us have an exceptionally productive meeting."
+  },
+  {
+    "vocabulary": "resolve",
+    "phonetic": "/rɪˈzɒlv/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Giải quyết ổn thỏa",
+    "exampleSentence": "The customer service specialist helped resolve the shipping inquiry quickly."
+  },
+  {
+    "vocabulary": "effective",
+    "phonetic": "/ɪˈfek.tɪv/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Có hiệu quả cao",
+    "exampleSentence": "Visual summaries are an effective method for presenting survey results."
+  },
+  {
+    "vocabulary": "consistently",
+    "phonetic": "/kənˈsɪs.tənt.li/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Đều đặn, kiên định",
+    "exampleSentence": "He consistently delivers high-quality software features on schedule."
+  },
+  {
+    "vocabulary": "contribute",
+    "phonetic": "/kənˈtrɪb.juːt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Đóng góp, góp sức",
+    "exampleSentence": "Every team member was invited to contribute ideas during the workshop."
+  },
+  {
+    "vocabulary": "feedback",
+    "phonetic": "/ˈfiːd.bæk/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Ý kiến phản hồi xây dựng",
+    "exampleSentence": "Constructive feedback helps designers refine user-friendly interfaces."
+  },
+  {
+    "vocabulary": "prioritize",
+    "phonetic": "/praɪˈɒr.ɪ.taɪz/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Ưu tiên sắp xếp công việc",
+    "exampleSentence": "It is crucial to prioritize urgent tasks before launching new assignments."
+  },
+  {
+    "vocabulary": "reliable",
+    "phonetic": "/rɪˈlaɪ.ə.bəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Đáng tin cậy, vững chắc",
+    "exampleSentence": "She proved to be a reliable partner in every collaborative endeavor."
+  },
+  {
+    "vocabulary": "objective",
+    "phonetic": "/əbˈdʒek.tɪv/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Mục tiêu rõ ràng",
+    "exampleSentence": "Our main objective this quarter is to enhance customer satisfaction."
+  },
+  {
+    "vocabulary": "clarify",
+    "phonetic": "/ˈklær.ɪ.faɪ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Làm rõ, giải thích tường minh",
+    "exampleSentence": "The manager held a briefing to clarify the project timeline and milestones."
+  },
+  {
+    "vocabulary": "accurately",
+    "phonetic": "/ˈæk.jə.rət.li/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Một cách chuẩn xác",
+    "exampleSentence": "The new sensor measures ambient temperature accurately throughout the day."
+  },
+  {
+    "vocabulary": "motivate",
+    "phonetic": "/ˈməʊ.tɪ.veɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Truyền cảm hứng, tạo động lực",
+    "exampleSentence": "Meaningful praise helps motivate trainees to excel in their academic work."
+  },
+  {
+    "vocabulary": "practical",
+    "phonetic": "/ˈpræk.tɪ.kəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Thực tế, có tính ứng dụng cao",
+    "exampleSentence": "The workshop offered practical strategies for daily time management."
+  },
+  {
+    "vocabulary": "cooperate",
+    "phonetic": "/kəʊˈɒp.ər.eɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Hợp tác, hiệp lực",
+    "exampleSentence": "Engineers and designers cooperate closely to build intuitive educational apps."
+  },
+  {
+    "vocabulary": "satisfactory",
+    "phonetic": "/ˌsæt.ɪsˈfæk.tər.i/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Thỏa đáng, đáp ứng tiêu chuẩn",
+    "exampleSentence": "The quality audit concluded with highly satisfactory results across all metrics."
+  },
+  {
+    "vocabulary": "thoroughly",
+    "phonetic": "/ˈθʌr.ə.li/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Kỹ lưỡng, thấu đáo",
+    "exampleSentence": "The committee thoroughly reviewed the proposal before reaching approval."
+  },
+  {
+    "vocabulary": "responsibility",
+    "phonetic": "/rɪˌspɒn.sɪˈbɪl.ə.ti/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Trách nhiệm, bổn phận",
+    "exampleSentence": "Taking responsibility for personal growth builds professional maturity."
+  },
+  {
+    "vocabulary": "supportive",
+    "phonetic": "/səˈpɔː.tɪv/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Tận tình ủng hộ, hỗ trợ",
+    "exampleSentence": "Our manager maintains a supportive environment where everyone can ask questions."
+  },
+  {
+    "vocabulary": "constructive",
+    "phonetic": "/kənˈstrʌk.tɪv/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Mang tính xây dựng",
+    "exampleSentence": "Our team held a constructive discussion about improving workspace ergonomics."
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "vocabulary": "advocate",
+    "phonetic": "/ˈæd.və.keɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Vận động ủng hộ, tán thành công khai",
+    "exampleSentence": "Environmental scholars advocate sustainable urban planning policies worldwide."
+  },
+  {
+    "vocabulary": "comprehensive",
+    "phonetic": "/ˌkɒm.prɪˈhen.sɪv/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Toàn diện, bao quát sâu sắc",
+    "exampleSentence": "The report offers a comprehensive assessment of renewable energy adoption."
+  },
+  {
+    "vocabulary": "plausible",
+    "phonetic": "/ˈplɔː.zə.bəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Hợp lý, có cơ sở tin cậy",
+    "exampleSentence": "The physicist proposed a plausible explanation for the unexpected experimental reading."
+  },
+  {
+    "vocabulary": "eloquent",
+    "phonetic": "/ˈel.ə.kwənt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Hùng biện lưu loát, truyền cảm",
+    "exampleSentence": "Her eloquent speech inspired the youth delegation to pursue humanitarian initiatives."
+  },
+  {
+    "vocabulary": "nuance",
+    "phonetic": "/ˈnjuː.ɑːns/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Sắc thái tinh tế, khác biệt nhỏ",
+    "exampleSentence": "Experienced translators understand every subtle cultural nuance in literature."
+  },
+  {
+    "vocabulary": "diminish",
+    "phonetic": "/dɪˈmɪn.ɪʃ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Làm giảm bớt, thu hẹp",
+    "exampleSentence": "Thoughtful communication helps diminish tension during high-stakes negotiations."
+  },
+  {
+    "vocabulary": "subtle",
+    "phonetic": "/ˈsʌt.əl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Tinh tế, ý nhị",
+    "exampleSentence": "The author uses subtle humor to enrich the dialogue between characters."
+  },
+  {
+    "vocabulary": "articulate",
+    "phonetic": "/ɑːˈtɪk.jə.leɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Diễn đạt khúc chiết rõ ràng",
+    "exampleSentence": "A seasoned diplomat can articulate complex foreign policies with remarkable clarity."
+  },
+  {
+    "vocabulary": "disparity",
+    "phonetic": "/dɪˈspær.ə.ti/",
+    "wordType": "noun",
+    "vietnameseMeaning": "Sự chênh lệch, khoảng cách",
+    "exampleSentence": "Global summits aim to reduce the disparity in educational resources between regions."
+  },
+  {
+    "vocabulary": "versatile",
+    "phonetic": "/ˈvɜː.sə.taɪl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Đa tài, biến hóa linh hoạt",
+    "exampleSentence": "Graphene is an extraordinarily versatile material with applications in electronics and medicine."
+  },
+  {
+    "vocabulary": "unprecedented",
+    "phonetic": "/ʌnˈpres.ɪ.den.tɪd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Chưa từng có tiền lệ",
+    "exampleSentence": "The discovery sparked an unprecedented wave of interest among international researchers."
+  },
+  {
+    "vocabulary": "scrutinize",
+    "phonetic": "/ˈskruː.tɪ.naɪz/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Xem xét, soi xét cẩn trọng",
+    "exampleSentence": "Independent auditors scrutinize financial statements to verify accuracy and compliance."
+  },
+  {
+    "vocabulary": "compelling",
+    "phonetic": "/kəmˈpel.ɪŋ/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Có sức thuyết phục mãnh liệt",
+    "exampleSentence": "The keynote speaker presented compelling evidence supporting early childhood literacy."
+  },
+  {
+    "vocabulary": "corroborate",
+    "phonetic": "/kəˈrɒb.ə.reɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Chứng thực, củng cố luận điểm",
+    "exampleSentence": "Further statistical analysis helped corroborate the primary research hypothesis."
+  },
+  {
+    "vocabulary": "lucid",
+    "phonetic": "/ˈluː.sɪd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Sáng rõ, minh bạch dễ hiểu",
+    "exampleSentence": "The professor delivered a lucid lecture demystifying quantum mechanics for undergraduates."
+  },
+  {
+    "vocabulary": "exemplify",
+    "phonetic": "/ɪɡˈzem.plɪ.faɪ/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Điển hình hóa, làm mẫu mực",
+    "exampleSentence": "Her relentless work ethic and humility exemplify true community leadership."
+  },
+  {
+    "vocabulary": "meticulous",
+    "phonetic": "/məˈtɪk.jə.ləs/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Tỉ mỉ, chu toàn từng ly từng tí",
+    "exampleSentence": "The architect prepared meticulous blueprints for the restoration of the heritage library."
+  },
+  {
+    "vocabulary": "disseminate",
+    "phonetic": "/dɪˈsem.ɪ.neɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Phổ biến rộng rãi, truyền bá",
+    "exampleSentence": "Educational foundations disseminate free STEM learning resources worldwide."
+  },
+  {
+    "vocabulary": "resilient",
+    "phonetic": "/rɪˈzɪl.jənt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Kiên cường, mau chóng phục hồi",
+    "exampleSentence": "Resilient ecosystems adapt gracefully to shifting climate patterns over centuries."
+  },
+  {
+    "vocabulary": "cogent",
+    "phonetic": "/ˈkəʊ.dʒənt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Đanh thép, chặt chẽ đầy sức thuyết phục",
+    "exampleSentence": "The legal team presented a cogent argument grounded in constitutional principles."
+  },
+  {
+    "vocabulary": "synthesize",
+    "phonetic": "/ˈsɪn.θə.saɪz/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Tổng hợp, đúc kết hệ thống",
+    "exampleSentence": "Advanced scholars synthesize findings across multiple disciplines into coherent theories."
+  },
+  {
+    "vocabulary": "profound",
+    "phonetic": "/prəˈfaʊnd/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Sâu sắc, thâm thúy",
+    "exampleSentence": "The philosophical treatise offered profound insights into human consciousness."
+  },
+  {
+    "vocabulary": "elucidate",
+    "phonetic": "/iˈluː.sɪ.deɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Làm sáng tỏ, diễn giải thấu đáo",
+    "exampleSentence": "Practical case examples serve to elucidate theoretical principles through real-world scenarios."
+  },
+  {
+    "vocabulary": "paramount",
+    "phonetic": "/ˈpær.ə.maʊnt/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Tối quan trọng, trên hết thảy",
+    "exampleSentence": "Ensuring student safety and emotional well-being remains of paramount importance."
+  },
+  {
+    "vocabulary": "substantiate",
+    "phonetic": "/səbˈstæn.ʃi.eɪt/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Minh chứng bằng cứ liệu xác thực",
+    "exampleSentence": "Scientists must substantiate their claims with peer-reviewed empirical evidence."
+  },
+  {
+    "vocabulary": "invaluable",
+    "phonetic": "/ɪnˈvæl.jə.bəl/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Vô giá, cực kỳ quý báu",
+    "exampleSentence": "Her mentorship proved invaluable to generations of aspiring engineers."
+  },
+  {
+    "vocabulary": "empower",
+    "phonetic": "/ɪmˈpaʊ.ər/",
+    "wordType": "verb",
+    "vietnameseMeaning": "Trao quyền, tiếp thêm năng lực",
+    "exampleSentence": "Digital literacy initiatives empower rural entrepreneurs to expand their enterprises."
+  },
+  {
+    "vocabulary": "seamlessly",
+    "phonetic": "/ˈsiːm.ləs.li/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Liền mạch, ăn khớp hoàn hảo",
+    "exampleSentence": "The new software update integrated seamlessly into the enterprise cloud ecosystem."
+  },
+  {
+    "vocabulary": "conducive",
+    "phonetic": "/kənˈdʒuː.sɪv/",
+    "wordType": "adjective",
+    "vietnameseMeaning": "Tạo điều kiện thuận lợi, có ích cho",
+    "exampleSentence": "A collaborative atmosphere is highly conducive to groundbreaking creative ideas."
+  },
+  {
+    "vocabulary": "judiciously",
+    "phonetic": "/dʒuːˈdɪʃ.əs.li/",
+    "wordType": "adverb",
+    "vietnameseMeaning": "Sáng suốt, thận trọng khôn ngoan",
+    "exampleSentence": "The charity foundation allocated its endowment judiciously to maximize educational impact."
+  }
+]

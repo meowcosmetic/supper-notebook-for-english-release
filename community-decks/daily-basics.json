@@ -1,0 +1,212 @@
+[
+  {
+    "vocabulary": "routine",
+    "vietnameseMeaning": "thói quen, nề nếp hàng ngày",
+    "wordType": "noun",
+    "exampleSentence": "A morning routine helps start the day with positive energy.",
+    "phonetic": "/ruːˈtiːn/"
+  },
+  {
+    "vocabulary": "breakfast",
+    "vietnameseMeaning": "bữa ăn sáng",
+    "wordType": "noun",
+    "exampleSentence": "Having a healthy breakfast gives you energy for work.",
+    "phonetic": "/ˈbrek.fəst/"
+  },
+  {
+    "vocabulary": "schedule",
+    "vietnameseMeaning": "lịch trình, thời gian biểu",
+    "wordType": "noun",
+    "exampleSentence": "Let me check my schedule before setting our lunch appointment.",
+    "phonetic": "/ˈskedʒ.uːl/"
+  },
+  {
+    "vocabulary": "appointment",
+    "vietnameseMeaning": "cuộc hẹn, lịch hẹn",
+    "wordType": "noun",
+    "exampleSentence": "I have an appointment with the dentist this afternoon.",
+    "phonetic": "/əˈpɔɪnt.mənt/"
+  },
+  {
+    "vocabulary": "prepare",
+    "vietnameseMeaning": "chuẩn bị, sửa soạn",
+    "wordType": "verb",
+    "exampleSentence": "We need to prepare dinner before our guests arrive.",
+    "phonetic": "/prɪˈpeər/"
+  },
+  {
+    "vocabulary": "delicious",
+    "vietnameseMeaning": "thơm ngon, ngon miệng",
+    "wordType": "adjective",
+    "exampleSentence": "This home-cooked meal is absolutely delicious.",
+    "phonetic": "/dɪˈlɪʃ.əs/"
+  },
+  {
+    "vocabulary": "relax",
+    "vietnameseMeaning": "thư giãn, nghỉ ngơi",
+    "wordType": "verb",
+    "exampleSentence": "Listening to gentle music helps me relax after work.",
+    "phonetic": "/rɪˈlæks/"
+  },
+  {
+    "vocabulary": "grocery",
+    "vietnameseMeaning": "thực phẩm, hàng tạp hóa gia đình",
+    "wordType": "noun",
+    "exampleSentence": "She buys fresh groceries from the local market every weekend.",
+    "phonetic": "/ˈɡroʊ.sɚ.i/"
+  },
+  {
+    "vocabulary": "exercise",
+    "vietnameseMeaning": "bài tập thể dục, sự rèn luyện",
+    "wordType": "noun",
+    "exampleSentence": "Regular exercise keeps both body and mind healthy.",
+    "phonetic": "/ˈek.sɚ.saɪz/"
+  },
+  {
+    "vocabulary": "hobby",
+    "vietnameseMeaning": "sở thích cá nhân",
+    "wordType": "noun",
+    "exampleSentence": "Gardening is a wonderful hobby for your free time.",
+    "phonetic": "/ˈhɑː.bi/"
+  },
+  {
+    "vocabulary": "neighborhood",
+    "vietnameseMeaning": "khu phố, khu dân cư lân cận",
+    "wordType": "noun",
+    "exampleSentence": "Our neighborhood is quiet, clean, and friendly.",
+    "phonetic": "/ˈneɪ.bɚ.hʊd/"
+  },
+  {
+    "vocabulary": "polite",
+    "vietnameseMeaning": "lịch sự, lễ phép",
+    "wordType": "adjective",
+    "exampleSentence": "It is always polite to say please and thank you.",
+    "phonetic": "/pəˈlaɪt/"
+  },
+  {
+    "vocabulary": "punctual",
+    "vietnameseMeaning": "đúng giờ",
+    "wordType": "adjective",
+    "exampleSentence": "Being punctual shows great respect for other people's time.",
+    "phonetic": "/ˈpʌŋk.tʃu.əl/"
+  },
+  {
+    "vocabulary": "commute",
+    "vietnameseMeaning": "quãng đường đi lại hàng ngày",
+    "wordType": "noun",
+    "exampleSentence": "My daily commute takes about twenty minutes by bus.",
+    "phonetic": "/kəˈmjuːt/"
+  },
+  {
+    "vocabulary": "comfortable",
+    "vietnameseMeaning": "thoải mái, dễ chịu",
+    "wordType": "adjective",
+    "exampleSentence": "Make yourself comfortable while I pour some warm tea.",
+    "phonetic": "/ˈkʌm.fɚ.t̬ə.bəl/"
+  },
+  {
+    "vocabulary": "weekend",
+    "vietnameseMeaning": "dịp cuối tuần",
+    "wordType": "noun",
+    "exampleSentence": "We often visit our grandparents on the weekend.",
+    "phonetic": "/ˈwiːk.end/"
+  },
+  {
+    "vocabulary": "weather",
+    "vietnameseMeaning": "thời tiết",
+    "wordType": "noun",
+    "exampleSentence": "The sunny weather makes it perfect for a walk outside.",
+    "phonetic": "/ˈweð.ɚ/"
+  },
+  {
+    "vocabulary": "friendly",
+    "vietnameseMeaning": "thân thiện, cởi mở",
+    "wordType": "adjective",
+    "exampleSentence": "The shop owner is always warm and friendly to customers.",
+    "phonetic": "/ˈfrend.li/"
+  },
+  {
+    "vocabulary": "tidy",
+    "vietnameseMeaning": "dọn dẹp, sắp xếp ngăn nắp",
+    "wordType": "verb",
+    "exampleSentence": "I like to tidy my desk before starting work.",
+    "phonetic": "/ˈtaɪ.di/"
+  },
+  {
+    "vocabulary": "reminder",
+    "vietnameseMeaning": "lời nhắc, điều nhắc nhở",
+    "wordType": "noun",
+    "exampleSentence": "Set a reminder on your phone so you will not forget the call.",
+    "phonetic": "/rɪˈmaɪn.dɚ/"
+  },
+  {
+    "vocabulary": "conversation",
+    "vietnameseMeaning": "cuộc trò chuyện, đàm đạo",
+    "wordType": "noun",
+    "exampleSentence": "We had a pleasant conversation over a cup of coffee.",
+    "phonetic": "/ˌkɑːn.vɚˈseɪ.ʃən/"
+  },
+  {
+    "vocabulary": "grateful",
+    "vietnameseMeaning": "biết ơn, trân trọng",
+    "wordType": "adjective",
+    "exampleSentence": "I am deeply grateful for your kind support.",
+    "phonetic": "/ˈɡreɪt.fəl/"
+  },
+  {
+    "vocabulary": "opportunity",
+    "vietnameseMeaning": "cơ hội, dịp thuận lợi",
+    "wordType": "noun",
+    "exampleSentence": "Every new day brings an opportunity to learn something new.",
+    "phonetic": "/ˌɑː.pɚˈtuː.nə.t̬i/"
+  },
+  {
+    "vocabulary": "healthy",
+    "vietnameseMeaning": "lành mạnh, khỏe khoắn",
+    "wordType": "adjective",
+    "exampleSentence": "A balanced diet and good sleep ensure a healthy life.",
+    "phonetic": "/ˈhel.θi/"
+  },
+  {
+    "vocabulary": "celebrate",
+    "vietnameseMeaning": "ăn mừng, kỷ niệm",
+    "wordType": "verb",
+    "exampleSentence": "We gathered together to celebrate her promotion.",
+    "phonetic": "/ˈsel.ə.breɪt/"
+  },
+  {
+    "vocabulary": "organize",
+    "vietnameseMeaning": "sắp xếp, tổ chức",
+    "wordType": "verb",
+    "exampleSentence": "She helped organize the family photo albums neatly.",
+    "phonetic": "/ˈɔːr.ɡən.aɪz/"
+  },
+  {
+    "vocabulary": "patient",
+    "vietnameseMeaning": "kiên nhẫn, nhẫn nại",
+    "wordType": "adjective",
+    "exampleSentence": "Good teachers are always patient with their young students.",
+    "phonetic": "/ˈpeɪ.ʃənt/"
+  },
+  {
+    "vocabulary": "encourage",
+    "vietnameseMeaning": "động viên, khích lệ",
+    "wordType": "verb",
+    "exampleSentence": "Parents should encourage their children to explore new books.",
+    "phonetic": "/ɪnˈkɝː.ɪdʒ/"
+  },
+  {
+    "vocabulary": "cheerful",
+    "vietnameseMeaning": "vui tươi, phấn khởi",
+    "wordType": "adjective",
+    "exampleSentence": "His cheerful smile brightened up the whole room.",
+    "phonetic": "/ˈtʃɪr.fəl/"
+  },
+  {
+    "vocabulary": "peaceful",
+    "vietnameseMeaning": "yên bình, thanh thản",
+    "wordType": "adjective",
+    "exampleSentence": "Watching the sunset by the lake was very peaceful.",
+    "phonetic": "/ˈpiːs.fəl/"
+  }
+]

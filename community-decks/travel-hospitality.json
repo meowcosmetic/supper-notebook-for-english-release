@@ -1,0 +1,212 @@
+[
+  {
+    "vocabulary": "destination",
+    "vietnameseMeaning": "điểm đến, nơi đến",
+    "wordType": "noun",
+    "exampleSentence": "Da Nang is a popular coastal destination for summer holidays.",
+    "phonetic": "/ˌdes.təˈneɪ.ʃən/"
+  },
+  {
+    "vocabulary": "itinerary",
+    "vietnameseMeaning": "lịch trình chuyến đi",
+    "wordType": "noun",
+    "exampleSentence": "Our travel itinerary includes visits to three historical temples.",
+    "phonetic": "/aɪˈtɪn.ə.rer.i/"
+  },
+  {
+    "vocabulary": "reservation",
+    "vietnameseMeaning": "sự đặt chỗ trước, phiếu giữ chỗ",
+    "wordType": "noun",
+    "exampleSentence": "We made a dinner reservation at a cozy riverside restaurant.",
+    "phonetic": "/ˌrez.ɚˈveɪ.ʃən/"
+  },
+  {
+    "vocabulary": "accommodation",
+    "vietnameseMeaning": "chỗ ở, phòng nghỉ lưu trú",
+    "wordType": "noun",
+    "exampleSentence": "The hotel offers comfortable accommodation with beautiful ocean views.",
+    "phonetic": "/əˌkɑː.məˈdeɪ.ʃən/"
+  },
+  {
+    "vocabulary": "departure",
+    "vietnameseMeaning": "giờ khởi hành, sự xuất phát",
+    "wordType": "noun",
+    "exampleSentence": "Please arrive at the airport two hours before your scheduled departure.",
+    "phonetic": "/dɪˈpɑːr.tʃɚ/"
+  },
+  {
+    "vocabulary": "explore",
+    "vietnameseMeaning": "khám phá, tìm hiểu vùng đất mới",
+    "wordType": "verb",
+    "exampleSentence": "We rented bicycles to explore the charming ancient town.",
+    "phonetic": "/ɪkˈsplɔːr/"
+  },
+  {
+    "vocabulary": "luggage",
+    "vietnameseMeaning": "hành lý du lịch",
+    "wordType": "noun",
+    "exampleSentence": "Keep your important travel documents safely in your carry-on luggage.",
+    "phonetic": "/ˈlʌɡ.ɪdʒ/"
+  },
+  {
+    "vocabulary": "souvenir",
+    "vietnameseMeaning": "món quà lưu niệm",
+    "wordType": "noun",
+    "exampleSentence": "She bought lovely handmade souvenirs for her close friends.",
+    "phonetic": "/ˌsuː.vəˈnɪr/"
+  },
+  {
+    "vocabulary": "recommend",
+    "vietnameseMeaning": "gợi ý, giới thiệu địa điểm",
+    "wordType": "verb",
+    "exampleSentence": "Can you recommend a good local café near the city center?",
+    "phonetic": "/ˌrek.əˈmend/"
+  },
+  {
+    "vocabulary": "spectacular",
+    "vietnameseMeaning": "ngoạn mục, kỳ vĩ",
+    "wordType": "adjective",
+    "exampleSentence": "The mountain summit offered a spectacular sunrise view.",
+    "phonetic": "/spekˈtæk.jə.lɚ/"
+  },
+  {
+    "vocabulary": "boarding",
+    "vietnameseMeaning": "việc lên tàu xe, máy bay",
+    "wordType": "noun",
+    "exampleSentence": "Boarding for flight VN123 begins at gate number four.",
+    "phonetic": "/ˈbɔːr.dɪŋ/"
+  },
+  {
+    "vocabulary": "guide",
+    "vietnameseMeaning": "hướng dẫn viên, người chỉ đường",
+    "wordType": "noun",
+    "exampleSentence": "Our friendly tour guide shared fascinating stories about local culture.",
+    "phonetic": "/ɡaɪd/"
+  },
+  {
+    "vocabulary": "scenery",
+    "vietnameseMeaning": "phong cảnh thiên nhiên",
+    "wordType": "noun",
+    "exampleSentence": "The coastal highway is famous for its breathtaking scenery.",
+    "phonetic": "/ˈsiː.nɚ.i/"
+  },
+  {
+    "vocabulary": "convenient",
+    "vietnameseMeaning": "thuận tiện, tiện lợi",
+    "wordType": "adjective",
+    "exampleSentence": "The subway station is located right next to the hotel, which is very convenient.",
+    "phonetic": "/kənˈviːn.jənt/"
+  },
+  {
+    "vocabulary": "traditional",
+    "vietnameseMeaning": "mang tính truyền thống, lâu đời",
+    "wordType": "adjective",
+    "exampleSentence": "Visitors love tasting traditional noodle dishes in the night market.",
+    "phonetic": "/trəˈdɪʃ.ən.əl/"
+  },
+  {
+    "vocabulary": "hospitality",
+    "vietnameseMeaning": "lòng hiếu khách, sự đón tiếp chu đáo",
+    "wordType": "noun",
+    "exampleSentence": "We were deeply touched by the warm hospitality of the villagers.",
+    "phonetic": "/ˌhɑː.spɪˈtæl.ə.t̬i/"
+  },
+  {
+    "vocabulary": "sightseeing",
+    "vietnameseMeaning": "việc tham quan ngắm cảnh",
+    "wordType": "noun",
+    "exampleSentence": "We spent the entire afternoon sightseeing around the old quarters.",
+    "phonetic": "/ˈsaɪtˌsiː.ɪŋ/"
+  },
+  {
+    "vocabulary": "passport",
+    "vietnameseMeaning": "hộ chiếu",
+    "wordType": "noun",
+    "exampleSentence": "Ensure your passport is valid for at least six months before traveling.",
+    "phonetic": "/ˈpæs.pɔːrt/"
+  },
+  {
+    "vocabulary": "refreshing",
+    "vietnameseMeaning": "sảng khoái, tươi mát, dễ chịu",
+    "wordType": "adjective",
+    "exampleSentence": "A glass of fresh coconut water is truly refreshing on a warm afternoon.",
+    "phonetic": "/rɪˈfreʃ.ɪŋ/"
+  },
+  {
+    "vocabulary": "shuttle",
+    "vietnameseMeaning": "xe đưa đón chuyên tuyến",
+    "wordType": "noun",
+    "exampleSentence": "The resort provides a free shuttle bus to the beach every thirty minutes.",
+    "phonetic": "/ˈʃʌt̬.əl/"
+  },
+  {
+    "vocabulary": "reception",
+    "vietnameseMeaning": "quầy lễ tân, nơi tiếp đón",
+    "wordType": "noun",
+    "exampleSentence": "You can collect your room key card directly at the reception.",
+    "phonetic": "/rɪˈsep.ʃən/"
+  },
+  {
+    "vocabulary": "authentic",
+    "vietnameseMeaning": "chính gốc, chuẩn vị truyền thống",
+    "wordType": "adjective",
+    "exampleSentence": "This small family eatery serves authentic street food at reasonable prices.",
+    "phonetic": "/ɑːˈθen.t̬ɪk/"
+  },
+  {
+    "vocabulary": "currency",
+    "vietnameseMeaning": "tiền tệ quốc gia",
+    "wordType": "noun",
+    "exampleSentence": "You can exchange foreign currency at official banks and airport kiosks.",
+    "phonetic": "/ˈkɝː.ən.si/"
+  },
+  {
+    "vocabulary": "breeze",
+    "vietnameseMeaning": "làn gió nhẹ mát lành",
+    "wordType": "noun",
+    "exampleSentence": "A cool evening breeze swept across the open balcony.",
+    "phonetic": "/briːz/"
+  },
+  {
+    "vocabulary": "journey",
+    "vietnameseMeaning": "hành trình, chuyến đi",
+    "wordType": "noun",
+    "exampleSentence": "Enjoy the journey as much as the final destination.",
+    "phonetic": "/ˈdʒɝː.ni/"
+  },
+  {
+    "vocabulary": "memorable",
+    "vietnameseMeaning": "đáng nhớ, ấn tượng sâu đậm",
+    "wordType": "adjective",
+    "exampleSentence": "Watching lanterns float along the river was a memorable experience.",
+    "phonetic": "/ˈmem.ər.ə.bəl/"
+  },
+  {
+    "vocabulary": "landscape",
+    "vietnameseMeaning": "cảnh quan, phong cảnh vùng đất",
+    "wordType": "noun",
+    "exampleSentence": "Terraced rice fields create a magnificent landscape in the northern highlands.",
+    "phonetic": "/ˈlænd.skeɪp/"
+  },
+  {
+    "vocabulary": "welcome",
+    "vietnameseMeaning": "chào đón nồng nhiệt",
+    "wordType": "verb",
+    "exampleSentence": "The hotel staff warmly welcomed us with fresh flower garlands.",
+    "phonetic": "/ˈwel.kəm/"
+  },
+  {
+    "vocabulary": "adventure",
+    "vietnameseMeaning": "chuyến phiêu lưu, trải nghiệm thú vị",
+    "wordType": "noun",
+    "exampleSentence": "Kayaking through the limestone caves was our favorite adventure.",
+    "phonetic": "/ədˈven.tʃɚ/"
+  },
+  {
+    "vocabulary": "relaxing",
+    "vietnameseMeaning": "thư thái, êm ả, dễ chịu",
+    "wordType": "adjective",
+    "exampleSentence": "Walking barefoot along the sandy beach is immensely relaxing.",
+    "phonetic": "/rɪˈlæk.sɪŋ/"
+  }
+]
